@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package jahirfiquitiva.apps.blueprint.demo
+package com.adraxas.squirclx
 
 import jahirfiquitiva.libs.frames.data.services.FramesArtSource
 

@@ -13,8 +13,15 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package jahirfiquitiva.apps.blueprint.demo
+package com.adraxas.squirclx
 
-import jahirfiquitiva.libs.kuper.providers.zooper.ZooperTemplateProvider
+/* TODO: Remove comment marks to enable
+import com.onesignal.NotificationExtenderService
+import com.onesignal.OSNotificationReceivedResult
+import jahirfiquitiva.libs.frames.helpers.extensions.framesKonfigs
 
-class ZooperProvider : ZooperTemplateProvider()
+class NotificationService : NotificationExtenderService() {
+    override fun onNotificationProcessing(notification: OSNotificationReceivedResult?): Boolean =
+            !framesKonfigs.notificationsEnabled
+}
+*/

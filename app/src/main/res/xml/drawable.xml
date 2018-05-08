@@ -19,8 +19,30 @@
   -->
 
 <resources>
+
     <version>1</version>
 
-    <category title="Category"/>
-    <item drawable="icon"/>
+    <category title="Latest"/>
+    <item drawable="camera_oneplus"/>
+    <item drawable="firefox"/>
+    <item drawable="waze"/>
+    <item drawable="weightwatchers"/>
+
+
+    <category title="Network"/>
+    <item drawable="firefox"/>
+
+    <category title="System"/>
+    <item drawable="camera_oneplus"/>
+
+    <category title="Google Apps"/>
+
+    <category title="Games"/>
+
+    <category title="All"/>
+    <item drawable="camera_oneplus"/>
+    <item drawable="firefox"/>
+    <item drawable="waze"/>
+    <item drawable="weightwatchers"/>
+
 </resources>
