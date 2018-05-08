@@ -19,12 +19,31 @@
   -->
 
 <resources>
-
     <version>1</version>
     <category title="All"/>
+    <item drawable="authy"/>
+    <item drawable="bbtan"/>
+    <item drawable="boursorama"/>
+    <item drawable="calculator"/>
     <item drawable="camera_oneplus"/>
+    <item drawable="camscanner"/>
+    <item drawable="contact"/>
+    <item drawable="drive"/>
+    <item drawable="duel_links"/>
+    <item drawable="fifa_companion"/>
     <item drawable="firefox"/>
+    <item drawable="freeflight_mini"/>
+    <item drawable="gallery"/>
+    <item drawable="gmail"/>
+    <item drawable="hangout"/>
+    <item drawable="hearthstone"/>
+    <item drawable="hoplite"/>
+    <item drawable="just_eat"/>
+    <item drawable="linxo"/>
+    <item drawable="ma_banque"/>
+    <item drawable="recorder"/>
+    <item drawable="sketch"/>
+    <item drawable="user_review"/>
     <item drawable="waze"/>
     <item drawable="weightwatchers"/>
-
 </resources>

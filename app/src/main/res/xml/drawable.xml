@@ -23,25 +23,97 @@
     <version>1</version>
 
     <category title="Latest"/>
+    <item drawable="mixplorer"/>
+    <item drawable="ma_banque"/>
+    <item drawable="linxo"/>
+    <item drawable="just_eat"/>
+    <item drawable="hoplite"/>
+    <item drawable="bbtan"/>
+    <item drawable="hangout"/>
+    <item drawable="hearthstone"/>
+    <item drawable="gmail"/>
+    <item drawable="gallery"/>
+    <item drawable="freeflight_mini"/>
+    <item drawable="recorder"/>
+    <item drawable="drive"/>
+    <item drawable="sketch"/>
+    <item drawable="contact"/>
+    <item drawable="user_review"/>
+    <item drawable="camscanner"/>
+    <item drawable="calculator"/>
+    <item drawable="boursorama"/>
+    <item drawable="authy"/>
     <item drawable="camera_oneplus"/>
+    <item drawable="fifa_companion"/>
     <item drawable="firefox"/>
     <item drawable="waze"/>
     <item drawable="weightwatchers"/>
 
+    <category title="Tools"/>
+    <item drawable="camscanner"/>
+    <item drawable="sketch"/>
+    <item drawable="mixplorer"/>
+
+    <category title="Business"/>
+    <item drawable="boursorama"/>
+    <item drawable="linxo"/>
+    <item drawable="ma_banque"/>
+
+    <category title="Commerce"/>
+    <item drawable="just_eat"/>
+
+    <category title="Security"/>
+    <item drawable="authy"/>
 
     <category title="Network"/>
     <item drawable="firefox"/>
 
     <category title="System"/>
+    <item drawable="calculator"/>
+    <item drawable="contact"/>
     <item drawable="camera_oneplus"/>
+    <item drawable="gallery"/>
+    <item drawable="recorder"/>
 
     <category title="Google Apps"/>
+    <item drawable="drive"/>
+    <item drawable="gmail"/>
 
     <category title="Games"/>
+    <item drawable="bbtan"/>
+    <item drawable="duel_links"/>
+    <item drawable="fifa_companion"/>
+    <item drawable="hearthstone"/>
+    <item drawable="hoplite"/>
+
+    <category title="Lifestyle"/>
+    <item drawable="weightwatchers"/>
 
     <category title="All"/>
+    <item drawable="authy"/>
+    <item drawable="bbtan"/>
+    <item drawable="boursorama"/>
+    <item drawable="calculator"/>
     <item drawable="camera_oneplus"/>
+    <item drawable="camscanner"/>
+    <item drawable="contact"/>
+    <item drawable="drive"/>
+    <item drawable="duel_links"/>
+    <item drawable="fifa_companion"/>
     <item drawable="firefox"/>
+    <item drawable="freeflight_mini"/>
+    <item drawable="gallery"/>
+    <item drawable="gmail"/>
+    <item drawable="hangout"/>
+    <item drawable="hearthstone"/>
+    <item drawable="hoplite"/>
+    <item drawable="just_eat"/>
+    <item drawable="linxo"/>
+    <item drawable="ma_banque"/>
+    <item drawable="mixplorer"/>
+    <item drawable="recorder"/>
+    <item drawable="sketch"/>
+    <item drawable="user_review"/>
     <item drawable="waze"/>
     <item drawable="weightwatchers"/>
 
