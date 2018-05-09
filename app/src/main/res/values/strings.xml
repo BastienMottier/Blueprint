@@ -3,5 +3,5 @@
 	<string name="app_name">Squirclx</string>
 	<string name="default_download_folder">%1$s/Squirclx/Wallpapers</string>
 	<string name="app_description">Beautiful squircle icon</string>
-	<string name="json_url">toto.com/myimage</string>
+	<string name="json_url">https://www.bastienmottier.com/squirclx/wallpaper.json</string>
 </resources>

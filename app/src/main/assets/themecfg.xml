@@ -20,10 +20,8 @@
 
 <theme>
     <version>1.0</version>
-    <themeName>IconShowcase Dashboard</themeName>
-    <themeInfo>IconShowcase is a Material Design based Icon Pack dashboard template. Free and open
-        source.
-    </themeInfo>
+    <themeName>Squirclx</themeName>
+    <themeInfo>Squirclx is an icon pack which make squircle icon. Icon feel like stock.</themeInfo>
     <preview img1="preview1"/>
     <preview img2="preview2"/>
 </theme>

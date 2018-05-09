@@ -1,109 +1,226 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <resources>
+    <calendar component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}" prefix="calendar_" />
+    <calendar component="ComponentInfo{com.android.calendar/com.android.calendar.AllInOneActivity}" prefix="calendar_" />
 
-    <item
-        component="ComponentInfo{com.oneplus.camera/com.oneplus.camera.OPCameraActivity}"
-        drawable="camera_oneplus"
-    />
+
+    <item component="ComponentInfo{com.oneplus.camera/com.oneplus.camera.OPCameraActivity}"
+        drawable="camera_oneplus" />
     <item
         component="ComponentInfo{com.weightwatchers.mobile/com.weightwatchers.mobile.activity.WWSplashScreen}"
-        drawable="weightwatchers"
-    />
-    <item
-        component="ComponentInfo{com.waze/com.waze.FreeMapAppActivity}"
-        drawable="waze"
-    />
-    <item
-        component="ComponentInfo{org.mozilla.firefox/org.mozilla.firefox.App}"
-        drawable="firefox"
-    />
+        drawable="weightwatchers" />
+    <item component="ComponentInfo{com.waze/com.waze.FreeMapAppActivity}" drawable="waze" />
+    <item component="ComponentInfo{org.mozilla.firefox/org.mozilla.firefox.App}"
+        drawable="firefox" />
     <item
         component="ComponentInfo{com.authy.authy/com.authy.authy.activities.InitializationActivity}"
-        drawable="authy"
-    />
+        drawable="authy" />
     <item
         component="ComponentInfo{com.boursorama.android.clients/com.boursorama.android.clients.VisitorActivity_}"
-        drawable="boursorama"
-    />
-    <item
-        component="ComponentInfo{com.oneplus.calculator/com.oneplus.calculator.Calculator}"
-        drawable="calculator"
-    />
-    <item
-        component="ComponentInfo{com.intsig.camscanner/com.intsig.camscanner.WelcomeActivity}"
-        drawable="camscanner"
-    />
-    <item
-        component="ComponentInfo{com.oneplus.opbugreport/com.oneplus.opbugreport.OPUploadReport}"
-        drawable="user_review"
-    />
-    <item
-        component="ComponentInfo{com.ea.gp.fifaultimate/com.ea.gp.fifaultimate.FUTMobileActivity}"
-        drawable="fifa_companion"
-    />
+        drawable="boursorama" />
+    <item component="ComponentInfo{com.oneplus.calculator/com.oneplus.calculator.Calculator}"
+        drawable="calculator" />
+    <item component="ComponentInfo{com.intsig.camscanner/com.intsig.camscanner.WelcomeActivity}"
+        drawable="camscanner" />
+    <item component="ComponentInfo{com.oneplus.opbugreport/com.oneplus.opbugreport.OPUploadReport}"
+        drawable="user_review" />
+    <item component="ComponentInfo{com.ea.gp.fifaultimate/com.ea.gp.fifaultimate.FUTMobileActivity}"
+        drawable="fifa_companion" />
     <item
         component="ComponentInfo{com.android.contacts/com.oneplus.contacts.activities.OPPeopleActivity}"
-        drawable="contact"
-    />
+        drawable="contact" />
     <item
         component="ComponentInfo{com.sonymobile.sketch/com.sonymobile.sketch.dashboard.DashboardActivity}"
-        drawable="sketch"
-    />
+        drawable="sketch" />
     <item
         component="ComponentInfo{com.google.android.apps.docs/com.google.android.apps.docs.app.NewMainProxyActivity}"
-        drawable="drive"
-    />
+        drawable="drive" />
     <item
         component="ComponentInfo{jp.konami.duellinks/jp.konami.duellinks.plugins.YgomMainActivity}"
-        drawable="duel_links"
-    />
+        drawable="duel_links" />
     <item
         component="ComponentInfo{com.oneplus.soundrecorder/com.oneplus.soundrecorder.SoundRecorder}"
-        drawable="recorder"
-    />
-    <item
-        component="ComponentInfo{com.parrot.freeflight4mini/com.parrot.freeflight.SplashActivity}"
-        drawable="freeflight_mini"
-    />
-    <item
-        component="ComponentInfo{com.oneplus.gallery/com.oneplus.gallery.OPGalleryActivity}"
-        drawable="gallery"
-    />
+        drawable="recorder" />
+    <item component="ComponentInfo{com.parrot.freeflight4mini/com.parrot.freeflight.SplashActivity}"
+        drawable="freeflight_mini" />
+    <item component="ComponentInfo{com.oneplus.gallery/com.oneplus.gallery.OPGalleryActivity}"
+        drawable="gallery" />
     <item
         component="ComponentInfo{com.google.android.gm/com.google.android.gm.ConversationListActivityGmail}"
-        drawable="gmail"
-    />
+        drawable="gmail" />
     <item
         component="ComponentInfo{com.google.android.talk/com.google.android.talk.SigningInActivity}"
-        drawable="hangout"
-    />
+        drawable="hangout" />
     <item
         component="ComponentInfo{com.blizzard.wtcg.hearthstone/com.blizzard.wtcg.hearthstone.HearthstoneActivity}"
-        drawable="hearthstone"
-    />
-    <item
-        component="ComponentInfo{com.crater.bbtan/org.cocos2dx.cpp.AppActivity}"
-        drawable="bbtan"
-    />
+        drawable="hearthstone" />
+    <item component="ComponentInfo{com.crater.bbtan/org.cocos2dx.cpp.AppActivity}"
+        drawable="bbtan" />
     <item
         component="ComponentInfo{com.magmafortress.hoplite/com.magmafortress.hoplite.MainActivity}"
-        drawable="hoplite"
-    />
-    <item
-        component="ComponentInfo{com.justeat.app.fr/com.justeat.app.ui.SplashActivity}"
-        drawable="just_eat"
-    />
+        drawable="hoplite" />
+    <item component="ComponentInfo{com.justeat.app.fr/com.justeat.app.ui.SplashActivity}"
+        drawable="just_eat" />
     <item
         component="ComponentInfo{com.linxo.androlinxo/com.linxo.androlinxo.featurebase.ui.demo.splash.SplashActivity}"
-        drawable="linxo"
-    />
+        drawable="linxo" />
     <item
         component="ComponentInfo{fr.creditagricole.androidapp/fr.creditagricole.androidapp.activities.identification.ConnectionActivity}"
-        drawable="ma_banque"
+        drawable="ma_banque" />
+    <item component="ComponentInfo{com.mixplorer/com.mixplorer.activities.BrowseActivity}"
+        drawable="mixplorer" />
+    <item component="ComponentInfo{com.ustwo.monumentvalley2/com.ustwo.androidplugins.MainActivity}"
+        drawable="monument_valley_2" />
+    <item
+        component="ComponentInfo{com.sony.songpal/com.sony.songpal.app.view.overview.DeviceAndGroupActivity}"
+        drawable="music_center" />
+    <item component="ComponentInfo{com.gme.opel.owner.android/com.gm.gemini.SplashActivity}"
+        drawable="myopel" />
+    <item component="ComponentInfo{com.nike.ntc/com.nike.ntc.onboarding.OnboardingSplashActivity}"
+        drawable="nike_training_club" />
+    <item component="ComponentInfo{com.android.settings/com.android.settings.Settings}"
+        drawable="settings" />
+    <item
+        component="ComponentInfo{com.paypal.android.p2pmobile/com.paypal.android.p2pmobile.startup.activities.StartupActivity}"
+        drawable="paypal" />
+    <item
+        component="ComponentInfo{com.ideashower.readitlater.pro/com.ideashower.readitlater.activity.AppCacheCheckActivity}"
+        drawable="pocket" />
+    <item component="ComponentInfo{com.pushbullet.android/com.pushbullet.android.ui.LaunchActivity}"
+        drawable="pushbullet" />
+    <item component="ComponentInfo{com.qnap.com.qgetpro/com.qnap.com.qgetpro.Splash}"
+        drawable="qget" />
+    <item component="ComponentInfo{com.quizup.core/com.quizup.ui.client.activity.MainActivity}"
+        drawable="quizup" />
+    <item component="ComponentInfo{com.devolver.reigns2/com.unity3d.player.UnityPlayerActivity}"
+        drawable="reigns_her_majesty" />
+    <item component="ComponentInfo{com.revolut.revolut/com.revolut.ui.login.pin.LoginActivity}"
+        drawable="revolut" />
+    <item
+        component="ComponentInfo{com.runtastic.android.roadbike.pro/com.runtastic.android.activities.StartActivity}"
+        drawable="road_bike_pro" />
+    <item component="ComponentInfo{com.android.mms/com.android.mms.ui.ConversationList}"
+        drawable="sms" />
+    <item component="ComponentInfo{com.snapchat.android/com.snapchat.android.LandingPageActivity}"
+        drawable="snapchat" />
+    <item component="ComponentInfo{com.popspedia/com.popspedia.MainActivity}"
+        drawable="stashpedia" />
+    <item
+        component="ComponentInfo{com.tozelabs.tvshowtime/com.tozelabs.tvshowtime.activity.MainActivity_}"
+        drawable="tv_time" />
+    <item component="ComponentInfo{de.stocard.stocard/de.stocard.ui.main.InitActivity}"
+        drawable="stocard" />
+    <item component="ComponentInfo{org.telegram.messenger/org.telegram.ui.LaunchActivity}"
+        drawable="telegram" />
+    <item
+        component="ComponentInfo{com.android.dialer/com.oneplus.contacts.activities.OPDialtactsActivity}"
+        drawable="phone" />
+    <item
+        component="ComponentInfo{com.android.documentsui/com.android.documentsui.LauncherActivity}"
+        drawable="download" />
+    <item
+        component="ComponentInfo{com.valvesoftware.android.steam.community/com.valvesoftware.android.steam.community.activity.MainActivity}"
+        drawable="steam"
+    />
+    <item component="ComponentInfo{com.facebook.katana/com.facebook.katana.LoginActivity}"
+        drawable="facebook"
+    />
+    <item component="ComponentInfo{com.facebook.lite/com.facebook.lite.MainActivity}"
+        drawable="facebook_lite"
     />
     <item
-        component="ComponentInfo{com.mixplorer/com.mixplorer.activities.BrowseActivity}"
-        drawable="mixplorer"
+        component="ComponentInfo{com.facebook.mlite/com.facebook.mlite.coreui.view.MainActivity}"
+        drawable="messenger_lite"
     />
+    <item
+        component="ComponentInfo{com.whatsapp/com.whatsapp.Main}"
+        drawable="whatsapp"
+    />
+    <item
+        component="ComponentInfo{com.whatsapp/com.whatsapp.0}"
+        drawable="whatsapp"
+    />
+    <item
+        component="ComponentInfo{com.gbwhatsapp/com.gbwhatsapp.Main0}"
+        drawable="whatsapp"
+    />
+    <item
+        component="ComponentInfo{com.gbwhatsapp3/com.gbwhatsapp3.Main13}"
+        drawable="whatsapp"
+    />
+    <item
+        component="ComponentInfo{com.gbwhatsapp/com.gbwhatsapp.Main3}"
+        drawable="whatsapp"
+    />
+    <item
+        component="ComponentInfo{com.whatsapp.w4b/com.whatsapp.Main}"
+        drawable="whatsapp_business"
+    />
+    <item
+        component="ComponentInfo{com.instagram.android/com.instagram.android.activity.MainTabActivity}"
+        drawable="instagram"
+    />
+    <item
+        component="ComponentInfo{com.instagram.android/com.instagram.android.activity.MainTabActivity}"
+        drawable="instagram"
+    />
+    <item
+        component="ComponentInfo{com.gbinsta.android/com.gbinsta.android.activity.MainTabActivity}"
+        drawable="instagram"
+    />
+    <item
+        component="ComponentInfo{com.contextlogic.wish/com.contextlogic.wish.activity.browse.BrowseActivity}"
+        drawable="wish"
+    />
+    <item
+        component="ComponentInfo{io.yuka.android/io.yuka.android.Main.RootActivity}"
+        drawable="yuka"
+    />
+    <item
+        component="ComponentInfo{com.bitstrips.imoji/com.bitstrips.imoji.ui.LoginActivity}"
+        drawable="bitmoji"
+    />
+    <item
+        component="ComponentInfo{com.spotify.musid/com.spotify.musid.MainActivity}"
+        drawable="spotify"
+    />
+    <item
+        component="ComponentInfo{com.spotify.music/com.spotify.music.MainActivity}"
+        drawable="spotify"
+    />
+    <item
+        component="ComponentInfo{pt.mcdonalds/pt.mcdonalds.android.ui.intro.splash.SplashActivity}"
+        drawable="mcdonalds"
+    />
+    <item
+        component="ComponentInfo{com.mcdonalds.mobileapp/mcdonalds.core.SplashActivity.White}"
+        drawable="mcdonalds"
+    />
+    <item
+        component="ComponentInfo{com.booking/com.booking.startup.HomeActivity}"
+        drawable="booking"
+    />
+
+    <item
+        component="ComponentInfo{com.booking/com.booking.activity.StartActivity}"
+        drawable="booking"
+    />
+    <item
+        component="ComponentInfo{com.airbnb.android/com.airbnb.android.activities.MainActivity}"
+        drawable="airbnb"
+    />
+    <item
+        component="ComponentInfo{com.shazam.android/com.shazam.android.activities.SplashActivity}"
+        drawable="shazam"
+    />
+    <item component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity}" drawable="youtube" />
+    <item component="ComponentInfo{com.lara.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity}" drawable="youtube" />
+    <item component="ComponentInfo{com.google.android.ogyoutube/net.ogmods.youtube.OGDownloadManager1}" drawable="youtube" />
+    <item component="ComponentInfo{com.google.android.ogyoutube/com.google.android.ogyoutube.app.honeycomb.Shell$HomeActivity}" drawable="youtube" />
+    <item component="ComponentInfo{com.kabam.marvelbattle/com.explodingbarrel.Activity}" drawable="marven_tournament" />
+    <item component="ComponentInfo{com.blizzard.messenger/com.blizzard.messenger.ui.SplashActivity}" drawable="battle_net" />
+
+
+
 </resources>

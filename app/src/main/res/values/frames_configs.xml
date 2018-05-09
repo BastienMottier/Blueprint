@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<bool name="use_old_json_format">true</bool>
+	<bool name="use_old_json_format">false</bool>
 	<bool name="enable_colored_tiles">true</bool>
 	<bool name="enable_filled_collection_preview">true</bool>
 	<bool name="show_bottom_sheet">true</bool>

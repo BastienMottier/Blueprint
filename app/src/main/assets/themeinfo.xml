@@ -19,12 +19,12 @@
 
 <!-- This is for Atom Launcher -->
 <themeInfo>
-    <packageName>jahirfiquitiva.apps.iconshowcase.demo</packageName>
+    <packageName>com.adraxas.squirclx</packageName>
     <versionName>1.0</versionName>
     <versionCode>1</versionCode>
-    <themeName>IconShowcase Dashboard</themeName>
+    <themeName>Squirclx</themeName>
     <!-- Default Component Color -->
-    <themePointColor>#00b0ff</themePointColor>
+    <themePointColor>#E91E63</themePointColor>
     <themePreview img1="preview1"/>
     <preview img1="preview1"/>
 </themeInfo>
