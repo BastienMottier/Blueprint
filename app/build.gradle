@@ -29,7 +29,7 @@ android {
 
     applicationVariants.all { variant ->
         variant.outputs.all { output ->
-            outputFileName = "MyBlueprintApp-v${variant.versionName}-${variant.name}.apk"
+            outputFileName = "Squirclx-v${variant.versionName}-${variant.name}.apk"
         }
     }
 
@@ -50,8 +50,8 @@ android {
         applicationId "com.adraxas.squirclx"
         minSdkVersion versions.minSdk
         targetSdkVersion versions.targetSdk
-        versionCode 114
-        versionName "1.1.4"
+        versionCode 117
+        versionName "1.1.7"
         vectorDrawables.useSupportLibrary = true
         multiDexEnabled = true
         proguardFiles 'proguard-android-optimize.txt', 'proguard-rules.pro'

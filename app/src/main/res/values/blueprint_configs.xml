@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 	<string name="icons_preview_picture"></string>
-	<string name="email">bastien.mottier@gmail.com</string>
+	<string name="email">hello@bastienmottier.com</string>
 	<string name="email_subject">Squirclx</string>
 	<string name="request_title">Squirclx Icon Request</string>
 	<string name="request_save_location">%1$s/Squirclx/Requests/</string>

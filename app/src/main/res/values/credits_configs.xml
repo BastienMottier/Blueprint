@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+
+    <string-array name="credits_photos" formatted="false" tools:ignore="TypographyDashes">
+        <item>https://lh3.googleusercontent.com/-0mdcClKXlgM/AAAAAAAAAAI/AAAAAAAAAAA/xgdLWeAg7pM/s120-c/photo.jpg</item>
+    </string-array>
+
+    <string-array name="credits_titles">
+        <item>Bastien Mottier</item>
+    </string-array>
+
+    <string-array name="credits_descriptions">
+        <item>Creator of this icon pack. In the real life, I\'m a French Back-end developer</item>
+    </string-array>
+
+    <string-array name="credits_buttons">
+        <item>Twitter|Website|Github</item>
+    </string-array>
+
+    <string-array name="credits_links">
+        <item>https://twitter.com/Bastien_Mottier|https://www.bastienmottier.com/|https://github.com/BastienMottier</item>
+    </string-array>
+</resources>
