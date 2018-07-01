@@ -582,7 +582,6 @@
     <item component="ComponentInfo{com.tsubook/com.unity3d.player.UnityPlayerActivity}" drawable="tsubook"/>
     <item component="ComponentInfo{com.sec.android.easyMover/com.sec.android.easyMover.DistributionActivity}" drawable="samsung_switch"/>
     <item component="ComponentInfo{com.samsung.voiceserviceplatform/com.samsung.voiceserviceplatform.ui.SVoiceMainActivity}" drawable="samsung_svoice"/>
-    <item component="ComponentInfo{com.samsung.voiceserviceplatform/com.samsung.voiceserviceplatform.ui.SVoiceMainActivity}" drawable="samsung_svoice"/>
     <item component="ComponentInfo{com.brainx.rme/com.brainx.rme.Activity.SplashScreenActivity}" drawable="russian_made_easy"/>
     <item component="ComponentInfo{com.pinterest/com.pinterest.activity.PinterestActivity}" drawable="pinterest"/>
     <item component="ComponentInfo{com.samsung.android.contacts/com.android.dialer.DialtactsActivity}" drawable="samsung_phone"/>
@@ -615,6 +614,50 @@
     <item component="ComponentInfo{com.tohsoft.call.autocallrecorder.red.pro/com.tohsoft.callrecorder.autocallrecorder.SplashActivity}" drawable="call_recorder"/>
     <item component="ComponentInfo{in.dmart/in.dmart.activity.SplashActivity}" drawable="dmart"/>
     <item component="ComponentInfo{com.madfingergames.deadtrigger2/com.madfingergames.unityplayer.MFUnityPlayerNativeActivity}" drawable="dead_trigger_2"/>
+    <item component="ComponentInfo{com.vng.android.mps.dead.zombie2/com.vng.games.MainActivity}" drawable="dead_warfare"/>
+    <item component="ComponentInfo{com.firsttouchgames.dls3/com.firsttouchgames.dls3.MainActivity}" drawable="dream_league"/>
+    <item component="ComponentInfo{com.reliancegames.ss2/com.reliancegames.ss2.UnityPlayerActivity}" drawable="drone_2_air_assault"/>
+    <item component="ComponentInfo{com.mediatek.filemanager/com.mediatek.filemanager.FileManagerOperationActivity}" drawable="file"/>
+    <item component="ComponentInfo{com.sei.android/com.sei.android.controllers.activity.SplashActivity}" drawable="seveneleven"/>
+    <item component="ComponentInfo{com.rocketshipapps.adblockfast/com.rocketshipapps.adblockfast.MainActivity}" drawable="adblock_fast"/>
+    <item component="ComponentInfo{com.SagiL.calendarstatuspro/com.SagiL.calendarstatuspro.MainActivityPro}" drawable="calendar_status"/>
+    <item component="ComponentInfo{com.SagiL.calendarstatus/com.SagiL.calendarstatus.MainActivity}" drawable="calendar_status"/>
+    <item component="ComponentInfo{com.magix.camera_mx/com.magix.android.cameramx.main.LaunchingActivity}" drawable="camera_mx"/>
+    <item component="ComponentInfo{com.chase.sig.android/com.chase.sig.android.activity.HomeActivity}" drawable="chase"/>
+    <item component="ComponentInfo{com.rubbishcollector.clipboardhistory/com.rubbishcollector.clipboardhistory.ActivityMain}" drawable="clipboard_history"/>
+    <item component="ComponentInfo{com.fungamesforfree.colorfy/com.fungamesforfree.colorfy.SplashScreenActivity}" drawable="colorfy"/>
+    <item component="ComponentInfo{com.creditkarma.mobile/com.creditkarma.mobile.ui.WelcomeActivity}" drawable="credit_karma"/>
+    <item component="ComponentInfo{com.curiosity.dailycuriosity/com.curiosity.dailycuriosity.MainActivity}" drawable="curiosity"/>
+    <item component="ComponentInfo{com.dictionary/com.dictionary.Splash}" drawable="dictionary"/>
+    <item component="ComponentInfo{ru.qappstd.droper.pro/ru.qappstd.droper.activities.MainActivity}" drawable="droper"/>
+    <item component="ComponentInfo{com.ttxapps.dropsync/com.ttxapps.sync.app.MainActivity}" drawable="dropsync"/>
+    <item component="ComponentInfo{com.thsoft.shortcut.htc/com.thsoft.shortcut.circle.activity.MainActivity}" drawable="edge_launcher"/>
+    <item component="ComponentInfo{com.wonder/com.pegasus.ui.activities.LaunchActivity}" drawable="elevate"/>
+    <item component="ComponentInfo{you.in.spark.energy/you.in.spark.energy.WelcomeScreen}" drawable="energy_bar"/>
+    <item component="ComponentInfo{com.devdnua.equalizer/com.devdnua.equalizer.free.MainActivity}" drawable="equalizer_fx"/>
+    <item component="ComponentInfo{nextapp.fx/nextapp.fx.ui.ExplorerActivity}" drawable="fx"/>
+    <item component="ComponentInfo{com.neximolabs.droidtimelapsepro/com.neximolabs.droidtimelapsepro.PermissionActivity}" drawable="framelapse"/>
+    <item component="ComponentInfo{com.Nishant.Singh.DroidTimelapse/com.Nishant.Singh.DroidTimelapse.PermissionActivity}" drawable="framelapse"/>
+    <item component="ComponentInfo{com.ruh.gameboosterpro/com.ruh.gameboosterpro.GameBoosterMain}" drawable="game_booster"/>
+    <item component="ComponentInfo{com.bandungdev1.burst.camera360pro/com.antafunny.burstcamera.MainActivity}" drawable="hd_camera"/>
+    <item component="ComponentInfo{ch.smalltech.horoscope.pro/ch.smalltech.horoscope.core.Home}" drawable="horoscope_hd_pro"/>
+    <item component="ComponentInfo{com.knudge.me/com.knudge.me.activity.MainActivity}" drawable="knudge_me"/>
+    <item component="ComponentInfo{air.com.amateral.LastJourney/air.com.amateral.LastJourney.AppEntry}" drawable="last_journey"/>
+    <item component="ComponentInfo{com.life360.android.safetymapd/com.life360.android.shared.base.LauncherActivity}" drawable="life360"/>
+    <item component="ComponentInfo{com.lightx/com.lightx.activities.LightxActivity}" drawable="lightx"/>
+    <item component="ComponentInfo{arun.com.chromer/arun.com.chromer.MainActivity}" drawable="lynket"/>
+    <item component="ComponentInfo{com.xflag.marveltsumtsumGL/org.cocos2dx.cpp.AppActivity}" drawable="marvel_tsum"/>
+    <item component="ComponentInfo{com.ilite.magnify.magnifyingglass/com.ilite.magnify.magnifyingglass.ui.MainActivity}" drawable="magnifying_glass"/>
+    <item component="ComponentInfo{com.lsdinfotech.medicationlist/com.lsdinfotech.medicationlist.MainActivity}" drawable="medication_list"/>
+    <item component="ComponentInfo{com.android.settings/com.android.settings.Settings$WifiApSettingsActivity}" drawable="mobile_hotspot"/>
+    <item component="ComponentInfo{com.sec.android.app.music/com.sec.android.app.music.common.activity.MusicMainActivity}" drawable="samsung_music"/>
+    <item component="ComponentInfo{com.andatsoft.myapk.fwa/com.andatsoft.app.myapk.screen.SplashActivity}" drawable="my_apk"/>
+    <item component="ComponentInfo{com.perfectapps.muviz/com.perfectapps.muviz.activity.HomeActivity}" drawable="muviz"/>
+    <item component="ComponentInfo{com.rocketsloth.nebula/com.rocketsloth.nebula.utilities.SplashActivity}" drawable="nebula"/>
+    <item component="ComponentInfo{com.atejapps.networksignalrefresherpro/com.atejapps.networksignalrefresherpro.NetworkSigRefProMain}" drawable="network_signal_refresher"/>
+    <item component="ComponentInfo{com.ascendik.eyeshieldpro/com.ascendik.nightshift.activity.MainActivity}" drawable="night_shift"/>
+    <item component="ComponentInfo{com.sec.android.app.ocr3/com.sec.android.app.ocr3.OCR}" drawable="samsung_optical_reader"/>
+
 
 
 
