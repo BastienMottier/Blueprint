@@ -50,8 +50,8 @@ android {
         applicationId "com.adraxas.squirclx"
         minSdkVersion versions.minSdk
         targetSdkVersion versions.targetSdk
-        versionCode 1117
-        versionName "1.1.17"
+        versionCode 120
+        versionName "1.2.0"
         vectorDrawables.useSupportLibrary = true
         multiDexEnabled = true
         proguardFiles 'proguard-android-optimize.txt', 'proguard-rules.pro'
