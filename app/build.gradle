@@ -50,7 +50,7 @@ android {
         applicationId "com.adraxas.squirclx"
         minSdkVersion versions.minSdk
         targetSdkVersion versions.targetSdk
-        versionCode 120
+        versionCode 1120
         versionName "1.2.0"
         vectorDrawables.useSupportLibrary = true
         multiDexEnabled = true
