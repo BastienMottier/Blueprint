@@ -23,7 +23,7 @@
 # If you keep the line number information, uncomment this to
 # hide the original source file name.
 #-renamesourcefileattribute SourceFile
--keep class !android.support.v7.internal.view.menu**,** {*;}
+-keep class android.support.v7.view.menu** {*;}
 -keep class android.support.v7.graphics.** {*;}
 
 -keep public class * implements com.bumptech.glide.module.GlideModule
@@ -33,10 +33,18 @@
   **[] $VALUES;
   public *;
 }
+-keep public enum com.bumptech.glide.load.ImageHeaderParser$** {
+  **[] $VALUES;
+  public *;
+}
 
+-keep class android.support.design.widget.NavigationView { *; }
+
+-keep public class android.app.ActivityTransitionCoordinator
 -keep class jahirfiquitiva.libs.frames.** { *; }
 -keep class jahirfiquitiva.libs.kuper.** { *; }
 -keep class jahirfiquitiva.libs.blueprint.** { *; }
+-keep class jahirfiquitiva.libs.kext.** { *; }
 
 -keep class com.google.**
 -keep class autovalue.shaded.com.google.**
@@ -51,6 +59,15 @@
 -dontwarn okhttp3.**
 -dontwarn okio.**
 -dontwarn javax.annotation.**
+
+# Retain generic type information for use by reflection by converters and adapters.
+-keepattributes Signature
+# Retain service method parameters.
+-keepclassmembernames,allowobfuscation interface * {
+    @retrofit2.http.* <methods>;
+}
+# Ignore annotation used for build tooling.
+-dontwarn org.codehaus.mojo.animal_sniffer.IgnoreJRERequirement
 
 -dontwarn
 -ignorewarnings

@@ -4,6 +4,55 @@
 
 		<version>1</version>
 
+	    <category title="Google"/>
+		<item drawable="gmail" />
+		<item drawable="google_admin" />
+		<item drawable="google_adsense" />
+		<item drawable="google_allo" />
+		<item drawable="google_analytics" />
+		<item drawable="google_assistant" />
+		<item drawable="google_authentificator" />
+		<item drawable="google_docs" />
+		<item drawable="google_earth" />
+		<item drawable="google_find_my_device" />
+		<item drawable="google_fit" />
+		<item drawable="google_gboard" />
+		<item drawable="google_home" />
+		<item drawable="google_inbox" />
+		<item drawable="google_keep" />
+		<item drawable="google_lens" />
+		<item drawable="google_maps" />
+		<item drawable="google_my_business" />
+		<item drawable="google_my_maps" />
+		<item drawable="google_news" />
+		<item drawable="google_pay" />
+		<item drawable="google_pdf" />
+		<item drawable="google_photo" />
+		<item drawable="google_photo2" />
+		<item drawable="google_play_books" />
+		<item drawable="google_play_books2" />
+		<item drawable="google_play_games" />
+		<item drawable="google_play_games2" />
+		<item drawable="google_play_movie" />
+		<item drawable="google_play_movie2" />
+		<item drawable="google_play_music" />
+		<item drawable="google_play_music2" />
+		<item drawable="google_play_newsstand" />
+		<item drawable="google_play_newsstand2" />
+		<item drawable="google_play_store" />
+		<item drawable="google_play_store2" />
+		<item drawable="google_plus" />
+		<item drawable="google_rewards" />
+		<item drawable="google_sheets" />
+		<item drawable="google_slides" />
+		<item drawable="google_street_view" />
+		<item drawable="google_task" />
+		<item drawable="google_translate" />
+		<item drawable="google_voice" />
+		<item drawable="google_wallpaper" />
+		<item drawable="google_wear_os" />
+		<item drawable="google_wifi" />
+
 		<category title="All"/>
 		<item drawable="a_better_camera" />
 		<item drawable="abs_core" />

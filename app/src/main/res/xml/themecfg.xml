@@ -23,6 +23,6 @@
     <themeName>Squirclx</themeName>
     <themeInfo>Squirclx is an icon pack which make squircle icon. Icon feel like stock.
     </themeInfo>
-    <preview img1="preview1"/>
-    <preview img2="preview2"/>
+    <preview img1="preview1" />
+    <preview img2="preview2" />
 </theme>

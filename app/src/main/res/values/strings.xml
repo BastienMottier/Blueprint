@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<string name="app_name">Squirclx</string>
-	<string name="default_download_folder">%1$s/Squirclx/Wallpapers</string>
-	<string name="app_description">Squirclx is an icon pack which make squircle icon. Icon feel like stock.</string>
-	<string name="json_url">https://www.bastienmottier.com/squirclx/wallpaper.json</string>
+    <!-- Your app name -->
+    <string name="app_name">Squirclx</string>
+
+    <!--    This one applies for Muzei too. Try not to exceed a tweet length (140 characters) -->
+    <string name="app_description">Squirclx is an icon pack which make squircle icon. Icon feel like stock.</string>
+
+    <!--    TODO: Change this link -->
+    <!--    This is the link for the JSON file where you have listed your wallpapers -->
+    <string name="json_url">https://www.bastienmottier.com/squirclx/wallpaper.json</string>
+
+    <!--    Default wallpapers download folder. Always write it like '%1$s/xxxxxxx' -->
+    <string name="default_download_folder">%1$s/Squirclx/Wallpapers</string>
 </resources>
