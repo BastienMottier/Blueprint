@@ -16,7 +16,7 @@
 package com.adraxas.squirclx
 
 import com.github.javiersantos.piracychecker.PiracyChecker
-import jahirfiquitiva.libs.blueprint.data.models.NavigationItem
+import jahirfiquitiva.libs.blueprint.models.NavigationItem
 import jahirfiquitiva.libs.blueprint.ui.activities.BottomNavigationBlueprintActivity
 
 /**
