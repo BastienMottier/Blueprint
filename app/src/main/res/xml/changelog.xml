@@ -15,7 +15,7 @@
   ~ limitations under the License.
   -->
 <resources>
-    <version title="v1.2.0"/>
-    <item text="Added 93 icons"/>
-    <item text="Update dashboard"/>
+    <version title="v1.2.3"/>
+    <item text="Added 62 icons"/>
+    <item text="Added new filter"/>
 </resources>
