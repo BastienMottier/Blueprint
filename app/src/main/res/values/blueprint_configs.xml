@@ -38,6 +38,7 @@
         Leave empty if you don't want to use a static one.
     -->
     <string name="icons_preview_picture"></string>
+    <bool name="static_preview_picture_by_default">false</bool>
 
     <!--
         Do you want the app to read the icons from res/xml/drawable.xml ? (true)
@@ -58,7 +59,7 @@
         True, means yes.
         False, means no.
     -->
-    <bool name="enable_colored_cards">false</bool>
+    <bool name="enable_colored_cards">true</bool>
 
     <!--
     1. Set the max amount of apps to request.

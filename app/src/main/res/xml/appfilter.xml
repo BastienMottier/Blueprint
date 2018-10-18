@@ -515,6 +515,7 @@
     <item component="ComponentInfo{com.globe.gcash.android/gcash.module.splashscreen.SplashScreenActivity}" drawable="gcash"/>
     <item component="ComponentInfo{com.sec.android.app.samsungapps/com.sec.android.app.samsungapps.SamsungAppsMainActivity}" drawable="galaxy_app"/>
     <item component="ComponentInfo{com.sec.android.gallery3d/com.sec.android.gallery3d.app.GalleryOpaqueActivity}" drawable="samsung_gallery"/>
+    <item component="ComponentInfo{com.sec.android.gallery3d/com.sec.android.gallery3d.app.Gallery}" drawable="samsung_gallery"/>
     <item component="ComponentInfo{com.samsung.android.game.gamehome/com.samsung.android.game.gamehome.activity.StartActivity}" drawable="samsung_game_launcher"/>
     <item component="ComponentInfo{com.huawei.mw/com.huawei.mw.plugin.guide.activity.IntroduceActivity}" drawable="huawei_hilink"/>
     <item component="ComponentInfo{ru.irk.ang.balsan.shortcutled/ru.irk.ang.balsan.shortcuttorch.MainActivity}" drawable="icon_torch"/>
@@ -1485,7 +1486,6 @@
     <item component="ComponentInfo{com.sl.SLBiljetter/com.sl.SLBiljetter.Base}" drawable="sl_journey_planner"/>
     <item component="ComponentInfo{com.wallify.hdwallpaper/com.wallify.hdwallpaper.ui.SplashActivity}" drawable="wallify"/>
     <item component="ComponentInfo{com.ea.games.r3_na/com.firemint.realracing.MainActivity}" drawable="real_racing_3"/>
-
     <item component="ComponentInfo{com.handycloset.android.eraser/com.handycloset.android.eraser.MainActivity}" drawable="eraser"/>
     <item component="ComponentInfo{com.microblink.photomath/com.microblink.photomath.main.LauncherActivity}" drawable="photomath"/>
     <item component="ComponentInfo{com.nintendo.zaca/com.snslinkage.dena.snslinkageunityplugin.SnsLinkageSafeUnityPlayerNativeActivity}" drawable="pocket_camp"/>
@@ -1511,5 +1511,37 @@
     <item component="ComponentInfo{com.ktmb.mobileticketing/com.ktmb.mobileticketing.KtmbMobticketActivity}" drawable="ktmb"/>
     <item component="ComponentInfo{in.trainman.trainmanandroidapp/in.trainman.trainmanandroidapp.SplashScreen}" drawable="trainman"/>
     <item component="ComponentInfo{com.hsv.privatebrowser/com.google.android.apps.chrome.Main}" drawable="private_browser"/>
+
+    <item component="ComponentInfo{projekt.launcher/projekt.launcher.ProjektLauncher}" drawable="hyperion_launcher"/>
+    <item component="ComponentInfo{com.learnsolo.flipinodictionaryoffline/com.learnsolo.flipinodictionaryoffline.firstmoduleactivities.SplashActivity}" drawable="english_to_tagalog"/>
+    <item component="ComponentInfo{com.ushareit.listenit/com.ushareit.listenit.main.StartupActivity}" drawable="listenit"/>
+    <item component="ComponentInfo{ginlemon.flowerfree/ginlemon.flower.HomeScreen}" drawable="smart_launcher"/>
+    <item component="ComponentInfo{com.dts.freefireth/com.dts.freefireth.FFMainActivity}" drawable="garena_free_fire"/>
+    <item component="ComponentInfo{com.lynxspa.bancopopolare/com.lynxspa.bancopopolare.commons.YouAppMainActivity}" drawable="banco_bpm"/>
+    <item component="ComponentInfo{com.fitifyapps.bwstretching/com.fitifyapps.common.ui.sets.MainActivity}" drawable="stretching"/>
+    <item component="ComponentInfo{com.Fraom.GelDark/com.Fraom.GelDark.ui.SplashScreen}" drawable="gel_dark"/>
+    <item component="ComponentInfo{com.jrummy.font.installer/com.jrummyapps.fontfix.activities.FontListActivity}" drawable="fontfix"/>
+    <item component="ComponentInfo{com.Fraom.Smugy/com.Fraom.Smugy.activities.SplashActivity}" drawable="smugy_ui"/>
+    <item component="ComponentInfo{com.armadill.thewikigame/com.armadill.thewikigame.MainActivity}" drawable="the_wiki_game"/>
+    <item component="ComponentInfo{com.btpn.dc/com.jenius2.MainActivity}" drawable="jenius"/>
+    <item component="ComponentInfo{ru.deishelon.lab.huaweithememanager/ru.deishelon.lab.huaweithememanager.ui.activities.ThemesActivity}" drawable="huawei_theme_manager"/>
+    <item component="ComponentInfo{com.outerminds.h3h3/com.google.firebase.MessagingUnityPlayerActivity}" drawable="h3h3"/>
+    <item component="ComponentInfo{com.miniclip.plagueinc/com.miniclip.plagueinc.PlagueIncActivity}" drawable="plague_inc"/>
+    <item component="ComponentInfo{net.nullsum.doom/net.nullsum.doom.EntryActivity}" drawable="gzdoom"/>
+    <item component="ComponentInfo{com.vimlaapp/com.vimlaapp.MainActivity}" drawable="vimla"/>
+    <item component="ComponentInfo{com.shiro.kinesisapp/com.example.shiro.kinesisapp.activities.MainActivity}" drawable="kinesis"/>
+    <item component="ComponentInfo{com.franco.focus.lite/com.franco.focus.lite.activities.Main}" drawable="focus_go"/>
+    <item component="ComponentInfo{com.appzoro.sam3.vinwiki/com.appzoro.sam3.vinwiki.activity.SplashActivity}" drawable="vin_wiki"/>
+    <item component="ComponentInfo{com.easybrain.sudoku.android/com.easybrain.sudoku.gui.splash.SplashActivity}" drawable="sudoku"/>
+    <item component="ComponentInfo{com.nuance.nmc.sihome.metropcs/com.nuance.nmc.sihome.metropcs.myMetro}" drawable="my_metro"/>
+    <item component="ComponentInfo{com.sony.tvsideview.phone/com.sony.tvsideview.MainActivity}" drawable="tv_sideview"/>
+    <item component="ComponentInfo{com.smartprix.main/com.smartprix.main.MainActivity}" drawable="smart_prix"/>
+    <item component="ComponentInfo{com.motion.milkywayWallpapers4KPRO/com.dynto.wallpapers_pro.activities.SplashActivity}" drawable="milkyway_wallpapers"/>
+    <item component="ComponentInfo{com.frostnerd.dnschanger/com.frostnerd.dnschanger.activities.PinActivity}" drawable="dnschanger"/>
+    <item component="ComponentInfo{com.instcoffee.instlife/com.unity3d.player.UnityPlayerActivity}" drawable="instlife"/>
+    <item component="ComponentInfo{com.tencent.mobileqq/com.tencent.mobileqq.activity.SplashActivity}" drawable="qq"/>
+    <item component="ComponentInfo{com.erza.vishal/com.erza.vishal.MainActivity}" drawable="erza_iconpack"/>
+    <item component="ComponentInfo{tonybits.com.ffhq/tonybits.com.ffhq.activities.SplashScreenActivity}" drawable="freeflix_hq"/>
+    <item component="ComponentInfo{com.themezilla.fab.pro/com.themezilla.fab.pro.activities.SplashActivity}" drawable="fabpro"/>
 
 </resources>
