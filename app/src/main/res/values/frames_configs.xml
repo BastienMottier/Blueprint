@@ -25,8 +25,8 @@
 
     <!--    These are your donation items. Only put their ids here -->
     <string-array name="donation_items">
-        <item>coffee</item>
-        <item>pizza</item>
-        <item>burger</item>
+        <item>buy_me_a_coffee</item>
+        <item>buy_me_a_beer</item>
+        <item>support_my_work</item>
     </string-array>
 </resources>

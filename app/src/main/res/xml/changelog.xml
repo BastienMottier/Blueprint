@@ -15,8 +15,6 @@
   ~ limitations under the License.
   -->
 <resources>
-    <version title="v1.2.15"/>
-    <item text="Added support for 47 new apps"/>
-    <item text="Added 47 new icons"/>
-    <item text="Display icon preview on home, click to refresh !"/>
+    <version title="v1.2.21"/>
+    <item text="37 new icons!"/>
 </resources>
