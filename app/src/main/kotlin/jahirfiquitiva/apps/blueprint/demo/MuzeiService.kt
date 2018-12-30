@@ -13,25 +13,8 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-ext.versions = [
-        // Projects
-        minSdk    : 16,
-        targetSdk : 28,
-        buildTools: '28.0.1',
-        // Gradle Plugins
-        gradle    : '3.2.1',
-        kotlin    : '1.3.11',
-        // Dependencies
-        oneSignal : '3.10.5'
-]
+package jahirfiquitiva.apps.blueprint.demo
 
-ext.gradlePlugins = [
-        android: 'com.android.tools.build:gradle:' + versions.gradle,
-        kotlin : 'org.jetbrains.kotlin:kotlin-gradle-plugin:' + versions.kotlin,
-        libs   : 'com.github.dcendents:android-maven-gradle-plugin:' + versions.libs
-]
+import jahirfiquitiva.libs.frames.data.services.FramesArtProvider
 
-ext.libraries = [
-        // OneSignal
-        oneSignal: 'com.onesignal:OneSignal:' + versions.oneSignal
-]
+class MuzeiService : FramesArtProvider()
