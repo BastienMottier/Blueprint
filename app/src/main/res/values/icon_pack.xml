@@ -19,2505 +19,2441 @@
 
     <!-- Make sure to put at least 8 icons -->
     <string-array name="icons_preview">
-        <item>google_fit</item>
-        <item>google_device_policy</item>
-        <item>google</item>
-        <item>google_pay_send</item>
-        <item>gif_me</item>
-        <item>ghost_pop</item>
-        <item>geometry_dash</item>
-        <item>geo_caching</item>
-        <item>netgear_genie</item>
-        <item>nikas_analytics_widget</item>
-        <item>gamers_wallpapers</item>
-        <item>gamers_db</item>
-        <item>razer_gamedeals</item>
-        <item>razer_gamebooster</item>
-        <item>flutter_gallery</item>
-        <item>asus_gallery</item>
-        <item>arcturus_gallery</item>
-        <item>galaxy_s8_digital_clock</item>
-        <item>future_wallpapers</item>
-        <item>free_vpn_master</item>
-        <item>frandroid</item>
-        <item>fotmob</item>
-        <item>formed</item>
-        <item>football_wallpapers</item>
-        <item>food_panda</item>
-        <item>fnb_banking_app</item>
-        <item>motorola_fm_radio</item>
-        <item>flyme_7_iconpack</item>
-        <item>flowers_wallpapers</item>
-        <item>flats</item>
-        <item>flatlay_wallpapers</item>
-        <item>flat_minimal_iconpack</item>
-        <item>flags</item>
-        <item>fk_kernel_manager</item>
-        <item>fit_sport</item>
-        <item>first_aids</item>
-        <item>fire_emblem_wiki</item>
-        <item>fidget_spinner</item>
-        <item>ff15_pe</item>
-        <item>fate_go</item>
-        <item>ez_cast</item>
-        <item>eye_care</item>
-        <item>vonage_extension</item>
-        <item>exiles</item>
-        <item>ex_dialer</item>
-        <item>ewtn</item>
-        <item>european_war_4_napoleon</item>
-        <item>economic_times</item>
-        <item>era</item>
-        <item>simple_mail</item>
-        <item>bass_booster</item>
-        <item>equalizer</item>
-        <item>epson_iprint</item>
-        <item>encode</item>
-        <item>en_tl_dict</item>
-        <item>emp_shop</item>
-        <item>elta_iconpack</item>
-        <item>eltobola</item>
-        <item>elba</item>
-        <item>ef_cleaner</item>
-        <item>eatigo</item>
-        <item>easy_fire_tools</item>
-        <item>easy_coder</item>
-        <item>earth_wallpapers</item>
-        <item>earth_iconpack</item>
-        <item>synology_router</item>
-        <item>synology_file</item>
-        <item>synology_cloud</item>
-        <item>drops</item>
-        <item>droidbug_busybox_advance_free</item>
-        <item>drm_info</item>
-        <item>domka_iconpack</item>
-        <item>digical</item>
-        <item>diabetes_monitor</item>
-        <item>samsung_device_maintenance</item>
-        <item>device_infos</item>
-        <item>dev_utils</item>
-        <item>destiny</item>
-        <item>desjardins</item>
-        <item>default_dark_theme</item>
-        <item>capital_one_canada</item>
-        <item>canada_post</item>
-        <item>bible_offline</item>
-        <item>beyond_pod</item>
-        <item>bandcamp</item>
-        <item>bacon_reader</item>
-        <item>air_visual</item>
-        <item>the_sandbox_evolution</item>
-        <item>orange_et_moi</item>
-        <item>orange_cineday</item>
-        <item>samsung_smart_manager</item>
-        <item>restory</item>
-        <item>my_tnb</item>
-        <item>muslim_pro</item>
-        <item>squid</item>
-        <item>ecosia</item>
-        <item>dcoder</item>
-        <item>dark_diary</item>
-        <item>black_search</item>
-        <item>downwell</item>
-        <item>d_notes</item>
-        <item>cxx_droid</item>
-        <item>aeris_currency_converter</item>
-        <item>crit_dice</item>
-        <item>cpp_droid</item>
-        <item>cpp_n_ide</item>
-        <item>razer_cortex</item>
-        <item>asus_contact</item>
-        <item>connectbot</item>
-        <item>codex</item>
-        <item>text_converter</item>
-        <item>codeboard</item>
-        <item>cliqq</item>
-        <item>razer_chroma</item>
-        <item>chess</item>
-        <item>check_su</item>
-        <item>catawiki</item>
-        <item>case_animatronics</item>
-        <item>cartogram</item>
-        <item>asus_camera</item>
-        <item>razer_camera</item>
-        <item>photo_calculator</item>
-        <item>asus_calculator</item>
-        <item>busybox_installer</item>
-        <item>brim</item>
-        <item>bloons_td_5</item>
-        <item>black_wallpapers</item>
-        <item>bitly</item>
-        <item>bens_pretzel</item>
-        <item>aviation_dictionary</item>
-        <item>avast_vpn</item>
-        <item>aurdroid</item>
-        <item>assist_mapper</item>
-        <item>apps_giveway</item>
-        <item>apk_extrator_pro</item>
-        <item>splitwise</item>
-        <item>root_explorer</item>
-        <item>mercado_libre</item>
-        <item>desplash</item>
-        <item>anime_tv</item>
-        <item>androoster</item>
-        <item>amolet_wallpapers_4k_2</item>
-        <item>amoled_wallpapers_4k</item>
-        <item>aloha_browser</item>
-        <item>ac_rebellion</item>
-        <item>gmail</item>
-        <item>wallpaper_4k</item>
-        <item>one_one_one_one</item>
-        <item>shrug</item>
-        <item>swift_black</item>
-        <item>starless</item>
-        <item>snapdeal</item>
-        <item>smartnews</item>
-        <item>pixel_filter</item>
-        <item>notin</item>
-        <item>net_velocity</item>
-        <item>my_idea</item>
-        <item>medibang_paint</item>
-        <item>manga_rock</item>
-        <item>m_indicator</item>
-        <item>kustom_lwp</item>
-        <item>ios11_iconpack</item>
-        <item>india_drug_index</item>
-        <item>idbi_bank</item>
-        <item>hotlink_red</item>
-        <item>hangout_dialer</item>
-        <item>fasthub</item>
-        <item>cx_file_explorer</item>
-        <item>andromeda</item>
-        <item>miui_hidden_settings</item>
-        <item>ministry_assistant</item>
-        <item>jw_library</item>
-        <item>home_workout</item>
-        <item>amazon_music</item>
-        <item>hello_stars</item>
-        <item>grofers</item>
-        <item>du_gif_maker</item>
-        <item>dsblq</item>
-        <item>drupe</item>
-        <item>dream_book</item>
-        <item>display_calibration</item>
-        <item>dimly</item>
-        <item>digital_clock_widget</item>
-        <item>did_you_know</item>
-        <item>es_rae</item>
-        <item>device_unlock</item>
-        <item>delivery_much</item>
-        <item>deino_iconpack</item>
-        <item>deezloader</item>
-        <item>debonairspizza</item>
-        <item>date_calculator</item>
-        <item>dark_void</item>
-        <item>daily_hunt</item>
-        <item>daily_scripture</item>
-        <item>daily_horoscope_androidz</item>
-        <item>daily_horoscope_click</item>
-        <item>castify</item>
-        <item>bq_on</item>
-        <item>bnz_mobile</item>
-        <item>arcai_netcut</item>
-        <item>air_nz</item>
-        <item>aimp_player</item>
-        <item>pixel_icons</item>
-        <item>pixel_pie</item>
-        <item>pixel_iconpack2</item>
-        <item>after_pay</item>
-        <item>screen_filter</item>
-        <item>olx</item>
-        <item>irctc_air</item>
-        <item>hinkhoj_dictionary</item>
-        <item>asus_file_manager</item>
-        <item>dehli_metro_rail</item>
-        <item>footej_camera</item>
-        <item>asus_router</item>
-        <item>yeelight</item>
-        <item>microsoft_next</item>
-        <item>bing</item>
-        <item>linkedin_lite</item>
-        <item>france_24</item>
-        <item>cnn</item>
-        <item>turbo_vpn</item>
-        <item>nordvpn_alt</item>
-        <item>polaris_office_alt</item>
-        <item>polaris_office</item>
-        <item>magikarp</item>
-        <item>mi_home</item>
-        <item>video_editor_for_youtube</item>
-        <item>amazon_drive</item>
-        <item>udemy</item>
-        <item>twisty_timer</item>
-        <item>stranger_things_the_game</item>
-        <item>walpy</item>
-        <item>dragon_hills_2</item>
-        <item>r_compass</item>
-        <item>v_sat</item>
-        <item>rocsy_iconpack</item>
-        <item>jiomusic</item>
-        <item>lusher_test</item>
-        <item>mavon_iconpack</item>
-        <item>jiocinema</item>
-        <item>nutstore</item>
-        <item>fury_fighter</item>
-        <item>drawer</item>
-        <item>poco_launcher</item>
-        <item>wallpapers_craft</item>
-        <item>memoria_freese</item>
-        <item>color_splash</item>
-        <item>remitano</item>
-        <item>my_digi</item>
-        <item>huawei_bootloader_unlock</item>
-        <item>photo_layers</item>
-        <item>sms_alt2</item>
-        <item>sms_alt</item>
-        <item>colorzlle</item>
-        <item>open_vpn</item>
-        <item>audiofx_alt</item>
-        <item>vivo_weather</item>
-        <item>whicons</item>
-        <item>webtoon</item>
-        <item>vivo_com</item>
-        <item>vivo_cloud</item>
-        <item>vip_access</item>
-        <item>vivo_video</item>
-        <item>game_collection_tracker</item>
-        <item>vivo_appstore</item>
-        <item>taskmanager_byte</item>
-        <item>syndicate_bank</item>
-        <item>sms_backup_and_restore</item>
-        <item>sankaku_black</item>
-        <item>reminder_with_alarm</item>
-        <item>vivo_soundrecorder</item>
-        <item>poke_mmo_alt</item>
-        <item>poke_mmo</item>
-        <item>orzak_iconpack</item>
-        <item>orzark_iconpack</item>
-        <item>maxfour_music</item>
-        <item>minds</item>
-        <item>mekorama</item>
-        <item>vivo_lock</item>
-        <item>libreoffice_viewer</item>
-        <item>let_it_be_o_iconpack</item>
-        <item>legam</item>
-        <item>kde_connect</item>
-        <item>ice_galaxy</item>
-        <item>vivo_mail</item>
-        <item>vivo_easyshare</item>
-        <item>vivo_browser</item>
-        <item>vivo_theme</item>
-        <item>vivo_music</item>
-        <item>vivo_security</item>
-        <item>haptik</item>
-        <item>grab</item>
-        <item>funkong</item>
-        <item>freshmenu</item>
-        <item>freecharge</item>
-        <item>nokia_fm</item>
-        <item>flatty_iconpack</item>
-        <item>faasos</item>
-        <item>cornie_iconpack</item>
-        <item>essential_camera</item>
-        <item>boom_beach</item>
-        <item>box8</item>
-        <item>blokada</item>
-        <item>any_soft_keyboard</item>
-        <item>notebloc</item>
-        <item>mi_store</item>
-        <item>citibank_in</item>
-        <item>ufc</item>
-        <item>shadow_fight_2</item>
-        <item>toon_shooters</item>
-        <item>score_hero</item>
-        <item>soccer_star</item>
-        <item>clash_royal_alt</item>
-        <item>riptide_gp2</item>
-        <item>msl</item>
-        <item>heroes_arena</item>
-        <item>clash_of_clans_alt2</item>
-        <item>clash_of_clans_alt</item>
-        <item>a_better_camera"</item>
-        <item>abandoned_wallpapers"</item>
-        <item>abs_core"</item>
-        <item>ac_identity"</item>
-        <item>ac_identity_alt"</item>
-        <item>ac_identity_alt2"</item>
-        <item>accubattery"</item>
-        <item>accuweather"</item>
-        <item>acmarket"</item>
-        <item>acr"</item>
-        <item>acr_pro"</item>
-        <item>acrobat_reader"</item>
-        <item>action_launcher"</item>
-        <item>adapticon"</item>
-        <item>adaptive_iconpack"</item>
-        <item>adaptive_squircle"</item>
-        <item>adaway"</item>
-        <item>adblock_fast"</item>
-        <item>adblock_for_samsung"</item>
-        <item>adblock_plus_browser"</item>
-        <item>add_text"</item>
-        <item>adguard"</item>
-        <item>adm"</item>
-        <item>adobe_clip"</item>
-        <item>adobe_lightroom"</item>
-        <item>adobe_scan"</item>
-        <item>afonts"</item>
-        <item>aftership"</item>
-        <item>agoda"</item>
-        <item>agos_iconpack"</item>
-        <item>air_asia"</item>
-        <item>air_asia_big"</item>
-        <item>airbnb"</item>
-        <item>airdroid"</item>
-        <item>airpay"</item>
-        <item>airtel_tv"</item>
-        <item>ajio"</item>
-        <item>akt"</item>
-        <item>alarmy_droom"</item>
-        <item>alchemy2"</item>
-        <item>alexis_iconpack"</item>
-        <item>aliexpress"</item>
-        <item>alipay"</item>
-        <item>all_in_one_calculator"</item>
-        <item>allcast"</item>
-        <item>alpha_horoscope"</item>
-        <item>alto"</item>
-        <item>alto_odissey"</item>
-        <item>always_on_edge"</item>
-        <item>amaze"</item>
-        <item>amaze_ux"</item>
-        <item>amazfit_watchface"</item>
-        <item>amazon_appstore"</item>
-        <item>amazon_kindle"</item>
-        <item>amazon_prime_video"</item>
-        <item>amazon_shopping"</item>
-        <item>amoled_wallpaper"</item>
-        <item>ampere"</item>
-        <item>androgens"</item>
-        <item>android_authority"</item>
-        <item>android_auto"</item>
-        <item>android_gallery"</item>
-        <item>android_message"</item>
-        <item>android_terminal"</item>
-        <item>anexplorer"</item>
-        <item>angel_numbers"</item>
-        <item>angl"</item>
-        <item>angry_bird"</item>
-        <item>angry_bird_go"</item>
-        <item>angry_birds_2"</item>
-        <item>animus2"</item>
-        <item>ankidroid"</item>
-        <item>annabelle_ui"</item>
-        <item>anonytun"</item>
-        <item>another_widget"</item>
-        <item>antiyoy"</item>
-        <item>anydesk"</item>
-        <item>anydo"</item>
-        <item>aolix_iconpack"</item>
-        <item>apex_launcher"</item>
-        <item>apk_editor"</item>
-        <item>apk_mirror"</item>
-        <item>apk_share"</item>
-        <item>apolo_launcher"</item>
-        <item>app_backup_pro"</item>
-        <item>app_box"</item>
-        <item>app_freezer"</item>
-        <item>app_ops_alt"</item>
-        <item>app_sale"</item>
-        <item>appbounty"</item>
-        <item>appfree"</item>
-        <item>apple_music"</item>
-        <item>appnana"</item>
-        <item>apps2fire"</item>
-        <item>appsales"</item>
-        <item>apsrtc"</item>
-        <item>aptoide"</item>
-        <item>aptoide_lite"</item>
-        <item>apus"</item>
-        <item>apus_booster"</item>
-        <item>architecture_wallpaper"</item>
-        <item>arena_of_valor"</item>
-        <item>ark_wiki"</item>
-        <item>art_wallpaper_pro"</item>
-        <item>asana"</item>
-        <item>ascio"</item>
-        <item>asian_wallpaper"</item>
-        <item>asphalt_8"</item>
-        <item>asphalt_9"</item>
-        <item>asphalt_xtreme"</item>
-        <item>aspire_ux"</item>
-        <item>astigmatism_test"</item>
-        <item>astro_file_manager"</item>
-        <item>astro_remote"</item>
-        <item>asus_remotelink"</item>
-        <item>atm_milano"</item>
-        <item>audible"</item>
-        <item>audio_recorder_pro"</item>
-        <item>audiofx"</item>
-        <item>audiomack"</item>
-        <item>aurum_iconpack"</item>
-        <item>authy"</item>
-        <item>auto_optimizer"</item>
-        <item>autocallrecorder"</item>
-        <item>autodesk_sketchbook"</item>
-        <item>automatag"</item>
-        <item>automate"</item>
-        <item>autonotification"</item>
-        <item>avast_cleanup"</item>
-        <item>avast_mobile_security"</item>
-        <item>avg"</item>
-        <item>aviary"</item>
-        <item>axolotl_pet"</item>
-        <item>az_screenrecorder"</item>
-        <item>azure_authentificator"</item>
-        <item>babbel"</item>
-        <item>bac_mobile"</item>
-        <item>backdrops"</item>
-        <item>background_video_recorder"</item>
-        <item>banco_estado"</item>
-        <item>banco_falabella"</item>
-        <item>bankid"</item>
-        <item>banorte_mobile"</item>
-        <item>barcode_scanner"</item>
-        <item>barrier_x"</item>
-        <item>basketball_24"</item>
-        <item>basketball_star"</item>
-        <item>battery_widget"</item>
-        <item>battle_net"</item>
-        <item>baybayinsms"</item>
-        <item>bbc_news"</item>
-        <item>bbm"</item>
-        <item>bbtan"</item>
-        <item>bcci"</item>
-        <item>beat_stomper"</item>
-        <item>belari_iconpack"</item>
-        <item>belle_ui_iconpack"</item>
-        <item>benfo_iconpack"</item>
-        <item>berlin_wallpapers"</item>
-        <item>best_4k_wallpapers"</item>
-        <item>best_fiends"</item>
-        <item>best_keyboard"</item>
-        <item>best_wifi"</item>
-        <item>bharatgas"</item>
-        <item>bhim"</item>
-        <item>bible"</item>
-        <item>bid_wars_2"</item>
-        <item>bigo_live"</item>
-        <item>bigpay"</item>
-        <item>bing_news"</item>
-        <item>bio_iconpack"</item>
-        <item>bitmoji"</item>
-        <item>bittorrent"</item>
-        <item>bittorrent_pro"</item>
-        <item>blablacar"</item>
-        <item>black_cam_pro"</item>
-        <item>black_cylinder"</item>
-        <item>black_o_pro"</item>
-        <item>blackout_updater"</item>
-        <item>blizzard_authentificator"</item>
-        <item>blue_sky"</item>
-        <item>bluemail"</item>
-        <item>bolt_iconpack"</item>
-        <item>book_my_show"</item>
-        <item>booking"</item>
-        <item>booky"</item>
-        <item>boomerang"</item>
-        <item>boost"</item>
-        <item>boursorama"</item>
-        <item>bouygues_telecom_espace_client"</item>
-        <item>bowmaster"</item>
-        <item>box"</item>
-        <item>bpi"</item>
-        <item>bq_camera"</item>
-        <item>bq_plus"</item>
-        <item>bq_soundrecorder"</item>
-        <item>brave"</item>
-        <item>britbox"</item>
-        <item>bromite"</item>
-        <item>browser"</item>
-        <item>bubbleupnp"</item>
-        <item>bucket"</item>
-        <item>budapest_wallpapers"</item>
-        <item>buddhist_holidays"</item>
-        <item>burger_king"</item>
-        <item>burrito_bison"</item>
-        <item>busuu"</item>
-        <item>busybox"</item>
-        <item>bw_cardio"</item>
-        <item>ca_ma_carte"</item>
-        <item>cache_clean_super"</item>
-        <item>caixa"</item>
-        <item>cake_browser"</item>
-        <item>cake_wallpaper"</item>
-        <item>calculator"</item>
-        <item>calculator_the_game"</item>
-        <item>calendar_1"</item>
-        <item>calendar_10"</item>
-        <item>calendar_11"</item>
-        <item>calendar_12"</item>
-        <item>calendar_13"</item>
-        <item>calendar_14"</item>
-        <item>calendar_15"</item>
-        <item>calendar_16"</item>
-        <item>calendar_17"</item>
-        <item>calendar_18"</item>
-        <item>calendar_19"</item>
-        <item>calendar_2"</item>
-        <item>calendar_20"</item>
-        <item>calendar_21"</item>
-        <item>calendar_22"</item>
-        <item>calendar_23"</item>
-        <item>calendar_24"</item>
-        <item>calendar_25"</item>
-        <item>calendar_26"</item>
-        <item>calendar_27"</item>
-        <item>calendar_28"</item>
-        <item>calendar_29"</item>
-        <item>calendar_3"</item>
-        <item>calendar_30"</item>
-        <item>calendar_31"</item>
-        <item>calendar_4"</item>
-        <item>calendar_5"</item>
-        <item>calendar_6"</item>
-        <item>calendar_7"</item>
-        <item>calendar_8"</item>
-        <item>calendar_9"</item>
-        <item>calendar_status"</item>
-        <item>call_recorder"</item>
-        <item>calligrapher_pro"</item>
-        <item>camcorder"</item>
-        <item>camera"</item>
-        <item>camera_mx"</item>
-        <item>camera_oneplus"</item>
-        <item>camera_roll"</item>
-        <item>camera_zoom_fx"</item>
-        <item>camscanner"</item>
-        <item>candoy_iconpack"</item>
-        <item>canon_print"</item>
-        <item>car2go"</item>
-        <item>cardboard"</item>
-        <item>carnivores"</item>
-        <item>carnivores_ice_age"</item>
-        <item>carousell"</item>
-        <item>ccleaner"</item>
-        <item>cerberus"</item>
-        <item>chase"</item>
-        <item>cheetah_keyboard"</item>
-        <item>chroma_lab"</item>
-        <item>chrome_canary"</item>
-        <item>chronus"</item>
-        <item>chrooma_keyboard"</item>
-        <item>cinemaniac"</item>
-        <item>cinetrak"</item>
-        <item>citymapper"</item>
-        <item>clash_of_clans"</item>
-        <item>clash_royale"</item>
-        <item>clean_file_manager"</item>
-        <item>clipboard_history"</item>
-        <item>clipboard_manager"</item>
-        <item>clock"</item>
-        <item>clock2"</item>
-        <item>clock3"</item>
-        <item>clover"</item>
-        <item>cm_browser"</item>
-        <item>cmr_falabella"</item>
-        <item>coinbase"</item>
-        <item>coins_ph"</item>
-        <item>collage_maker"</item>
-        <item>color_puzzle"</item>
-        <item>color_s8"</item>
-        <item>colorfy"</item>
-        <item>comicrack"</item>
-        <item>comodo_antivirus"</item>
-        <item>compass"</item>
-        <item>compass_360"</item>
-        <item>concept_iconpack"</item>
-        <item>connexxion"</item>
-        <item>contact"</item>
-        <item>control_center"</item>
-        <item>corvy"</item>
-        <item>cpu_monitor"</item>
-        <item>cpu_z"</item>
-        <item>creative"</item>
-        <item>credit_karma"</item>
-        <item>cricbuzz"</item>
-        <item>curiosity"</item>
-        <item>cyanogen_themes"</item>
-        <item>cyberghost"</item>
-        <item>damonps2"</item>
-        <item>dark_night"</item>
-        <item>dashlane"</item>
-        <item>data_monitor"</item>
-        <item>daydream"</item>
-        <item>dead_trigger_2"</item>
-        <item>dead_warfare"</item>
-        <item>dealabs"</item>
-        <item>deezer"</item>
-        <item>deliveroo"</item>
-        <item>delta"</item>
-        <item>deviantart"</item>
-        <item>diamond_digger_saga"</item>
-        <item>dice_smash"</item>
-        <item>dictionary"</item>
-        <item>dillons"</item>
-        <item>dino_hunter"</item>
-        <item>dinocraft"</item>
-        <item>dinos_online"</item>
-        <item>direct_tv_sport_vr"</item>
-        <item>directv"</item>
-        <item>disco_live_wallpaper"</item>
-        <item>discord"</item>
-        <item>discord_emoji"</item>
-        <item>disk_analysis"</item>
-        <item>dmart"</item>
-        <item>dodol_locker"</item>
-        <item>dolby_atmos"</item>
-        <item>dolphin_emulator"</item>
-        <item>domino"</item>
-        <item>dominos"</item>
-        <item>download"</item>
-        <item>dragon_mania"</item>
-        <item>drastic"</item>
-        <item>dream_league"</item>
-        <item>dream_shell"</item>
-        <item>dream_walker"</item>
-        <item>drive"</item>
-        <item>drone_2_air_assault"</item>
-        <item>dropbox"</item>
-        <item>droper"</item>
-        <item>dropsync"</item>
-        <item>duckduckgo"</item>
-        <item>duel_links"</item>
-        <item>duel_links_yusei"</item>
-        <item>dumb_ways_2"</item>
-        <item>dungeon_defense"</item>
-        <item>duo"</item>
-        <item>duolingo"</item>
-        <item>duotone_iconpack"</item>
-        <item>easy_voice_recorder"</item>
-        <item>easyjet"</item>
-        <item>ebay"</item>
-        <item>edf_et_moi"</item>
-        <item>edge_launcher"</item>
-        <item>edru_pro"</item>
-        <item>ekaisar_pro"</item>
-        <item>elementary_iconpack"</item>
-        <item>elevate"</item>
-        <item>eleven"</item>
-        <item>emoji_changer"</item>
-        <item>empty_folder_cleaner"</item>
-        <item>energy_bar"</item>
-        <item>enpass"</item>
-        <item>entel"</item>
-        <item>epsxe"</item>
-        <item>equalizer_fx"</item>
-        <item>eraser"</item>
-        <item>erimo_iconpack"</item>
-        <item>erom_iconpack"</item>
-        <item>es_app_locker"</item>
-        <item>es_file_explorer"</item>
-        <item>es_file_explorer_pro"</item>
-        <item>es_task_manager"</item>
-        <item>evernote"</item>
-        <item>everphoto"</item>
-        <item>evie"</item>
-        <item>exaradyo"</item>
-        <item>exodus_privacy"</item>
-        <item>expedia"</item>
-        <item>express_vpn"</item>
-        <item>f_chops_weather"</item>
-        <item>fabulous"</item>
-        <item>facebook"</item>
-        <item>facebook_ads_manager"</item>
-        <item>facebook_lite"</item>
-        <item>facebook_local"</item>
-        <item>facebook_moments"</item>
-        <item>fakegps_free"</item>
-        <item>falco"</item>
-        <item>fallout_shelter"</item>
-        <item>fast"</item>
-        <item>fatsecret"</item>
-        <item>fdroid"</item>
-        <item>fedex"</item>
-        <item>feedly"</item>
-        <item>fenerbahce"</item>
-        <item>fenerbahce_widget"</item>
-        <item>fenerium"</item>
-        <item>fifa"</item>
-        <item>fifa_companion"</item>
-        <item>fifa_mobile"</item>
-        <item>file"</item>
-        <item>file_commander"</item>
-        <item>filelinked"</item>
-        <item>files_go"</item>
-        <item>fire_emblem_heroes"</item>
-        <item>fire_tv"</item>
-        <item>firefox"</item>
-        <item>firefox_beta"</item>
-        <item>firefox_focus"</item>
-        <item>firefox_nightly"</item>
-        <item>fivehundredpx"</item>
-        <item>fixter_iconpack"</item>
-        <item>flamingo"</item>
-        <item>flamingo_alt"</item>
-        <item>flappy_bird"</item>
-        <item>flat_keyboard"</item>
-        <item>fleet_battle"</item>
-        <item>flickr"</item>
-        <item>flipboard"</item>
-        <item>flipkart"</item>
-        <item>flud"</item>
-        <item>flui_iconpack"</item>
-        <item>flyme_6"</item>
-        <item>fmm_2017"</item>
-        <item>fmm_2018"</item>
-        <item>fnac"</item>
-        <item>fnac_alt"</item>
-        <item>focus"</item>
-        <item>follow_my_health"</item>
-        <item>follow_my_health_alt"</item>
-        <item>fonry_iconpack"</item>
-        <item>fortnite"</item>
-        <item>fortnite_installer"</item>
-        <item>forza"</item>
-        <item>foursquare"</item>
-        <item>framelapse"</item>
-        <item>freeflight_mini"</item>
-        <item>freeletics_bodyweight"</item>
-        <item>freenet"</item>
-        <item>fresh_ebt"</item>
-        <item>fronto_lockscreen"</item>
-        <item>fullscreen_caller_id"</item>
-        <item>furatto"</item>
-        <item>future_fight"</item>
-        <item>fx"</item>
-        <item>gaana"</item>
-        <item>galaxy_app"</item>
-        <item>gallery"</item>
-        <item>gallery_vault"</item>
-        <item>game_booster"</item>
-        <item>gcash"</item>
-        <item>gear_club"</item>
-        <item>gearbest"</item>
-        <item>genius"</item>
-        <item>genius_scan"</item>
-        <item>geometric_weather"</item>
-        <item>getapk"</item>
-        <item>gfx_tool"</item>
-        <item>ghostery"</item>
-        <item>gift_wallet"</item>
-        <item>gion_iconpack"</item>
-        <item>giphy"</item>
-        <item>glasic_iconpack"</item>
-        <item>glitch_iconpack"</item>
-        <item>globe_switch"</item>
-        <item>glos_iconpack"</item>
-        <item>gmail"</item>
-        <item>gmf"</item>
-        <item>golden_age_of_radio"</item>
-        <item>gom_recorder"</item>
-        <item>goodreads"</item>
-        <item>google_admin"</item>
-        <item>google_adsense"</item>
-        <item>google_allo"</item>
-        <item>google_analytics"</item>
-        <item>google_assistant"</item>
-        <item>google_assistant_go"</item>
-        <item>google_authentificator"</item>
-        <item>google_calendar_1"</item>
-        <item>google_calendar_10"</item>
-        <item>google_calendar_11"</item>
-        <item>google_calendar_12"</item>
-        <item>google_calendar_13"</item>
-        <item>google_calendar_14"</item>
-        <item>google_calendar_15"</item>
-        <item>google_calendar_16"</item>
-        <item>google_calendar_17"</item>
-        <item>google_calendar_18"</item>
-        <item>google_calendar_19"</item>
-        <item>google_calendar_2"</item>
-        <item>google_calendar_20"</item>
-        <item>google_calendar_21"</item>
-        <item>google_calendar_22"</item>
-        <item>google_calendar_23"</item>
-        <item>google_calendar_24"</item>
-        <item>google_calendar_25"</item>
-        <item>google_calendar_26"</item>
-        <item>google_calendar_27"</item>
-        <item>google_calendar_28"</item>
-        <item>google_calendar_29"</item>
-        <item>google_calendar_3"</item>
-        <item>google_calendar_30"</item>
-        <item>google_calendar_31"</item>
-        <item>google_calendar_4"</item>
-        <item>google_calendar_5"</item>
-        <item>google_calendar_6"</item>
-        <item>google_calendar_7"</item>
-        <item>google_calendar_8"</item>
-        <item>google_calendar_9"</item>
-        <item>google_camera"</item>
-        <item>google_chrome"</item>
-        <item>google_chrome_beta"</item>
-        <item>google_docs"</item>
-        <item>google_earth"</item>
-        <item>google_find_my_device"</item>
-        <item>google_fit"</item>
-        <item>google_gboard"</item>
-        <item>google_go"</item>
-        <item>google_home"</item>
-        <item>google_inbox"</item>
-        <item>google_keep"</item>
-        <item>google_lens"</item>
-        <item>google_maps"</item>
-        <item>google_measure"</item>
-        <item>google_my_business"</item>
-        <item>google_my_maps"</item>
-        <item>google_news"</item>
-        <item>google_news_2"</item>
-        <item>google_now_launcher"</item>
-        <item>google_pay"</item>
-        <item>google_pay_alt"</item>
-        <item>google_pdf"</item>
-        <item>google_photo"</item>
-        <item>google_photo2"</item>
-        <item>google_play_books"</item>
-        <item>google_play_books2"</item>
-        <item>google_play_console"</item>
-        <item>google_play_console_alt"</item>
-        <item>google_play_games"</item>
-        <item>google_play_games2"</item>
-        <item>google_play_movie"</item>
-        <item>google_play_movie2"</item>
-        <item>google_play_music"</item>
-        <item>google_play_music2"</item>
-        <item>google_play_newsstand"</item>
-        <item>google_play_newsstand2"</item>
-        <item>google_play_store"</item>
-        <item>google_play_store2"</item>
-        <item>google_plus"</item>
-        <item>google_podcast"</item>
-        <item>google_podcast_black"</item>
-        <item>google_rewards"</item>
-        <item>google_settings"</item>
-        <item>google_sheets"</item>
-        <item>google_slides"</item>
-        <item>google_street_view"</item>
-        <item>google_task"</item>
-        <item>google_translate"</item>
-        <item>google_trips"</item>
-        <item>google_voice"</item>
-        <item>google_wallpaper"</item>
-        <item>google_wear_os"</item>
-        <item>google_wifi"</item>
-        <item>gopro"</item>
-        <item>graby_iconpack"</item>
-        <item>graby_spin_iconpack"</item>
-        <item>graced_ui"</item>
-        <item>gramophone"</item>
-        <item>greenify"</item>
-        <item>grindr"</item>
-        <item>groupon"</item>
-        <item>gsc_cinemas"</item>
-        <item>gta_sa"</item>
-        <item>guilt_iconpack"</item>
-        <item>guitar_tuna"</item>
-        <item>gulix_iconpack"</item>
-        <item>h2o_iconpack"</item>
-        <item>hangout"</item>
-        <item>happn"</item>
-        <item>hbo"</item>
-        <item>hbo_go"</item>
-        <item>hd_backgrounds"</item>
-        <item>hd_camera"</item>
-        <item>hd_streamz"</item>
-        <item>headspace"</item>
-        <item>healthforyou"</item>
-        <item>hearthstone"</item>
-        <item>heatwave_iconpack"</item>
-        <item>helium"</item>
-        <item>here_maps"</item>
-        <item>hevo_iconpack"</item>
-        <item>hicare"</item>
-        <item>hike"</item>
-        <item>hill_climb_racing"</item>
-        <item>hm"</item>
-        <item>hologram_background_3d"</item>
-        <item>homescapes"</item>
-        <item>homver_iconpack"</item>
-        <item>honey_bee_iconpack"</item>
-        <item>honkai_impact_3rd"</item>
-        <item>hoplite"</item>
-        <item>horoscope_hd_pro"</item>
-        <item>hotspot_shield"</item>
-        <item>hotukdeals"</item>
-        <item>hp_eprint"</item>
-        <item>hp_smart"</item>
-        <item>hq"</item>
-        <item>hsbc"</item>
-        <item>htc_boost"</item>
-        <item>htc_camera"</item>
-        <item>htc_companion"</item>
-        <item>htc_contact"</item>
-        <item>htc_flashlight"</item>
-        <item>htc_help"</item>
-        <item>htc_iceview"</item>
-        <item>htc_mail"</item>
-        <item>htc_message"</item>
-        <item>htc_scribe"</item>
-        <item>htc_theme"</item>
-        <item>htc_voicerecorder"</item>
-        <item>htc_weather"</item>
-        <item>htc_zoe"</item>
-        <item>huawei_appmarket"</item>
-        <item>huawei_backup"</item>
-        <item>huawei_camera"</item>
-        <item>huawei_compass"</item>
-        <item>huawei_file"</item>
-        <item>huawei_flashlight"</item>
-        <item>huawei_gallery"</item>
-        <item>huawei_game_suite"</item>
-        <item>huawei_health"</item>
-        <item>huawei_hilink"</item>
-        <item>huawei_mirror"</item>
-        <item>huawei_music"</item>
-        <item>huawei_phone_clone"</item>
-        <item>huawei_security"</item>
-        <item>huawei_settings"</item>
-        <item>huawei_smarte_remote"</item>
-        <item>huawei_system_update"</item>
-        <item>huawei_theme_manager"</item>
-        <item>huawei_themes"</item>
-        <item>huawei_tips"</item>
-        <item>huawei_video"</item>
-        <item>huawei_weather"</item>
-        <item>huffpost"</item>
-        <item>huji"</item>
-        <item>hulu"</item>
-        <item>huseyinaydin"</item>
-        <item>hustle_castle"</item>
-        <item>hyperflex"</item>
-        <item>i_love_hue"</item>
-        <item>icon_pack_studio"</item>
-        <item>icon_request"</item>
-        <item>icon_torch"</item>
-        <item>ifont"</item>
-        <item>ifttt"</item>
-        <item>iheartradio"</item>
-        <item>ikea"</item>
-        <item>ikea_family"</item>
-        <item>ikon_iconpack"</item>
-        <item>ilauncher"</item>
-        <item>illuminati"</item>
-        <item>image_search"</item>
-        <item>imdb"</item>
-        <item>imgur"</item>
-        <item>imo"</item>
-        <item>impulse"</item>
-        <item>infinite_s9"</item>
-        <item>infinity_silk"</item>
-        <item>infinitydisplay"</item>
-        <item>ingress"</item>
-        <item>inkhunter"</item>
-        <item>instacam"</item>
-        <item>instagram"</item>
-        <item>instagram_alt"</item>
-        <item>instagram_direct"</item>
-        <item>instagram_story_saver"</item>
-        <item>internation_holiday_calendar"</item>
-        <item>internet_speedmeter_lite"</item>
-        <item>into_the_dead_2"</item>
-        <item>ios11_controlcenter"</item>
-        <item>ipsos"</item>
-        <item>irex_iconpack"</item>
-        <item>isotope"</item>
-        <item>ispeed"</item>
-        <item>izly"</item>
-        <item>jetaudio"</item>
-        <item>jetpack_joyride"</item>
-        <item>joox"</item>
-        <item>just_eat"</item>
-        <item>jw_alive"</item>
-        <item>k_plus"</item>
-        <item>k_wave"</item>
-        <item>k_weather"</item>
-        <item>kahoot"</item>
-        <item>kaspersky_battery_life"</item>
-        <item>kaspersky_internet_security"</item>
-        <item>kayak"</item>
-        <item>keep"</item>
-        <item>keepass2android"</item>
-        <item>keepass_dx"</item>
-        <item>kernel_adiutor"</item>
-        <item>kernel_adiutor_alt"</item>
-        <item>kiabi"</item>
-        <item>kickstarter"</item>
-        <item>kijiji"</item>
-        <item>kik"</item>
-        <item>kine_master"</item>
-        <item>kiss_launcher"</item>
-        <item>kiwi_browser"</item>
-        <item>knudge_me"</item>
-        <item>kodi"</item>
-        <item>kore"</item>
-        <item>ktmb"</item>
-        <item>kulcealtin"</item>
-        <item>kustom_widget"</item>
-        <item>l_speed"</item>
-        <item>last_journey"</item>
-        <item>lastpass"</item>
-        <item>lastpass_alt"</item>
-        <item>lastpass_beta"</item>
-        <item>lawnchair"</item>
-        <item>laytons_mystery_journey"</item>
-        <item>lazada"</item>
-        <item>le_kiosk"</item>
-        <item>leaf_wallpapers"</item>
-        <item>leafly"</item>
-        <item>lean_glance"</item>
-        <item>lean_setting"</item>
-        <item>leapday"</item>
-        <item>leboncoin"</item>
-        <item>legend"</item>
-        <item>lenovo_syncit"</item>
-        <item>lensdistortions"</item>
-        <item>leos_fortune"</item>
-        <item>letgo"</item>
-        <item>lg_camera"</item>
-        <item>lg_health"</item>
-        <item>lg_tv_plus"</item>
-        <item>library_ufrn"</item>
-        <item>life360"</item>
-        <item>lifesum"</item>
-        <item>light_manager"</item>
-        <item>light_x_iconpack"</item>
-        <item>lightflow"</item>
-        <item>lightx"</item>
-        <item>line"</item>
-        <item>lineage_browser"</item>
-        <item>lineage_camera"</item>
-        <item>lineage_downloader"</item>
-        <item>lineage_recorder"</item>
-        <item>linguee"</item>
-        <item>linkedin"</item>
-        <item>linkedin_job_search"</item>
-        <item>linxo"</item>
-        <item>livenet_tv"</item>
-        <item>localcast"</item>
-        <item>lookout"</item>
-        <item>lord_mobile"</item>
-        <item>lost_android"</item>
-        <item>lovoo"</item>
-        <item>lucid_daydream"</item>
-        <item>lucky_patcher"</item>
-        <item>luno"</item>
-        <item>lyf_pay"</item>
-        <item>lynket"</item>
-        <item>ma_banque"</item>
-        <item>madrid_mbc"</item>
-        <item>maestria"</item>
-        <item>magisk_manager"</item>
-        <item>magister"</item>
-        <item>magnifying_glass"</item>
-        <item>mail"</item>
-        <item>mail_ru"</item>
-        <item>malaysia_airlines"</item>
-        <item>mario_run"</item>
-        <item>marvel_strike_force"</item>
-        <item>marvel_tournament"</item>
-        <item>marvel_tsum"</item>
-        <item>massage_techniques"</item>
-        <item>material_islands"</item>
-        <item>material_terminal"</item>
-        <item>matoxin_iconpack"</item>
-        <item>mayur"</item>
-        <item>mcdonalds"</item>
-        <item>media_converter"</item>
-        <item>medication_list"</item>
-        <item>medium"</item>
-        <item>medium_alt"</item>
-        <item>meebon_iconpack"</item>
-        <item>meedark_iconpack"</item>
-        <item>meegis_iconpack"</item>
-        <item>meeui"</item>
-        <item>meeyes_iconpack"</item>
-        <item>mega"</item>
-        <item>meme_generator"</item>
-        <item>memrise"</item>
-        <item>mendeley"</item>
-        <item>merriam_dictionary"</item>
-        <item>messaging"</item>
-        <item>messenger"</item>
-        <item>messenger_lite"</item>
-        <item>metal"</item>
-        <item>meteor"</item>
-        <item>mi_apps"</item>
-        <item>mi_browser"</item>
-        <item>mi_drop"</item>
-        <item>mi_fit"</item>
-        <item>mi_forum"</item>
-        <item>mi_notes"</item>
-        <item>mi_portal"</item>
-        <item>mi_recorder"</item>
-        <item>mi_remote"</item>
-        <item>microsoft_apps"</item>
-        <item>microsoft_authentificator"</item>
-        <item>microsoft_edge"</item>
-        <item>microsoft_excel"</item>
-        <item>microsoft_launcher"</item>
-        <item>microsoft_launcher_alt"</item>
-        <item>microsoft_lens"</item>
-        <item>microsoft_news"</item>
-        <item>microsoft_onedrive"</item>
-        <item>microsoft_onenote"</item>
-        <item>microsoft_outlook"</item>
-        <item>microsoft_powerpoint"</item>
-        <item>microsoft_sharepoint"</item>
-        <item>microsoft_skype_for_business"</item>
-        <item>microsoft_teams"</item>
-        <item>microsoft_todos"</item>
-        <item>microsoft_translator"</item>
-        <item>microsoft_word"</item>
-        <item>microsoft_xbox"</item>
-        <item>mimber_iconpack"</item>
-        <item>mindtricks"</item>
-        <item>minecraft"</item>
-        <item>minesweeper"</item>
-        <item>mini_metro"</item>
-        <item>minimal_wallpapers"</item>
-        <item>minion_rush"</item>
-        <item>mint"</item>
-        <item>minty_iconpack"</item>
-        <item>miui_calculator"</item>
-        <item>miui_compass"</item>
-        <item>miui_feedback"</item>
-        <item>miui_forum"</item>
-        <item>miui_gallery"</item>
-        <item>miui_music"</item>
-        <item>miui_scanner"</item>
-        <item>miui_screen_recorder"</item>
-        <item>miui_security"</item>
-        <item>miui_video"</item>
-        <item>miui_weather"</item>
-        <item>mixer"</item>
-        <item>mixer_create"</item>
-        <item>mixplorer"</item>
-        <item>mob"</item>
-        <item>mobdro"</item>
-        <item>mobil_assistan"</item>
-        <item>mobile_hotspot"</item>
-        <item>mobile_legends"</item>
-        <item>mobizen"</item>
-        <item>moda"</item>
-        <item>molotov"</item>
-        <item>mond"</item>
-        <item>monopoly"</item>
-        <item>month"</item>
-        <item>monument_valley"</item>
-        <item>monument_valley_2"</item>
-        <item>moon"</item>
-        <item>moon_alt"</item>
-        <item>moon_reader_pro"</item>
-        <item>moovit"</item>
-        <item>mortal_kombat_x"</item>
-        <item>motion_stills"</item>
-        <item>moto_camera"</item>
-        <item>moto_gp"</item>
-        <item>motorsport_manager"</item>
-        <item>mountain_bike"</item>
-        <item>mountain_bike_pro"</item>
-        <item>movie_browser"</item>
-        <item>movistar"</item>
-        <item>mp3_video_converter"</item>
-        <item>mudah"</item>
-        <item>music_center"</item>
-        <item>musixmatch"</item>
-        <item>muviz"</item>
-        <item>muzei"</item>
-        <item>mx_log_collector"</item>
-        <item>mx_player"</item>
-        <item>my_airtel"</item>
-        <item>my_apk"</item>
-        <item>my_boy"</item>
-        <item>my_boy_free"</item>
-        <item>my_eleven_street"</item>
-        <item>my_fitness_pal"</item>
-        <item>my_tim_mobile"</item>
-        <item>my_tuner_pro"</item>
-        <item>myjio"</item>
-        <item>mykia"</item>
-        <item>myopel"</item>
-        <item>myvodaphone"</item>
-        <item>n26"</item>
-        <item>namaz"</item>
-        <item>national_rail_enquiries"</item>
-        <item>navbar_apps"</item>
-        <item>nebula"</item>
-        <item>nespresso"</item>
-        <item>netflix"</item>
-        <item>network_signal_refresher"</item>
-        <item>newpipe"</item>
-        <item>news_republic"</item>
-        <item>nfs_most_wanted"</item>
-        <item>nfs_no_limit"</item>
-        <item>night_shift"</item>
-        <item>nightmare_squircle"</item>
-        <item>nike_run_club"</item>
-        <item>nike_training_club"</item>
-        <item>nine_one_one_help_pro"</item>
-        <item>ninegag"</item>
-        <item>nischint_safe_browser"</item>
-        <item>nokia_camera"</item>
-        <item>nokia_support"</item>
-        <item>nolum_iconpack"</item>
-        <item>nordvpn"</item>
-        <item>norton_app_lock"</item>
-        <item>norton_clean"</item>
-        <item>norton_mobile_security"</item>
-        <item>notepad_plus"</item>
-        <item>notitia_a8"</item>
-        <item>nougat_for_zooper"</item>
-        <item>nova_launcher"</item>
-        <item>nova_launcher_prime"</item>
-        <item>numix_circle"</item>
-        <item>o3_iconpack"</item>
-        <item>odici_iconpack"</item>
-        <item>offerup"</item>
-        <item>office_suite"</item>
-        <item>official_twrp_app"</item>
-        <item>olacabs"</item>
-        <item>olmo_iconpack"</item>
-        <item>omlet"</item>
-        <item>omlicon_iconpack"</item>
-        <item>one_football"</item>
-        <item>one_seconde_note"</item>
-        <item>onemg"</item>
-        <item>oneplus_filemanager"</item>
-        <item>oneplus_weather"</item>
-        <item>open_camera"</item>
-        <item>opendocument_reader"</item>
-        <item>opera"</item>
-        <item>opera_beta"</item>
-        <item>opera_max"</item>
-        <item>opera_mini"</item>
-        <item>opera_mini_beta"</item>
-        <item>opera_touch"</item>
-        <item>orange_bank"</item>
-        <item>orbia"</item>
-        <item>orbia_alt"</item>
-        <item>orbit"</item>
-        <item>oreny_iconpack"</item>
-        <item>oreo_s8_icon_pack"</item>
-        <item>os12_launcher"</item>
-        <item>oversumo"</item>
-        <item>overwidget"</item>
-        <item>owncloud"</item>
-        <item>ox_x_iconpack"</item>
-        <item>p_iconpack"</item>
-        <item>pacer"</item>
-        <item>packpoint"</item>
-        <item>pages_manager"</item>
-        <item>pagf"</item>
-        <item>pako"</item>
-        <item>palabre"</item>
-        <item>paladins_strike"</item>
-        <item>palette"</item>
-        <item>pandora"</item>
-        <item>pangpang_iconpack"</item>
-        <item>paper"</item>
-        <item>parallax"</item>
-        <item>parrot_mini"</item>
-        <item>particle_constellations_lw"</item>
-        <item>password1"</item>
-        <item>patreon"</item>
-        <item>paymaya"</item>
-        <item>paypal"</item>
-        <item>paytm"</item>
-        <item>pda_net"</item>
-        <item>pear_launcher"</item>
-        <item>pera_swipe"</item>
-        <item>periscope"</item>
-        <item>persona_iconpack"</item>
-        <item>pes2018"</item>
-        <item>philips_hue"</item>
-        <item>phone"</item>
-        <item>phonepe"</item>
-        <item>phonto"</item>
-        <item>photo_editor"</item>
-        <item>photo_labs"</item>
-        <item>photo_studio_pro"</item>
-        <item>photobucket"</item>
-        <item>photomania"</item>
-        <item>photomath"</item>
-        <item>photoscan"</item>
-        <item>photoshop_express"</item>
-        <item>picsart"</item>
-        <item>ping_pong_king"</item>
-        <item>pinterest"</item>
-        <item>pix_it"</item>
-        <item>pixcyl"</item>
-        <item>pixel_iconpack"</item>
-        <item>pixelful"</item>
-        <item>pixio_iconpack"</item>
-        <item>pixomatic"</item>
-        <item>placestor_pro"</item>
-        <item>plant_vs_zombie_2"</item>
-        <item>play_code"</item>
-        <item>playstation_app"</item>
-        <item>plex"</item>
-        <item>plumber"</item>
-        <item>pocket"</item>
-        <item>pocket_camp"</item>
-        <item>pogbytes"</item>
-        <item>pokemon_go"</item>
-        <item>pokemon_quest"</item>
-        <item>polarr"</item>
-        <item>pomo_iconpack"</item>
-        <item>power_toggles"</item>
-        <item>poweramp"</item>
-        <item>powerschool"</item>
-        <item>powershade"</item>
-        <item>ppsspp"</item>
-        <item>prisjakt"</item>
-        <item>private_browser"</item>
-        <item>protectfile_pro"</item>
-        <item>protectsms_pro"</item>
-        <item>pubg"</item>
-        <item>puissance_4"</item>
-        <item>pushbullet"</item>
-        <item>qfile"</item>
-        <item>qget"</item>
-        <item>qihoo_security"</item>
-        <item>qmanager"</item>
-        <item>qpython"</item>
-        <item>qr_code_scanner_pro"</item>
-        <item>qr_droid"</item>
-        <item>quick_imageviewer"</item>
-        <item>quickpic"</item>
-        <item>quitzilla"</item>
-        <item>quizup"</item>
-        <item>quora"</item>
-        <item>rabo_bankieren"</item>
-        <item>rabo_wallet"</item>
-        <item>radio_fm"</item>
-        <item>rados_iconpack"</item>
-        <item>rar"</item>
-        <item>ravic_iconpack"</item>
-        <item>ray_of_sun"</item>
-        <item>rayman_adventure"</item>
-        <item>rd_client"</item>
-        <item>rd_client_beta"</item>
-        <item>real_cricket_18"</item>
-        <item>real_racing_3"</item>
-        <item>recorder"</item>
-        <item>red"</item>
-        <item>redboxtv"</item>
-        <item>reddit"</item>
-        <item>redox_iconpack"</item>
-        <item>reigns"</item>
-        <item>reigns_her_majesty"</item>
-        <item>relax_melodies"</item>
-        <item>relax_my_cat"</item>
-        <item>resplash"</item>
-        <item>retom_iconpack"</item>
-        <item>retro_music"</item>
-        <item>revolut"</item>
-        <item>rimbo_iconpack"</item>
-        <item>rings"</item>
-        <item>ringtones_3310"</item>
-        <item>road_bike"</item>
-        <item>road_bike_pro"</item>
-        <item>ronio_iconpack"</item>
-        <item>root_checker_pro"</item>
-        <item>rootless_pixel_launcher"</item>
-        <item>rounded_corner"</item>
-        <item>rugos"</item>
-        <item>rullo"</item>
-        <item>runtastic"</item>
-        <item>runtastic_pro"</item>
-        <item>russian_made_easy"</item>
-        <item>ruzzle"</item>
-        <item>s6_ui_iconpack"</item>
-        <item>s7_ui_iconpack"</item>
-        <item>s8_iconpack"</item>
-        <item>s8_pixel"</item>
-        <item>s8_ui_iconpack"</item>
-        <item>s9_navigation_bar"</item>
-        <item>s9_ui_iconpack"</item>
-        <item>s9_ux_iconpack"</item>
-        <item>saavn"</item>
-        <item>safecallin"</item>
-        <item>sagon"</item>
-        <item>sakay"</item>
-        <item>samsung_browser"</item>
-        <item>samsung_calculator"</item>
-        <item>samsung_camera"</item>
-        <item>samsung_clock"</item>
-        <item>samsung_concierge"</item>
-        <item>samsung_connect"</item>
-        <item>samsung_contacts"</item>
-        <item>samsung_email"</item>
-        <item>samsung_file_explorer"</item>
-        <item>samsung_gallery"</item>
-        <item>samsung_game_launcher"</item>
-        <item>samsung_game_tuner"</item>
-        <item>samsung_gift"</item>
-        <item>samsung_health"</item>
-        <item>samsung_members"</item>
-        <item>samsung_messaging"</item>
-        <item>samsung_music"</item>
-        <item>samsung_note"</item>
-        <item>samsung_notes"</item>
-        <item>samsung_oh"</item>
-        <item>samsung_optical_reader"</item>
-        <item>samsung_pass"</item>
-        <item>samsung_pay"</item>
-        <item>samsung_pdf"</item>
-        <item>samsung_phone"</item>
-        <item>samsung_radio"</item>
-        <item>samsung_rewards"</item>
-        <item>samsung_scrapbook"</item>
-        <item>samsung_secure_folder"</item>
-        <item>samsung_sidesync"</item>
-        <item>samsung_smartmanager"</item>
-        <item>samsung_sound_assistant"</item>
-        <item>samsung_svoice"</item>
-        <item>samsung_switch"</item>
-        <item>samsung_themes"</item>
-        <item>samsung_translator"</item>
-        <item>samsung_video"</item>
-        <item>samsung_voicemail"</item>
-        <item>samsung_voicerecorder"</item>
-        <item>samsung_wear"</item>
-        <item>samsung_weather"</item>
-        <item>school_assistant"</item>
-        <item>schoology"</item>
-        <item>scotiabankgo"</item>
-        <item>screen_draw"</item>
-        <item>screen_recorder_pro"</item>
-        <item>screener"</item>
-        <item>scrittor"</item>
-        <item>sd_maid"</item>
-        <item>sd_maid_pro"</item>
-        <item>secondline"</item>
-        <item>secure_vpn"</item>
-        <item>self_healing_course"</item>
-        <item>sendanyfile"</item>
-        <item>settings"</item>
-        <item>settings_alt"</item>
-        <item>seven_mins_workout"</item>
-        <item>seveneleven"</item>
-        <item>sevenfon"</item>
-        <item>sfilter"</item>
-        <item>sfilter_pro"</item>
-        <item>shadowgun_legends"</item>
-        <item>share_it"</item>
-        <item>sharecloud"</item>
-        <item>shazam"</item>
-        <item>shopback"</item>
-        <item>shopee"</item>
-        <item>shortcutter"</item>
-        <item>signal"</item>
-        <item>signal_care"</item>
-        <item>silk_paints"</item>
-        <item>simple_gallery"</item>
-        <item>simple_pro"</item>
-        <item>simplicon_iconpack"</item>
-        <item>sing_smule"</item>
-        <item>sketch"</item>
-        <item>sky_force_reloaded"</item>
-        <item>skyclock"</item>
-        <item>skype"</item>
-        <item>sl_journey_planner"</item>
-        <item>slack"</item>
-        <item>slacker_radio"</item>
-        <item>slither_io"</item>
-        <item>smart_account"</item>
-        <item>sms"</item>
-        <item>sms_organizer"</item>
-        <item>snapchat"</item>
-        <item>snapseed"</item>
-        <item>soccas"</item>
-        <item>sofascore"</item>
-        <item>softbold"</item>
-        <item>solid_explorer"</item>
-        <item>solitaire"</item>
-        <item>sololearn"</item>
-        <item>sonic2"</item>
-        <item>sonic_forces"</item>
-        <item>sonic_surge_2"</item>
-        <item>sony_ar_effect"</item>
-        <item>sony_defocus"</item>
-        <item>sony_gallery"</item>
-        <item>sony_music"</item>
-        <item>sony_recorder"</item>
-        <item>sonyliv"</item>
-        <item>soundcloud"</item>
-        <item>south_park"</item>
-        <item>spartan_six_pack"</item>
-        <item>spartan_six_pack_pro"</item>
-        <item>spartan_workouts_free"</item>
-        <item>speedtest"</item>
-        <item>spider_man_2"</item>
-        <item>spotify"</item>
-        <item>squid"</item>
-        <item>squirclx"</item>
-        <item>star_music_tag_editor"</item>
-        <item>star_walk2"</item>
-        <item>starbucks"</item>
-        <item>starific"</item>
-        <item>stark_dev"</item>
-        <item>stashpedia"</item>
-        <item>stealth_player"</item>
-        <item>steam"</item>
-        <item>stellar_fox"</item>
-        <item>stick_war_legacy"</item>
-        <item>stitch_and_share"</item>
-        <item>stk"</item>
-        <item>stocard"</item>
-        <item>stranger"</item>
-        <item>subatomic_live_wallpaper"</item>
-        <item>substratum"</item>
-        <item>substratum_alt"</item>
-        <item>subway_surfers"</item>
-        <item>sugox_iconpack"</item>
-        <item>super_backup"</item>
-        <item>super_cat_bros"</item>
-        <item>super_drag"</item>
-        <item>super_spell_heroes"</item>
-        <item>supercat"</item>
-        <item>supersu"</item>
-        <item>supertank"</item>
-        <item>sure_remote"</item>
-        <item>sweech"</item>
-        <item>sweetbo_iconpack"</item>
-        <item>swiftapp"</item>
-        <item>swiftdark_substratum"</item>
-        <item>swiftkey"</item>
-        <item>swiss_iconpack"</item>
-        <item>t_mobile"</item>
-        <item>t_mobile_voicemail"</item>
-        <item>tank_star"</item>
-        <item>tapastic"</item>
-        <item>tapet"</item>
-        <item>teamviewer"</item>
-        <item>telegram"</item>
-        <item>telegram_x"</item>
-        <item>tempmail"</item>
-        <item>terrarium_tv"</item>
-        <item>tetris"</item>
-        <item>textra"</item>
-        <item>textra_alt"</item>
-        <item>thailand_radio"</item>
-        <item>the_score"</item>
-        <item>theme"</item>
-        <item>theotown"</item>
-        <item>thisissand"</item>
-        <item>tiles"</item>
-        <item>timbul"</item>
-        <item>timver_iconpack"</item>
-        <item>tinder"</item>
-        <item>tinder_alt"</item>
-        <item>titanium_backup"</item>
-        <item>today_weather"</item>
-        <item>todoist"</item>
-        <item>toluna"</item>
-        <item>tomb_of_the_mask"</item>
-        <item>too_good_to_go"</item>
-        <item>too_good_to_go_alt"</item>
-        <item>top_eleven"</item>
-        <item>torrdroid"</item>
-        <item>torrent_search_engine"</item>
-        <item>touch_n_go"</item>
-        <item>touchpal"</item>
-        <item>touchvpn"</item>
-        <item>trainman"</item>
-        <item>transdrone"</item>
-        <item>transparent_clock_weather"</item>
-        <item>tsubook"</item>
-        <item>tsumtsum"</item>
-        <item>ttorrent"</item>
-        <item>tube_map"</item>
-        <item>tumblr"</item>
-        <item>tunein_radio"</item>
-        <item>tunein_radio_pro"</item>
-        <item>tv_time"</item>
-        <item>tvc"</item>
-        <item>twilight"</item>
-        <item>twitama"</item>
-        <item>twitch"</item>
-        <item>twitter"</item>
-        <item>twitter_lite"</item>
-        <item>two_eyes"</item>
-        <item>uber"</item>
-        <item>uber_eats"</item>
-        <item>uc_browser"</item>
-        <item>uchoose"</item>
-        <item>udacity"</item>
-        <item>unidays"</item>
-        <item>unified_hosts_manager"</item>
-        <item>uninstall"</item>
-        <item>unit_converter"</item>
-        <item>universal_copy"</item>
-        <item>universal_list"</item>
-        <item>uriconpack"</item>
-        <item>usbank"</item>
-        <item>user_review"</item>
-        <item>utorrent"</item>
-        <item>uts"</item>
-        <item>ux11_icon_pack"</item>
-        <item>ux_s8"</item>
-        <item>ux_s9"</item>
-        <item>ux_s9_iconpack"</item>
-        <item>vcam"</item>
-        <item>vente_privee"</item>
-        <item>vestel_cloud"</item>
-        <item>viber"</item>
-        <item>videoder"</item>
-        <item>videoshow"</item>
-        <item>videostream_mobile"</item>
-        <item>vidtrim"</item>
-        <item>vignette"</item>
-        <item>viper4android"</item>
-        <item>viper4android_xhifi"</item>
-        <item>vipre"</item>
-        <item>viscosity"</item>
-        <item>visible_body"</item>
-        <item>viveport"</item>
-        <item>vlc"</item>
-        <item>vlc_mobile_remote"</item>
-        <item>vmarket"</item>
-        <item>vodafone_wallpaper"</item>
-        <item>voi"</item>
-        <item>voice_changer"</item>
-        <item>votus_iconpack"</item>
-        <item>vpn_force"</item>
-        <item>vsco"</item>
-        <item>vuewin"</item>
-        <item>w10_lockscreen"</item>
-        <item>wall_of_fame"</item>
-        <item>wallboard"</item>
-        <item>wallhub"</item>
-        <item>walli"</item>
-        <item>wallify"</item>
-        <item>wallpaper_for_venus"</item>
-        <item>wallrox"</item>
-        <item>wallz"</item>
-        <item>war_dragons"</item>
-        <item>war_wings"</item>
-        <item>wattpad"</item>
-        <item>way2news"</item>
-        <item>waze"</item>
-        <item>weather_samruston"</item>
-        <item>web_video_caster"</item>
-        <item>wechat"</item>
-        <item>weedmaps"</item>
-        <item>weightwatchers"</item>
-        <item>werewolf_online"</item>
-        <item>westworld"</item>
-        <item>whaff"</item>
-        <item>whale"</item>
-        <item>whatsapp"</item>
-        <item>whatsapp_business"</item>
-        <item>where_is_my_train"</item>
-        <item>whisper"</item>
-        <item>wibr"</item>
-        <item>wifi_utility"</item>
-        <item>wifikey"</item>
-        <item>wikipedia"</item>
-        <item>wish"</item>
-        <item>wonder_iconpack"</item>
-        <item>wonderwall"</item>
-        <item>wordpress"</item>
-        <item>wordweb"</item>
-        <item>worldstar"</item>
-        <item>worms_4"</item>
-        <item>wps_office"</item>
-        <item>wunderlist"</item>
-        <item>xda"</item>
-        <item>xda_feed"</item>
-        <item>xda_labs"</item>
-        <item>xda_labs_alt"</item>
-        <item>xender"</item>
-        <item>xeus_timbre"</item>
-        <item>xodo_docs"</item>
-        <item>xperia_lounge"</item>
-        <item>xplayer"</item>
-        <item>xposed_installer"</item>
-        <item>xui_mod"</item>
-        <item>yahoo_mail"</item>
-        <item>yellow"</item>
-        <item>yelp"</item>
-        <item>yelp_alt"</item>
-        <item>yi_action"</item>
-        <item>yify"</item>
-        <item>yify_torrent_subtitle"</item>
-        <item>yik_yak"</item>
-        <item>ymusic"</item>
-        <item>yomira"</item>
-        <item>you_music"</item>
-        <item>yougov"</item>
-        <item>youtube"</item>
-        <item>youtube_creator"</item>
-        <item>youtube_gaming"</item>
-        <item>youtube_music"</item>
-        <item>youtube_music_alt"</item>
-        <item>youtube_vanced"</item>
-        <item>yuka"</item>
-        <item>zarchiver"</item>
-        <item>zedge"</item>
-        <item>zello"</item>
-        <item>zemb"</item>
-        <item>ziggo_go"</item>
-        <item>zomato"</item>
-        <item>zombie_catcher"</item>
-        <item>zooper_widget_free"</item>
-        <item>zopper_widget_pro"</item>
-        <item>zoreo_iconpack"</item>
-        <item>zte_browser"</item>
-        <item>zte_camera"</item>
-        <item>zte_download"</item>
-        <item>zte_gallery"</item>
-        <item>zte_lock"</item>
-        <item>zte_mail"</item>
-        <item>zte_music"</item>
-        <item>zte_recorder"</item>
-        <item>zte_service"</item>
-        <item>zte_tools"</item>
-        <item>zte_video"</item>
-        <item>zyan_drench"</item>
-        <item>nova_legacy</item>
-        <item>whereismywater2</item>
-        <item>gux_iconpack</item>
-        <item>daily_horoscope</item>
-        <item>flipaclip</item>
-        <item>ontrax_iconpack</item>
-        <item>quik</item>
-        <item>mediatek_videoplayer</item>
-        <item>sony_camera</item>
-        <item>hd_camera_pro</item>
-        <item>minesweeper_suitable</item>
-        <item>quranshamimyas</item>
-        <item>data_wing</item>
-        <item>apk_installer</item>
-        <item>swamp_attack</item>
-        <item>snaptube</item>
-        <item>my_ui_9_iconpack</item>
-        <item>fabpro</item>
-        <item>freeflix_hq</item>
-        <item>erza_iconpack</item>
-        <item>qq</item>
-        <item>instlife</item>
-        <item>dnschanger</item>
-        <item>milkyway_wallpapers</item>
-        <item>smart_prix</item>
-        <item>tv_sideview</item>
-        <item>my_metro</item>
-        <item>sudoku</item>
-        <item>vin_wiki</item>
-        <item>focus_go</item>
-        <item>kinesis</item>
-        <item>vimla</item>
-        <item>gzdoom</item>
-        <item>plague_inc</item>
-        <item>h3h3</item>
-        <item>jenius</item>
-        <item>the_wiki_game</item>
-        <item>smugy_ui</item>
-        <item>fontfix</item>
-        <item>gel_dark</item>
-        <item>stretching</item>
-        <item>banco_bpm</item>
-        <item>garena_free_fire</item>
-        <item>smart_launcher</item>
-        <item>listenit</item>
-        <item>english_to_tagalog</item>
-        <item>hyperion_launcher</item>
-        <item>flatx_iconpack</item>
-        <item>reverse_image_search</item>
-        <item>o_iconpack</item>
-        <item>samsung_sound_assistant</item>
-        <item>igtv</item>
-        <item>helix_jump</item>
-        <item>my_tomra</item>
-        <item>shimeji</item>
-        <item>survival_heroes</item>
-        <item>irctc_rail_connect</item>
-        <item>ckay_tv</item>
-        <item>strafe</item>
-        <item>woodfoorest</item>
-        <item>space_expedition</item>
-        <item>celcom_life</item>
-        <item>flo</item>
-        <item>chess_clock</item>
-        <item>mini_racing</item>
-        <item>adobe_spark</item>
-        <item>lbc_radio</item>
-        <item>go_jek</item>
-        <item>pixel3d_iconpack</item>
-        <item>never_settle_wallpapers</item>
-        <item>malwarebytes</item>
-        <item>moon_reader</item>
-        <item>google_neightbourly</item>
-        <item>science_facts</item>
-        <item>loop</item>
-        <item>canvas_student</item>
-        <item>quizlet</item>
-        <item>dji_go</item>
-        <item>venmo</item>
-        <item>tile</item>
-        <item>youtube_tv</item>
-        <item>showbox</item>
-        <item>eight_ball_pool</item>
-        <item>csr_racing_2</item>
-        <item>app_box</item>
-        <item>reigns_got</item>
-        <item>bio_iconpack</item>
-        <item>tiktok</item>
-        <item>es_task_manager</item>
-        <item>text_now</item>
-        <item>gab</item>
-        <item>pizza_hut</item>
-        <item>livescore</item>
-        <item>ortus</item>
-        <item>samsung_manual</item>
-        <item>didi</item>
-        <item>skullgirls</item>
-        <item>plant_vs_zombie</item>
-        <item>sketchfab</item>
-        <item>glas_s9</item>
-        <item>baidu_tieba</item>
-        <item>xperia_assist</item>
-        <item>amoled_live_wallpaper</item>
-        <item>my_telkomselcm</item>
-        <item>my_ui5</item>
-        <item>spetinfo</item>
-        <item>comcast_connect</item>
-        <item>my_vodafone</item>
-        <item>future_pay</item>
-        <item>jiotv</item>
-        <item>bank_islam</item>
-        <item>fastsave</item>
-        <item>fitness_bodybuilding</item>
-        <item>eboox</item>
-        <item>nintendo_switch_online</item>
-        <item>ultimate_randomizer</item>
-        <item>uniwhere</item>
-        <item>banco_next</item>
-        <item>plax_ui</item>
-        <item>spendee</item>
-        <item>swiftly_switch</item>
-        <item>minimalist_iconpack</item>
-        <item>kaomoji</item>
-        <item>mi_band_master</item>
-        <item>mototron</item>
-        <item>instrument_tuner</item>
-        <item>xperia_transfer_mobile</item>
-        <item>uitm_digital_campus</item>
-        <item>wamo_iconpack</item>
-        <item>mcdonalds_monopoly</item>
-        <item>goldex</item>
-        <item>noizy_iconpack</item>
-        <item>plix_iconpack</item>
-        <item>yono</item>
-        <item>no_more_excuses</item>
-        <item>monster_hunter_stories</item>
-        <item>drive_ahead</item>
-        <item>cinema_21</item>
-        <item>tokopedia</item>
-        <item>nebi_iconpack</item>
-        <item>hypocam</item>
-        <item>sony_whats_news</item>
-        <item>flarie</item>
-        <item>whats_removed</item>
-        <item>baidu_netdisk</item>
-        <item>golden_dict</item>
-        <item>jurassic_world_facts</item>
-        <item>infinity_shooting</item>
-        <item>samsung_max</item>
-        <item>bt_notification</item>
-        <item>lightning_blue_keyboard_theme</item>
-        <item>rain_wallpapers</item>
-        <item>huawei_ride_mode</item>
-        <item>teardrop_pixel_dark</item>
-        <item>jio_health_hub</item>
-        <item>oriels_iconpack</item>
-        <item>sony_support</item>
-        <item>motorola_help</item>
-        <item>mambo_iconpack</item>
-        <item>lenovo_help</item>
-        <item>girly_fonts</item>
-        <item>uptodown</item>
-        <item>os12_iconpack</item>
-        <item>yumu_music</item>
-        <item>photo_editor_pro</item>
-        <item>cryptocurrency_secrets</item>
-        <item>x_vpn</item>
-        <item>spectrum</item>
-        <item>lloyds_bank</item>
-        <item>calendar_widget</item>
-        <item>pipette</item>
-        <item>paris_wallpapers</item>
-        <item>low_carb</item>
-        <item>ubisoft_club</item>
-        <item>how_to_crazy</item>
-        <item>temple_run_oz</item>
-        <item>uitm_sufo</item>
-        <item>fast_scanner</item>
-        <item>narrator_s_voice</item>
-        <item>umang</item>
-        <item>reddit_sync</item>
-        <item>eenadu</item>
-        <item>memory_improvement</item>
-        <item>zenge</item>
-        <item>thinkors_swim</item>
-        <item>tasty_trades</item>
-        <item>edx</item>
-        <item>bx_actions</item>
-        <item>zip_recruiters</item>
-        <item>cpu_widgets</item>
-        <item>wendys</item>
-        <item>watch_espn</item>
-        <item>video_downloader_for_instagram</item>
-        <item>video_downloader</item>
-        <item>upflix</item>
-        <item>untappd</item>
-        <item>unfollowers</item>
-        <item>tweet2gif</item>
-        <item>tingles</item>
-        <item>timetune</item>
-        <item>tide</item>
-        <item>ticktick</item>
-        <item>the_athletic</item>
-        <item>tasks</item>
-        <item>tasker</item>
-        <item>symbolab</item>
-        <item>stub_hub</item>
-        <item>star_tracker</item>
-        <item>spheroid</item>
-        <item>slickdeals</item>
-        <item>sleep_cycle</item>
-        <item>urbandroid_sleep</item>
-        <item>samsung_shop</item>
-        <item>sellpro</item>
-        <item>seeking_alpha</item>
-        <item>verizon_security</item>
-        <item>seat_geek</item>
-        <item>school_planner</item>
-        <item>scanner_radio</item>
-        <item>subway</item>
-        <item>robinhood</item>
-        <item>rivers_casino</item>
-        <item>samsung_reminder</item>
-        <item>reddit_relay</item>
-        <item>radio_com</item>
-        <item>radar_scope</item>
-        <item>productivity_challenge</item>
-        <item>porent_iconpack</item>
-        <item>poker_bankroll</item>
-        <item>podcast_addict</item>
-        <item>pix_color</item>
-        <item>photo_pills</item>
-        <item>playstation_message</item>
-        <item>samsung_penup</item>
-        <item>pa_lottery</item>
-        <item>orphic</item>
-        <item>office_depot</item>
-        <item>oculus</item>
-        <item>noaa</item>
-        <item>nbc_sports</item>
-        <item>my_verizon</item>
-        <item>my_library</item>
-        <item>my_effectiveness</item>
-        <item>moonshine</item>
-        <item>verizon_message</item>
-        <item>mcdonalds_alt</item>
-        <item>m1_finance</item>
-        <item>libra</item>
-        <item>kix</item>
-        <item>khan_academy</item>
-        <item>kaorin_iconpack</item>
-        <item>indeed</item>
-        <item>jefit</item>
-        <item>inkpad_notepad</item>
-        <item>ike</item>
-        <item>icon_x</item>
-        <item>hourly_weather_pro</item>
-        <item>group_me</item>
-        <item>gravity_scanner</item>
-        <item>goal_meter</item>
-        <item>glassdoor</item>
-        <item>glass_iconpack</item>
-        <item>gifjif</item>
-        <item>geekbench_4_pro</item>
-        <item>gasbuddy</item>
-        <item>gametime</item>
-        <item>gallery_doctor</item>
-        <item>fresy_iconpack</item>
-        <item>fooducate</item>
-        <item>flight_radar_24</item>
-        <item>flight_light</item>
-        <item>fitbit_learn</item>
-        <item>fit_notes</item>
-        <item>milb</item>
-        <item>financial_calculator</item>
-        <item>yahoo_finance</item>
-        <item>financial_times</item>
-        <item>expert_voice</item>
-        <item>etsy</item>
-        <item>the_economist_espresso</item>
-        <item>poker_equity</item>
-        <item>samsung_edget_lightning</item>
-        <item>the_economist</item>
-        <item>earth_moon_pro</item>
-        <item>earth_moon</item>
-        <item>dunkin</item>
-        <item>discover</item>
-        <item>samsung_dictionary</item>
-        <item>delta_iconpack</item>
-        <item>dealnews</item>
-        <item>day_by_day</item>
-        <item>du_recorder</item>
-        <item>crowdfire</item>
-        <item>coursera</item>
-        <item>coin_portfolio</item>
-        <item>verizon_cloud</item>
-        <item>citizens_fiber_tv</item>
-        <item>chrooma_live_wallpaper</item>
-        <item>chick_fil_a</item>
-        <item>calm</item>
-        <item>caller_name_id</item>
-        <item>coca_cola_freestyle</item>
-        <item>commercial_bank_and_trust</item>
-        <item>bravo_poker_live</item>
-        <item>brain_fm</item>
-        <item>blockfolio</item>
-        <item>binance</item>
-        <item>best_buy_home</item>
-        <item>best_buy</item>
-        <item>ballpark</item>
-        <item>atbat</item>
-        <item>arlo</item>
-        <item>arby</item>
-        <item>amex</item>
-        <item>expressweather</item>
-        <item>virtual_xposed</item>
-        <item>samsung_manager</item>
-        <item>tea_tv</item>
-        <item>super_mario_forever</item>
-        <item>stylish_text</item>
-        <item>samsung_voice</item>
-        <item>roku</item>
-        <item>peggo</item>
-        <item>peel_smart_remote</item>
-        <item>google_classroom</item>
-        <item>campus_portal</item>
-        <item>album_art_changer</item>
-        <item>samsung_active_mode</item>
-        <item>apk_extractor_lite</item>
-        <item>tunetalk</item>
-        <item>tubemate</item>
-        <item>my_yes_4g</item>
-        <item>maybank</item>
-        <item>mbjb_spot</item>
-        <item>internet_download_manager</item>
-        <item>beebom</item>
-        <item>beach_waves_wallpaper</item>
-        <item>be_my_eyes</item>
-        <item>battery_repair</item>
-        <item>battery_calibration_pro</item>
-        <item>barclays_card</item>
-        <item>banco_posta</item>
-        <item>azur_lane</item>
-        <item>axis_mobile</item>
-        <item>aurorastore</item>
-        <item>aura_iconpack</item>
-        <item>astrology_horoscope</item>
-        <item>asr</item>
-        <item>aries_colors</item>
-        <item>aragon</item>
-        <item>aqua_card</item>
-        <item>apk_extractor</item>
-        <item>ap_news</item>
-        <item>anybooks</item>
-        <item>antivirus_security</item>
-        <item>antimo_iconpack</item>
-        <item>ango_iconpack</item>
-        <item>amd_link</item>
-        <item>almug_iconpack</item>
-        <item>aldi_mobile</item>
-        <item>akulaku</item>
-        <item>aj_english</item>
-        <item>afterglow_iconpack</item>
-        <item>aex_papers</item>
-        <item>adobe_photoshop_mix</item>
-        <item>adobe_fill_sign</item>
-        <item>adb_shellkit</item>
-        <item>ada</item>
-        <item>google_action_services</item>
-        <item>abc_mouse</item>
-        <item>a_gallery</item>
-        <item>a_better_clock_widget</item>
-        <item>h3g</item>
-        <item>meteo_3b</item>
-        <item>blacker_iconpack</item>
-        <item>blackberry_manager</item>
-        <item>blackberry_hub</item>
-        <item>behance</item>
-        <item>bbc_weather</item>
-        <item>bbc_iplayer_radio</item>
-        <item>bbc_iplayer</item>
-        <item>truecaller</item>
-        <item>ultimate_guitar_tabs</item>
-        <item>swiggy</item>
-        <item>sbi_anywhere_personal</item>
-        <item>m_parivahan</item>
-        <item>moto</item>
-        <item>moneyview</item>
-        <item>inshorts</item>
-        <item>adobe_content_viewer</item>
-        <item>adobe_sign</item>
-        <item>adobe_comp</item>
-        <item>adobe_capture</item>
-        <item>adobe_xd</item>
-        <item>adobe_digital_editions</item>
-        <item>adobe_connect</item>
-        <item>adobe_photoshop_sketch</item>
-        <item>adobe_photoshop_fix</item>
-        <item>adobe_illustrator</item>
-        <item>adobe_photoshop_express</item>
-        <item>adobe_lightroom</item>
-        <item>adobe_spark</item>
-        <item>adobe_scan</item>
-        <item>adobe_clip</item>
-        <item>alarmy_droom</item>
-        <item>akt</item>
-        <item>alipay</item>
-        <item>cut_ringtones</item>
-        <item>custom_text</item>
-        <item>currency_converter</item>
-        <item>cryten_iconpack</item>
-        <item>crunchy_roll</item>
-        <item>crossy_road</item>
-        <item>crispy_iconpack</item>
-        <item>couple_horoscope</item>
-        <item>couple</item>
-        <item>countable</item>
-        <item>cornerstone_iconpack</item>
-        <item>concorsi_gazzetta</item>
-        <item>concorsando_it</item>
-        <item>game_day</item>
-        <item>colorzzle</item>
-        <item>color_note</item>
-        <item>colorful_water</item>
-        <item>color_paper_iconpack</item>
-        <item>color_iconpack</item>
-        <item>coffee_iconpack</item>
-        <item>code_wallpapers</item>
-        <item>clumsy_ninja</item>
-        <item>cloud_livewallpapers</item>
-        <item>cloud_wallpapers</item>
-        <item>cloud_radio</item>
-        <item>lenovo_cloneit</item>
-        <item>clipboard_actions</item>
-        <item>cirgus_ui</item>
-        <item>cimbs_clicks</item>
-        <item>cikukua</item>
-        <item>chennal_local_train</item>
-        <item>cerco</item>
-        <item>cbs_sports</item>
-        <item>catlog</item>
-        <item>catholictv</item>
-        <item>xcast</item>
-        <item>carx_drift_racing</item>
-        <item>card_ui</item>
-        <item>canva</item>
-        <item>miui_camera</item>
-        <item>cache_defrag_free</item>
-        <item>bukalapak</item>
-        <item>buildprop_editor</item>
-        <item>bubble_cloud_wear_os</item>
-        <item>eagle_browser</item>
-        <item>bouncy_hoops</item>
-        <item>logitech_boom</item>
-        <item>bank_of_ireland</item>
-        <item>bliss_iconpack</item>
-        <item>bitbeaker</item>
-        <item>bit_city</item>
-        <item>bible_gateway</item>
-        <item>beyond_bank_australia</item>
-        <item>beluk_iconpack</item>
-        <item>vivo_pctools</item>
-        <item>campus_student</item>
-        <item>calculator_vault</item>
-        <item>indiegogo</item>
-        <item>flashify</item>
-        <item>color_switch</item>
-        <item>code_academy</item>
-        <item>clock_sync</item>
-        <item>clev_calc</item>
-        <item>clear_focus</item>
-        <item>cek_saldo</item>
-        <item>samsung_car_mode</item>
-        <item>candy_crush_soda</item>
-        <item>candy_crush_saga</item>
-        <item>cameringo</item>
-        <item>camera_fv5</item>
-        <item>google_camera_alt</item>
-        <item>lenovo_camera</item>
-        <item>bundle_breaking_news</item>
-        <item>boxing_itimer</item>
-        <item>botim</item>
-        <item>borealis</item>
-        <item>bol_com</item>
-        <item>bloomberg</item>
-        <item>black_player_ex</item>
-        <item>bima</item>
-        <item>bike_race</item>
-        <item>bigbasket</item>
-        <item>b612</item>
-        <item>azar</item>
-        <item>avicii_gravity_hd</item>
-        <item>audio_recorder</item>
-        <item>around_me</item>
-        <item>ark_survival_evolved</item>
-        <item>app_cloner</item>
-        <item>app_backup_restore</item>
-        <item>anime_dlr</item>
-        <item>airtable</item>
-        <item>air_brush</item>
-        <item>act_fibernet</item>
-        <item>abzorba_live_blackjack</item>
-        <item>four_pics_one_words</item>
-        <item>frames_21</item>
-        <item>brawl_stars</item>
-        <item>wamr</item>
-        <item>voice_mail</item>
-        <item>unified_remote</item>
-        <item>ulike</item>
-        <item>trade_me</item>
-        <item>tbs_online</item>
-        <item>sygic</item>
-        <item>sweatcoin</item>
-        <item>svc_mobile</item>
-        <item>star_health_agent</item>
-        <item>star_health</item>
-        <item>solitary</item>
-        <item>screen_recorder</item>
-        <item>sbi_card</item>
-        <item>google_remote_desktop</item>
-        <item>rediff_mail</item>
-        <item>quran</item>
-        <item>quickride</item>
-        <item>popcorn_time</item>
-        <item>popcorn_time_alt</item>
-        <item>niagara_launcher</item>
-        <item>nfc_tools</item>
-        <item>nearbuy_com</item>
-        <item>my_drawer</item>
-        <item>msrtc</item>
-        <item>miui_theme_editor</item>
-        <item>medlife</item>
-        <item>mahavitaran</item>
-        <item>magnifying_glass_magnifier</item>
-        <item>kingdom_rush</item>
-        <item>samsung_kids_mode</item>
-        <item>ixigo</item>
-        <item>imobile</item>
-        <item>grammarly</item>
-        <item>evite</item>
-        <item>drone_spot</item>
-        <item>digilocker</item>
-        <item>dcikonz</item>
-        <item>bookmark_links</item>
-        <item>bitpay</item>
-        <item>betternet_vpn</item>
-        <item>lastpass_authentificator</item>
-        <item>atomicclock</item>
-        <item>atomic_clock</item>
-        <item>app_drawer_for_android</item>
-        <item>andro_irc</item>
-        <item>yqtrack</item>
-        <item>urbanclap</item>
-        <item>maadhaar</item>
-        <item>jio_music</item>
-        <item>google_news_alt3</item>
-        <item>google_news_alt</item>
-        <item>google_news_2</item>
-        <item>theme_galaxy</item>
-        <item>termux</item>
-        <item>stellio</item>
-        <item>skyscanner</item>
-        <item>shadow_fight_3</item>
-        <item>retrica</item>
-        <item>open_signal</item>
-        <item>jio_chat</item>
-        <item>hotstar</item>
-        <item>samsung_goodlock</item>
-        <item>samsung_cloud</item>
-        <item>pixabay</item>
-        <item>trivago</item>
-        <item>buzz_launcher</item>
-        <item>job_street</item>
-        <item>sens_critique</item>
-        <item>windscribe</item>
-        <item>buzz_widget</item>
-        <item>risk</item>
-        <item>vice</item>
-        <item>ted</item>
-        <item>fast_like_a_fox</item>
-        <item>ovo</item>
-        <item>pascal_n_ide</item>
-        <item>moda_iconpack</item>
-        <item>ace_fishing</item>
-        <item>zynga_poker</item>
-        <item>youper</item>
-        <item>yalp_store</item>
-        <item>vinci</item>
-        <item>vimeo</item>
-        <item>vimage</item>
-        <item>soul_knight</item>
-        <item>hitman_sniper</item>
-        <item>smart_lockscreen_protector</item>
-        <item>slide_for_reddit</item>
-        <item>infinity_slice</item>
-        <item>picnic</item>
-        <item>piano_tiles_2</item>
-        <item>one_line</item>
-        <item>msqrd</item>
-        <item>mirror_lab</item>
-        <item>medical_terms</item>
-        <item>looper</item>
-        <item>loop_hex</item>
-        <item>libre_torrent</item>
-        <item>jbl_connect</item>
-        <item>first_aids2</item>
-        <item>extreme_iconpack</item>
-        <item>espn_fantasy</item>
-        <item>esini_iconpack</item>
-        <item>eset_antivirus</item>
-        <item>elix_iconpack</item>
-        <item>edunext</item>
-        <item>samsung_edge_touch</item>
-        <item>edge_screen_s9</item>
-        <item>edge_gesture</item>
-        <item>easyjoin</item>
-        <item>android_easter_egg_collection</item>
-        <item>dw</item>
-        <item>drops_intl</item>
-        <item>drive_sync</item>
-        <item>instagram_downloader</item>
-        <item>download_instant_dp</item>
-        <item>doku</item>
-        <item>day_off</item>
-        <item>google_datally</item>
-        <item>dashy_crashy</item>
-        <item>darker</item>
-        <item>crystal_for_samsung_browser</item>
-        <item>creepypasta</item>
-        <item>crash_of_cars</item>
-        <item>couverture_mobile</item>
-        <item>coolwinks</item>
-        <item>convertbee</item>
-        <item>xcloud</item>
-        <item>clean_master</item>
-        <item>circle_alarm</item>
-        <item>ketchapp_circle</item>
-        <item>careem</item>
-        <item>candy_camera</item>
-        <item>black</item>
-        <item>bickies_iconpack</item>
-        <item>appvn</item>
-        <item>anghami</item>
-        <item>afterlight</item>
-        <item>ninety_four_seconds</item>
-        <item>paypal_here</item>
-        <item>payfy</item>
-        <item>round_screen_corner_pro</item>
-        <item>prixtel</item>
-        <item>oneplus_gesture</item>
-        <item>google_sky_map</item>
-        <item>quick_lyric</item>
-        <item>swift_installer</item>
-        <item>lucidity</item>
-        <item>wirex</item>
+        <item drawable="a_better_camera" />
+        <item drawable="a_better_clock_widget" />
+        <item drawable="a_gallery" />
+        <item drawable="abandoned_wallpapers" />
+        <item drawable="abc_mouse" />
+        <item drawable="abs_core" />
+        <item drawable="abzorba_live_blackjack" />
+        <item drawable="ac_identity" />
+        <item drawable="ac_identity_alt" />
+        <item drawable="ac_identity_alt2" />
+        <item drawable="ac_rebellion" />
+        <item drawable="accubattery" />
+        <item drawable="accuweather" />
+        <item drawable="ace_fishing" />
+        <item drawable="acmarket" />
+        <item drawable="acr" />
+        <item drawable="acr_pro" />
+        <item drawable="acrobat_reader" />
+        <item drawable="act_fibernet" />
+        <item drawable="action_launcher" />
+        <item drawable="ada" />
+        <item drawable="adapticon" />
+        <item drawable="adaptive_iconpack" />
+        <item drawable="adaptive_squircle" />
+        <item drawable="adaway" />
+        <item drawable="adb_shellkit" />
+        <item drawable="adblock_fast" />
+        <item drawable="adblock_for_samsung" />
+        <item drawable="adblock_plus_browser" />
+        <item drawable="add_text" />
+        <item drawable="adguard" />
+        <item drawable="adm" />
+        <item drawable="adobe_capture" />
+        <item drawable="adobe_clip" />
+        <item drawable="adobe_comp" />
+        <item drawable="adobe_connect" />
+        <item drawable="adobe_content_viewer" />
+        <item drawable="adobe_digital_editions" />
+        <item drawable="adobe_fill_sign" />
+        <item drawable="adobe_illustrator" />
+        <item drawable="adobe_lightroom" />
+        <item drawable="adobe_photoshop_express" />
+        <item drawable="adobe_photoshop_fix" />
+        <item drawable="adobe_photoshop_mix" />
+        <item drawable="adobe_photoshop_sketch" />
+        <item drawable="adobe_scan" />
+        <item drawable="adobe_sign" />
+        <item drawable="adobe_spark" />
+        <item drawable="adobe_xd" />
+        <item drawable="aeris_currency_converter" />
+        <item drawable="aex_papers" />
+        <item drawable="afonts" />
+        <item drawable="after_pay" />
+        <item drawable="afterglow_iconpack" />
+        <item drawable="afterlight" />
+        <item drawable="aftership" />
+        <item drawable="agoda" />
+        <item drawable="agos_iconpack" />
+        <item drawable="aimp_player" />
+        <item drawable="air_asia" />
+        <item drawable="air_asia_big" />
+        <item drawable="air_brush" />
+        <item drawable="air_nz" />
+        <item drawable="air_visual" />
+        <item drawable="airbnb" />
+        <item drawable="airdroid" />
+        <item drawable="airpay" />
+        <item drawable="airtable" />
+        <item drawable="airtel_tv" />
+        <item drawable="aj_english" />
+        <item drawable="ajio" />
+        <item drawable="akt" />
+        <item drawable="akulaku" />
+        <item drawable="alarmy_droom" />
+        <item drawable="album_art_changer" />
+        <item drawable="alchemy2" />
+        <item drawable="aldi_mobile" />
+        <item drawable="alexis_iconpack" />
+        <item drawable="aliexpress" />
+        <item drawable="alipay" />
+        <item drawable="all_in_one_calculator" />
+        <item drawable="allcast" />
+        <item drawable="almug_iconpack" />
+        <item drawable="aloha_browser" />
+        <item drawable="alpha_horoscope" />
+        <item drawable="alto" />
+        <item drawable="alto_odissey" />
+        <item drawable="always_on_edge" />
+        <item drawable="amaze" />
+        <item drawable="amaze_ux" />
+        <item drawable="amazfit_watchface" />
+        <item drawable="amazon_appstore" />
+        <item drawable="amazon_drive" />
+        <item drawable="amazon_kindle" />
+        <item drawable="amazon_music" />
+        <item drawable="amazon_prime_video" />
+        <item drawable="amazon_shopping" />
+        <item drawable="amd_link" />
+        <item drawable="amex" />
+        <item drawable="amoled_live_wallpaper" />
+        <item drawable="amoled_wallpaper" />
+        <item drawable="amoled_wallpapers_4k" />
+        <item drawable="amolet_wallpapers_4k_2" />
+        <item drawable="ampere" />
+        <item drawable="andro_irc" />
+        <item drawable="androgens" />
+        <item drawable="android_authority" />
+        <item drawable="android_auto" />
+        <item drawable="android_easter_egg_collection" />
+        <item drawable="android_gallery" />
+        <item drawable="android_message" />
+        <item drawable="android_terminal" />
+        <item drawable="andromeda" />
+        <item drawable="androoster" />
+        <item drawable="anexplorer" />
+        <item drawable="angel_numbers" />
+        <item drawable="anghami" />
+        <item drawable="angl" />
+        <item drawable="ango_iconpack" />
+        <item drawable="angry_bird" />
+        <item drawable="angry_bird_go" />
+        <item drawable="angry_birds_2" />
+        <item drawable="anime_dlr" />
+        <item drawable="anime_tv" />
+        <item drawable="animus2" />
+        <item drawable="ankidroid" />
+        <item drawable="annabelle_ui" />
+        <item drawable="anonytun" />
+        <item drawable="another_widget" />
+        <item drawable="antimo_iconpack" />
+        <item drawable="antivirus_security" />
+        <item drawable="antiyoy" />
+        <item drawable="any_soft_keyboard" />
+        <item drawable="anybooks" />
+        <item drawable="anydesk" />
+        <item drawable="anydo" />
+        <item drawable="aolix_iconpack" />
+        <item drawable="ap_news" />
+        <item drawable="apex_launcher" />
+        <item drawable="apk_editor" />
+        <item drawable="apk_extractor" />
+        <item drawable="apk_extractor_lite" />
+        <item drawable="apk_extrator_pro" />
+        <item drawable="apk_installer" />
+        <item drawable="apk_mirror" />
+        <item drawable="apk_share" />
+        <item drawable="apkpure" />
+        <item drawable="apolo_launcher" />
+        <item drawable="app_backup_pro" />
+        <item drawable="app_backup_restore" />
+        <item drawable="app_box" />
+        <item drawable="app_cloner" />
+        <item drawable="app_drawer_for_android" />
+        <item drawable="app_freezer" />
+        <item drawable="app_ops_alt" />
+        <item drawable="app_sale" />
+        <item drawable="appbounty" />
+        <item drawable="appfree" />
+        <item drawable="apple_music" />
+        <item drawable="appnana" />
+        <item drawable="apps2fire" />
+        <item drawable="apps_giveway" />
+        <item drawable="appsales" />
+        <item drawable="appvn" />
+        <item drawable="apsrtc" />
+        <item drawable="aptoide" />
+        <item drawable="aptoide_lite" />
+        <item drawable="apus" />
+        <item drawable="apus_booster" />
+        <item drawable="aqua_card" />
+        <item drawable="aragon" />
+        <item drawable="arby" />
+        <item drawable="arcai_netcut" />
+        <item drawable="architecture_wallpaper" />
+        <item drawable="arcturus_gallery" />
+        <item drawable="arena_of_valor" />
+        <item drawable="aries_colors" />
+        <item drawable="ark_survival_evolved" />
+        <item drawable="ark_wiki" />
+        <item drawable="arlo" />
+        <item drawable="around_me" />
+        <item drawable="art_wallpaper_pro" />
+        <item drawable="asana" />
+        <item drawable="ascio" />
+        <item drawable="asian_wallpaper" />
+        <item drawable="asphalt_8" />
+        <item drawable="asphalt_9" />
+        <item drawable="asphalt_xtreme" />
+        <item drawable="aspire_ux" />
+        <item drawable="asr" />
+        <item drawable="assist_mapper" />
+        <item drawable="astigmatism_test" />
+        <item drawable="astro_file_manager" />
+        <item drawable="astro_remote" />
+        <item drawable="astrology_horoscope" />
+        <item drawable="asus_calculator" />
+        <item drawable="asus_camera" />
+        <item drawable="asus_contact" />
+        <item drawable="asus_file_manager" />
+        <item drawable="asus_gallery" />
+        <item drawable="asus_mobile_manager" />
+        <item drawable="asus_remotelink" />
+        <item drawable="asus_router" />
+        <item drawable="asus_selfiemaster" />
+        <item drawable="asus_sound_recorder" />
+        <item drawable="asus_theme" />
+        <item drawable="asus_weather" />
+        <item drawable="atbat" />
+        <item drawable="atm_milano" />
+        <item drawable="atomic_clock" />
+        <item drawable="atomicclock" />
+        <item drawable="audible" />
+        <item drawable="audio_recorder" />
+        <item drawable="audio_recorder_pro" />
+        <item drawable="audiofx" />
+        <item drawable="audiofx_alt" />
+        <item drawable="audiomack" />
+        <item drawable="aura_iconpack" />
+        <item drawable="aurdroid" />
+        <item drawable="aurorastore" />
+        <item drawable="aurum_iconpack" />
+        <item drawable="authy" />
+        <item drawable="auto_optimizer" />
+        <item drawable="autocallrecorder" />
+        <item drawable="autodesk_sketchbook" />
+        <item drawable="automatag" />
+        <item drawable="automate" />
+        <item drawable="autonotification" />
+        <item drawable="avast_cleanup" />
+        <item drawable="avast_mobile_security" />
+        <item drawable="avast_vpn" />
+        <item drawable="avg" />
+        <item drawable="aviary" />
+        <item drawable="aviation_dictionary" />
+        <item drawable="avicii_gravity_hd" />
+        <item drawable="axis_mobile" />
+        <item drawable="axolotl_pet" />
+        <item drawable="az_screenrecorder" />
+        <item drawable="azar" />
+        <item drawable="azur_lane" />
+        <item drawable="azure_authentificator" />
+        <item drawable="b612" />
+        <item drawable="babbel" />
+        <item drawable="bac_mobile" />
+        <item drawable="backdrops" />
+        <item drawable="background_video_recorder" />
+        <item drawable="bacon_reader" />
+        <item drawable="baidu_netdisk" />
+        <item drawable="baidu_tieba" />
+        <item drawable="ballpark" />
+        <item drawable="banco_bpm" />
+        <item drawable="banco_estado" />
+        <item drawable="banco_falabella" />
+        <item drawable="banco_next" />
+        <item drawable="banco_posta" />
+        <item drawable="bandcamp" />
+        <item drawable="bank_islam" />
+        <item drawable="bank_of_ireland" />
+        <item drawable="bankid" />
+        <item drawable="banorte_mobile" />
+        <item drawable="barclays_bank" />
+        <item drawable="barclays_card" />
+        <item drawable="barcode_scanner" />
+        <item drawable="barrier_x" />
+        <item drawable="basketball_24" />
+        <item drawable="basketball_star" />
+        <item drawable="bass_booster" />
+        <item drawable="battery_calibration_pro" />
+        <item drawable="battery_repair" />
+        <item drawable="battery_widget" />
+        <item drawable="battle_net" />
+        <item drawable="baybayinsms" />
+        <item drawable="bbc_iplayer" />
+        <item drawable="bbc_iplayer_radio" />
+        <item drawable="bbc_news" />
+        <item drawable="bbc_weather" />
+        <item drawable="bbm" />
+        <item drawable="bbtan" />
+        <item drawable="bcci" />
+        <item drawable="be_my_eyes" />
+        <item drawable="beach_waves_wallpaper" />
+        <item drawable="beat_stomper" />
+        <item drawable="beebom" />
+        <item drawable="behance" />
+        <item drawable="belari_iconpack" />
+        <item drawable="belle_ui_iconpack" />
+        <item drawable="beluk_iconpack" />
+        <item drawable="benfo_iconpack" />
+        <item drawable="bens_pretzel" />
+        <item drawable="berlin_wallpapers" />
+        <item drawable="best_4k_wallpapers" />
+        <item drawable="best_buy" />
+        <item drawable="best_buy_home" />
+        <item drawable="best_fiends" />
+        <item drawable="best_keyboard" />
+        <item drawable="best_wifi" />
+        <item drawable="betternet_vpn" />
+        <item drawable="beyond_bank_australia" />
+        <item drawable="beyond_pod" />
+        <item drawable="bharatgas" />
+        <item drawable="bhim" />
+        <item drawable="bible" />
+        <item drawable="bible_gateway" />
+        <item drawable="bible_offline" />
+        <item drawable="bickies_iconpack" />
+        <item drawable="bid_wars_2" />
+        <item drawable="bigbasket" />
+        <item drawable="bigo_live" />
+        <item drawable="bigpay" />
+        <item drawable="bike_race" />
+        <item drawable="bima" />
+        <item drawable="binance" />
+        <item drawable="bing" />
+        <item drawable="bing_news" />
+        <item drawable="bio_iconpack" />
+        <item drawable="bit_city" />
+        <item drawable="bitbeaker" />
+        <item drawable="bitly" />
+        <item drawable="bitmoji" />
+        <item drawable="bitpay" />
+        <item drawable="bittorrent" />
+        <item drawable="bittorrent_pro" />
+        <item drawable="blablacar" />
+        <item drawable="black" />
+        <item drawable="black_cam_pro" />
+        <item drawable="black_cylinder" />
+        <item drawable="black_o_pro" />
+        <item drawable="black_player_ex" />
+        <item drawable="black_search" />
+        <item drawable="black_wallpapers" />
+        <item drawable="blackberry_hub" />
+        <item drawable="blackberry_hub2" />
+        <item drawable="blackberry_manager" />
+        <item drawable="blacker_iconpack" />
+        <item drawable="blackout_updater" />
+        <item drawable="bliss_iconpack" />
+        <item drawable="blizzard_authentificator" />
+        <item drawable="blockfolio" />
+        <item drawable="blokada" />
+        <item drawable="bloomberg" />
+        <item drawable="bloons_td_5" />
+        <item drawable="blue_sky" />
+        <item drawable="bluemail" />
+        <item drawable="bnz_mobile" />
+        <item drawable="bol_com" />
+        <item drawable="bolt_iconpack" />
+        <item drawable="book_my_show" />
+        <item drawable="booking" />
+        <item drawable="bookmark_links" />
+        <item drawable="booky" />
+        <item drawable="boom_beach" />
+        <item drawable="boomerang" />
+        <item drawable="boost" />
+        <item drawable="borealis" />
+        <item drawable="botim" />
+        <item drawable="bouncy_hoops" />
+        <item drawable="boursorama" />
+        <item drawable="bouygues_telecom_espace_client" />
+        <item drawable="bowmaster" />
+        <item drawable="box" />
+        <item drawable="box8" />
+        <item drawable="boxing_itimer" />
+        <item drawable="bpi" />
+        <item drawable="bq_camera" />
+        <item drawable="bq_on" />
+        <item drawable="bq_plus" />
+        <item drawable="bq_soundrecorder" />
+        <item drawable="brain_fm" />
+        <item drawable="brave" />
+        <item drawable="bravo_poker_live" />
+        <item drawable="brawl_stars" />
+        <item drawable="brim" />
+        <item drawable="britbox" />
+        <item drawable="bromite" />
+        <item drawable="browser" />
+        <item drawable="bt_notification" />
+        <item drawable="bubble_cloud_wear_os" />
+        <item drawable="bubbleupnp" />
+        <item drawable="bucket" />
+        <item drawable="budapest_wallpapers" />
+        <item drawable="buddhist_holidays" />
+        <item drawable="buildprop_editor" />
+        <item drawable="bukalapak" />
+        <item drawable="bundle_breaking_news" />
+        <item drawable="burger_king" />
+        <item drawable="burrito_bison" />
+        <item drawable="busuu" />
+        <item drawable="busybox" />
+        <item drawable="busybox_installer" />
+        <item drawable="buzz_launcher" />
+        <item drawable="buzz_widget" />
+        <item drawable="bw_cardio" />
+        <item drawable="bx_actions" />
+        <item drawable="ca_ma_carte" />
+        <item drawable="cache_clean_super" />
+        <item drawable="cache_defrag_free" />
+        <item drawable="caixa" />
+        <item drawable="cake_browser" />
+        <item drawable="cake_wallpaper" />
+        <item drawable="calculator" />
+        <item drawable="calculator_the_game" />
+        <item drawable="calculator_vault" />
+        <item drawable="calendar_3" />
+        <item drawable="calendar_status" />
+        <item drawable="calendar_widget" />
+        <item drawable="call_recorder" />
+        <item drawable="caller_name_id" />
+        <item drawable="calligrapher_pro" />
+        <item drawable="calm" />
+        <item drawable="camcorder" />
+        <item drawable="camera" />
+        <item drawable="camera_fv5" />
+        <item drawable="camera_mx" />
+        <item drawable="camera_oneplus" />
+        <item drawable="camera_roll" />
+        <item drawable="camera_zoom_fx" />
+        <item drawable="cameringo" />
+        <item drawable="campus_portal" />
+        <item drawable="campus_student" />
+        <item drawable="camscanner" />
+        <item drawable="canada_post" />
+        <item drawable="candoy_iconpack" />
+        <item drawable="candy_camera" />
+        <item drawable="candy_crush_saga" />
+        <item drawable="candy_crush_soda" />
+        <item drawable="canon_print" />
+        <item drawable="canva" />
+        <item drawable="canvas_student" />
+        <item drawable="capital_one_canada" />
+        <item drawable="car2go" />
+        <item drawable="card_ui" />
+        <item drawable="cardboard" />
+        <item drawable="careem" />
+        <item drawable="carnivores" />
+        <item drawable="carnivores_ice_age" />
+        <item drawable="carousell" />
+        <item drawable="cartogram" />
+        <item drawable="carx_drift_racing" />
+        <item drawable="case_animatronics" />
+        <item drawable="castify" />
+        <item drawable="catawiki" />
+        <item drawable="catholictv" />
+        <item drawable="catlog" />
+        <item drawable="cbs_sports" />
+        <item drawable="ccleaner" />
+        <item drawable="cek_saldo" />
+        <item drawable="celcom_life" />
+        <item drawable="cerberus" />
+        <item drawable="cerco" />
+        <item drawable="chase" />
+        <item drawable="check_su" />
+        <item drawable="cheetah_keyboard" />
+        <item drawable="chennal_local_train" />
+        <item drawable="chess" />
+        <item drawable="chess_clock" />
+        <item drawable="chick_fil_a" />
+        <item drawable="chomp_sms" />
+        <item drawable="chomp_sms_alt" />
+        <item drawable="chroma_lab" />
+        <item drawable="chrome_canary" />
+        <item drawable="chronus" />
+        <item drawable="chrooma_keyboard" />
+        <item drawable="chrooma_live_wallpaper" />
+        <item drawable="cikukua" />
+        <item drawable="cimbs_clicks" />
+        <item drawable="cinema_21" />
+        <item drawable="cinemaniac" />
+        <item drawable="cinetrak" />
+        <item drawable="circle_alarm" />
+        <item drawable="cirgus_ui" />
+        <item drawable="citibank_in" />
+        <item drawable="citizens_fiber_tv" />
+        <item drawable="citymapper" />
+        <item drawable="ckay_tv" />
+        <item drawable="clash_of_clans" />
+        <item drawable="clash_of_clans_alt" />
+        <item drawable="clash_of_clans_alt2" />
+        <item drawable="clash_royal_alt" />
+        <item drawable="clash_royale" />
+        <item drawable="clean_file_manager" />
+        <item drawable="clean_master" />
+        <item drawable="clear_focus" />
+        <item drawable="clev_calc" />
+        <item drawable="clipboard_actions" />
+        <item drawable="clipboard_history" />
+        <item drawable="clipboard_manager" />
+        <item drawable="cliqq" />
+        <item drawable="clock" />
+        <item drawable="clock2" />
+        <item drawable="clock3" />
+        <item drawable="clock_sync" />
+        <item drawable="cloud_livewallpapers" />
+        <item drawable="cloud_radio" />
+        <item drawable="cloud_wallpapers" />
+        <item drawable="clover" />
+        <item drawable="clumsy_ninja" />
+        <item drawable="cm_browser" />
+        <item drawable="cmr_falabella" />
+        <item drawable="cnn" />
+        <item drawable="coca_cola_freestyle" />
+        <item drawable="code_academy" />
+        <item drawable="code_wallpapers" />
+        <item drawable="codeboard" />
+        <item drawable="codex" />
+        <item drawable="coffee_iconpack" />
+        <item drawable="coin_portfolio" />
+        <item drawable="coinbase" />
+        <item drawable="coins_ph" />
+        <item drawable="collage_maker" />
+        <item drawable="color_iconpack" />
+        <item drawable="color_note" />
+        <item drawable="color_paper_iconpack" />
+        <item drawable="color_puzzle" />
+        <item drawable="color_s8" />
+        <item drawable="color_splash" />
+        <item drawable="color_switch" />
+        <item drawable="colorful_water" />
+        <item drawable="colorfy" />
+        <item drawable="colorzlle" />
+        <item drawable="colorzzle" />
+        <item drawable="comcast_connect" />
+        <item drawable="comicrack" />
+        <item drawable="commercial_bank_and_trust" />
+        <item drawable="comodo_antivirus" />
+        <item drawable="compass" />
+        <item drawable="compass_360" />
+        <item drawable="concept_iconpack" />
+        <item drawable="concorsando_it" />
+        <item drawable="concorsi_gazzetta" />
+        <item drawable="connectbot" />
+        <item drawable="connexxion" />
+        <item drawable="contact" />
+        <item drawable="contact2" />
+        <item drawable="contact3" />
+        <item drawable="contact4" />
+        <item drawable="contact5" />
+        <item drawable="contact6" />
+        <item drawable="contact7" />
+        <item drawable="control_center" />
+        <item drawable="convertbee" />
+        <item drawable="coolwinks" />
+        <item drawable="cornerstone_iconpack" />
+        <item drawable="cornie_iconpack" />
+        <item drawable="corvy" />
+        <item drawable="countable" />
+        <item drawable="couple" />
+        <item drawable="couple_horoscope" />
+        <item drawable="coursera" />
+        <item drawable="couverture_mobile" />
+        <item drawable="cpp_droid" />
+        <item drawable="cpp_n_ide" />
+        <item drawable="cpu_monitor" />
+        <item drawable="cpu_widgets" />
+        <item drawable="cpu_z" />
+        <item drawable="crash_of_cars" />
+        <item drawable="creative" />
+        <item drawable="credit_karma" />
+        <item drawable="creepypasta" />
+        <item drawable="cricbuzz" />
+        <item drawable="crispy_iconpack" />
+        <item drawable="crit_dice" />
+        <item drawable="crossy_road" />
+        <item drawable="crowdfire" />
+        <item drawable="crunchy_roll" />
+        <item drawable="cryptocurrency_secrets" />
+        <item drawable="crystal_for_samsung_browser" />
+        <item drawable="cryten_iconpack" />
+        <item drawable="csr_racing_2" />
+        <item drawable="curiosity" />
+        <item drawable="currency_converter" />
+        <item drawable="custom_text" />
+        <item drawable="cut_ringtones" />
+        <item drawable="cx_file_explorer" />
+        <item drawable="cxx_droid" />
+        <item drawable="cyanogen_themes" />
+        <item drawable="cyberghost" />
+        <item drawable="d_notes" />
+        <item drawable="daily_horoscope" />
+        <item drawable="daily_horoscope_androidz" />
+        <item drawable="daily_horoscope_click" />
+        <item drawable="daily_hunt" />
+        <item drawable="daily_scripture" />
+        <item drawable="damonps2" />
+        <item drawable="dark_diary" />
+        <item drawable="dark_night" />
+        <item drawable="dark_void" />
+        <item drawable="darker" />
+        <item drawable="dashlane" />
+        <item drawable="dashy_crashy" />
+        <item drawable="data_monitor" />
+        <item drawable="data_wing" />
+        <item drawable="date_calculator" />
+        <item drawable="day_by_day" />
+        <item drawable="day_off" />
+        <item drawable="daydream" />
+        <item drawable="dcikonz" />
+        <item drawable="dcoder" />
+        <item drawable="dead_trigger_2" />
+        <item drawable="dead_warfare" />
+        <item drawable="dealabs" />
+        <item drawable="dealnews" />
+        <item drawable="debonairspizza" />
+        <item drawable="deezer" />
+        <item drawable="deezloader" />
+        <item drawable="default_dark_theme" />
+        <item drawable="dehli_metro_rail" />
+        <item drawable="deino_iconpack" />
+        <item drawable="deliveroo" />
+        <item drawable="delivery_much" />
+        <item drawable="delta" />
+        <item drawable="delta_iconpack" />
+        <item drawable="desjardins" />
+        <item drawable="desplash" />
+        <item drawable="destiny" />
+        <item drawable="dev_utils" />
+        <item drawable="deviantart" />
+        <item drawable="device_infos" />
+        <item drawable="device_unlock" />
+        <item drawable="diabetes_monitor" />
+        <item drawable="diamond_digger_saga" />
+        <item drawable="dice_smash" />
+        <item drawable="dictionary" />
+        <item drawable="did_you_know" />
+        <item drawable="didi" />
+        <item drawable="digical" />
+        <item drawable="digilocker" />
+        <item drawable="digital_clock_widget" />
+        <item drawable="dillons" />
+        <item drawable="dimly" />
+        <item drawable="dino_hunter" />
+        <item drawable="dinocraft" />
+        <item drawable="dinos_online" />
+        <item drawable="direct_tv_sport_vr" />
+        <item drawable="directv" />
+        <item drawable="disco_live_wallpaper" />
+        <item drawable="discord" />
+        <item drawable="discord_emoji" />
+        <item drawable="discover" />
+        <item drawable="disk_analysis" />
+        <item drawable="display_calibration" />
+        <item drawable="dji_go" />
+        <item drawable="dmart" />
+        <item drawable="dnschanger" />
+        <item drawable="dodol_locker" />
+        <item drawable="doku" />
+        <item drawable="dolby_atmos" />
+        <item drawable="dolphin_emulator" />
+        <item drawable="domino" />
+        <item drawable="dominos" />
+        <item drawable="domka_iconpack" />
+        <item drawable="download" />
+        <item drawable="download2" />
+        <item drawable="download_instant_dp" />
+        <item drawable="downwell" />
+        <item drawable="dragon_hills_2" />
+        <item drawable="dragon_mania" />
+        <item drawable="drastic" />
+        <item drawable="drawer" />
+        <item drawable="dream_book" />
+        <item drawable="dream_league" />
+        <item drawable="dream_shell" />
+        <item drawable="dream_walker" />
+        <item drawable="drive" />
+        <item drawable="drive_ahead" />
+        <item drawable="drive_sync" />
+        <item drawable="drm_info" />
+        <item drawable="droidbug_busybox_advance_free" />
+        <item drawable="drone_2_air_assault" />
+        <item drawable="drone_spot" />
+        <item drawable="dropbox" />
+        <item drawable="droper" />
+        <item drawable="drops" />
+        <item drawable="drops_intl" />
+        <item drawable="dropsync" />
+        <item drawable="drupe" />
+        <item drawable="dsblq" />
+        <item drawable="du_gif_maker" />
+        <item drawable="du_recorder" />
+        <item drawable="duckduckgo" />
+        <item drawable="duel_links" />
+        <item drawable="duel_links_yusei" />
+        <item drawable="dumb_ways_2" />
+        <item drawable="dungeon_defense" />
+        <item drawable="dunkin" />
+        <item drawable="duo" />
+        <item drawable="duolingo" />
+        <item drawable="duotone_iconpack" />
+        <item drawable="dw" />
+        <item drawable="eagle_browser" />
+        <item drawable="earth_iconpack" />
+        <item drawable="earth_moon" />
+        <item drawable="earth_moon_pro" />
+        <item drawable="earth_wallpapers" />
+        <item drawable="easy_coder" />
+        <item drawable="easy_fire_tools" />
+        <item drawable="easy_voice_recorder" />
+        <item drawable="easyjet" />
+        <item drawable="easyjoin" />
+        <item drawable="eatigo" />
+        <item drawable="ebay" />
+        <item drawable="eboox" />
+        <item drawable="economic_times" />
+        <item drawable="ecosia" />
+        <item drawable="edf_et_moi" />
+        <item drawable="edge_gesture" />
+        <item drawable="edge_launcher" />
+        <item drawable="edge_screen_s9" />
+        <item drawable="edru_pro" />
+        <item drawable="edunext" />
+        <item drawable="edx" />
+        <item drawable="eenadu" />
+        <item drawable="ef_cleaner" />
+        <item drawable="eight_ball_pool" />
+        <item drawable="ekaisar_pro" />
+        <item drawable="elba" />
+        <item drawable="elementary_iconpack" />
+        <item drawable="elevate" />
+        <item drawable="eleven" />
+        <item drawable="elix_iconpack" />
+        <item drawable="elta_iconpack" />
+        <item drawable="eltobola" />
+        <item drawable="emoji_changer" />
+        <item drawable="emp_shop" />
+        <item drawable="empty_folder_cleaner" />
+        <item drawable="en_tl_dict" />
+        <item drawable="encode" />
+        <item drawable="energy_bar" />
+        <item drawable="english_to_tagalog" />
+        <item drawable="enpass" />
+        <item drawable="entel" />
+        <item drawable="epson_iprint" />
+        <item drawable="epsxe" />
+        <item drawable="equalizer" />
+        <item drawable="equalizer_fx" />
+        <item drawable="era" />
+        <item drawable="eraser" />
+        <item drawable="erimo_iconpack" />
+        <item drawable="erom_iconpack" />
+        <item drawable="erza_iconpack" />
+        <item drawable="es_app_locker" />
+        <item drawable="es_file_explorer" />
+        <item drawable="es_file_explorer_pro" />
+        <item drawable="es_rae" />
+        <item drawable="es_task_manager" />
+        <item drawable="eset_antivirus" />
+        <item drawable="esini_iconpack" />
+        <item drawable="espn_fantasy" />
+        <item drawable="essential_camera" />
+        <item drawable="etsy" />
+        <item drawable="european_war_4_napoleon" />
+        <item drawable="evernote" />
+        <item drawable="everphoto" />
+        <item drawable="evie" />
+        <item drawable="evite" />
+        <item drawable="ewtn" />
+        <item drawable="ex_dialer" />
+        <item drawable="exaradyo" />
+        <item drawable="exiles" />
+        <item drawable="exodus_privacy" />
+        <item drawable="expedia" />
+        <item drawable="expert_voice" />
+        <item drawable="express_vpn" />
+        <item drawable="expressweather" />
+        <item drawable="extreme_iconpack" />
+        <item drawable="eye_care" />
+        <item drawable="ez_cast" />
+        <item drawable="f_chops_weather" />
+        <item drawable="faasos" />
+        <item drawable="fabpro" />
+        <item drawable="fabulous" />
+        <item drawable="facebook" />
+        <item drawable="facebook_ads_manager" />
+        <item drawable="facebook_lite" />
+        <item drawable="facebook_local" />
+        <item drawable="facebook_moments" />
+        <item drawable="fakegps_free" />
+        <item drawable="falco" />
+        <item drawable="fallout_shelter" />
+        <item drawable="fast" />
+        <item drawable="fast_like_a_fox" />
+        <item drawable="fast_scanner" />
+        <item drawable="fasthub" />
+        <item drawable="fastsave" />
+        <item drawable="fate_go" />
+        <item drawable="fatsecret" />
+        <item drawable="fdroid" />
+        <item drawable="fedex" />
+        <item drawable="feedly" />
+        <item drawable="fenerbahce" />
+        <item drawable="fenerbahce_widget" />
+        <item drawable="fenerium" />
+        <item drawable="ff15_pe" />
+        <item drawable="fidget_spinner" />
+        <item drawable="fifa" />
+        <item drawable="fifa_companion" />
+        <item drawable="fifa_mobile" />
+        <item drawable="file" />
+        <item drawable="file_commander" />
+        <item drawable="filelinked" />
+        <item drawable="files_go" />
+        <item drawable="financial_calculator" />
+        <item drawable="financial_times" />
+        <item drawable="fire_emblem_heroes" />
+        <item drawable="fire_emblem_wiki" />
+        <item drawable="fire_tv" />
+        <item drawable="firefox" />
+        <item drawable="firefox_beta" />
+        <item drawable="firefox_focus" />
+        <item drawable="firefox_nightly" />
+        <item drawable="first_aids" />
+        <item drawable="first_aids2" />
+        <item drawable="fit_notes" />
+        <item drawable="fit_sport" />
+        <item drawable="fitbit_learn" />
+        <item drawable="fitness_bodybuilding" />
+        <item drawable="fivehundredpx" />
+        <item drawable="fixter_iconpack" />
+        <item drawable="fk_kernel_manager" />
+        <item drawable="flags" />
+        <item drawable="flamingo" />
+        <item drawable="flamingo_alt" />
+        <item drawable="flappy_bird" />
+        <item drawable="flarie" />
+        <item drawable="flashify" />
+        <item drawable="flat_keyboard" />
+        <item drawable="flat_minimal_iconpack" />
+        <item drawable="flatlay_wallpapers" />
+        <item drawable="flats" />
+        <item drawable="flatty_iconpack" />
+        <item drawable="flatx_iconpack" />
+        <item drawable="fleet_battle" />
+        <item drawable="flickr" />
+        <item drawable="flight_light" />
+        <item drawable="flight_radar_24" />
+        <item drawable="flipaclip" />
+        <item drawable="flipboard" />
+        <item drawable="flipkart" />
+        <item drawable="flo" />
+        <item drawable="flowers_wallpapers" />
+        <item drawable="flud" />
+        <item drawable="flui_iconpack" />
+        <item drawable="flutter_gallery" />
+        <item drawable="flyme_6" />
+        <item drawable="flyme_7_iconpack" />
+        <item drawable="fmm_2017" />
+        <item drawable="fmm_2018" />
+        <item drawable="fnac" />
+        <item drawable="fnac_alt" />
+        <item drawable="fnb_banking_app" />
+        <item drawable="focus" />
+        <item drawable="focus_go" />
+        <item drawable="follow_my_health" />
+        <item drawable="follow_my_health_alt" />
+        <item drawable="fonry_iconpack" />
+        <item drawable="fontfix" />
+        <item drawable="food_panda" />
+        <item drawable="fooducate" />
+        <item drawable="football_wallpapers" />
+        <item drawable="footej_camera" />
+        <item drawable="formed" />
+        <item drawable="fortnite" />
+        <item drawable="fortnite_installer" />
+        <item drawable="forza" />
+        <item drawable="fotmob" />
+        <item drawable="four_pics_one_words" />
+        <item drawable="foursquare" />
+        <item drawable="framelapse" />
+        <item drawable="frames_21" />
+        <item drawable="france_24" />
+        <item drawable="frandroid" />
+        <item drawable="free_vpn_master" />
+        <item drawable="freecharge" />
+        <item drawable="freeflight_mini" />
+        <item drawable="freeflix_hq" />
+        <item drawable="freeletics_bodyweight" />
+        <item drawable="freenet" />
+        <item drawable="fresh_ebt" />
+        <item drawable="freshmenu" />
+        <item drawable="fresy_iconpack" />
+        <item drawable="fronto_lockscreen" />
+        <item drawable="fullscreen_caller_id" />
+        <item drawable="funkong" />
+        <item drawable="furatto" />
+        <item drawable="fury_fighter" />
+        <item drawable="future_fight" />
+        <item drawable="future_pay" />
+        <item drawable="future_wallpapers" />
+        <item drawable="fx" />
+        <item drawable="gaana" />
+        <item drawable="gab" />
+        <item drawable="galaxy_app" />
+        <item drawable="galaxy_button_lights_2" />
+        <item drawable="galaxy_s8_digital_clock" />
+        <item drawable="gallery" />
+        <item drawable="gallery_doctor" />
+        <item drawable="gallery_vault" />
+        <item drawable="game_booster" />
+        <item drawable="game_collection_tracker" />
+        <item drawable="game_day" />
+        <item drawable="gamers_db" />
+        <item drawable="gamers_wallpapers" />
+        <item drawable="gametime" />
+        <item drawable="garena_free_fire" />
+        <item drawable="gasbuddy" />
+        <item drawable="gcash" />
+        <item drawable="gear_club" />
+        <item drawable="gearbest" />
+        <item drawable="geekbench_4_pro" />
+        <item drawable="gel_dark" />
+        <item drawable="genius" />
+        <item drawable="genius_scan" />
+        <item drawable="geo_caching" />
+        <item drawable="geometric_weather" />
+        <item drawable="geometry_dash" />
+        <item drawable="getapk" />
+        <item drawable="gfx_tool" />
+        <item drawable="ghost_pop" />
+        <item drawable="ghostery" />
+        <item drawable="gif_me" />
+        <item drawable="gifjif" />
+        <item drawable="gift_wallet" />
+        <item drawable="gion_iconpack" />
+        <item drawable="giphy" />
+        <item drawable="girly_fonts" />
+        <item drawable="glas_s9" />
+        <item drawable="glasic_iconpack" />
+        <item drawable="glass_iconpack" />
+        <item drawable="glassdoor" />
+        <item drawable="glitch_iconpack" />
+        <item drawable="globe_switch" />
+        <item drawable="glos_iconpack" />
+        <item drawable="gmail" />
+        <item drawable="gmf" />
+        <item drawable="go_jek" />
+        <item drawable="goal_meter" />
+        <item drawable="golden_age_of_radio" />
+        <item drawable="golden_dict" />
+        <item drawable="goldex" />
+        <item drawable="gom_recorder" />
+        <item drawable="goodreads" />
+        <item drawable="google" />
+        <item drawable="google_action_services" />
+        <item drawable="google_admin" />
+        <item drawable="google_adsense" />
+        <item drawable="google_allo" />
+        <item drawable="google_analytics" />
+        <item drawable="google_assistant" />
+        <item drawable="google_assistant_go" />
+        <item drawable="google_authentificator" />
+        <item drawable="google_calendar_3" />
+        <item drawable="google_camera" />
+        <item drawable="google_camera_alt" />
+        <item drawable="google_chrome" />
+        <item drawable="google_chrome_beta" />
+        <item drawable="google_classroom" />
+        <item drawable="google_datally" />
+        <item drawable="google_device_policy" />
+        <item drawable="google_docs" />
+        <item drawable="google_drive" />
+        <item drawable="google_earth" />
+        <item drawable="google_find_my_device" />
+        <item drawable="google_fit" />
+        <item drawable="google_fit_alt" />
+        <item drawable="google_gboard" />
+        <item drawable="google_go" />
+        <item drawable="google_home" />
+        <item drawable="google_inbox" />
+        <item drawable="google_keep" />
+        <item drawable="google_lens" />
+        <item drawable="google_maps" />
+        <item drawable="google_measure" />
+        <item drawable="google_my_business" />
+        <item drawable="google_my_maps" />
+        <item drawable="google_neightbourly" />
+        <item drawable="google_news" />
+        <item drawable="google_news_2" />
+        <item drawable="google_news_alt" />
+        <item drawable="google_news_alt3" />
+        <item drawable="google_now_launcher" />
+        <item drawable="google_pay" />
+        <item drawable="google_pay_alt" />
+        <item drawable="google_pay_send" />
+        <item drawable="google_pdf" />
+        <item drawable="google_photo" />
+        <item drawable="google_photo2" />
+        <item drawable="google_play_books" />
+        <item drawable="google_play_books2" />
+        <item drawable="google_play_books3" />
+        <item drawable="google_play_console" />
+        <item drawable="google_play_console3" />
+        <item drawable="google_play_console_alt" />
+        <item drawable="google_play_games" />
+        <item drawable="google_play_games2" />
+        <item drawable="google_play_games3" />
+        <item drawable="google_play_movie" />
+        <item drawable="google_play_movie2" />
+        <item drawable="google_play_movie3" />
+        <item drawable="google_play_music" />
+        <item drawable="google_play_music2" />
+        <item drawable="google_play_music3" />
+        <item drawable="google_play_newsstand" />
+        <item drawable="google_play_newsstand2" />
+        <item drawable="google_play_store" />
+        <item drawable="google_play_store2" />
+        <item drawable="google_play_store3" />
+        <item drawable="google_plus" />
+        <item drawable="google_podcast" />
+        <item drawable="google_podcast_black" />
+        <item drawable="google_remote_desktop" />
+        <item drawable="google_rewards" />
+        <item drawable="google_settings" />
+        <item drawable="google_sheets" />
+        <item drawable="google_sky_map" />
+        <item drawable="google_slides" />
+        <item drawable="google_street_view" />
+        <item drawable="google_task" />
+        <item drawable="google_translate" />
+        <item drawable="google_trips" />
+        <item drawable="google_voice" />
+        <item drawable="google_wallpaper" />
+        <item drawable="google_wear_os" />
+        <item drawable="google_wifi" />
+        <item drawable="gopro" />
+        <item drawable="grab" />
+        <item drawable="graby_iconpack" />
+        <item drawable="graby_spin_iconpack" />
+        <item drawable="graced_ui" />
+        <item drawable="grammarly" />
+        <item drawable="gramophone" />
+        <item drawable="gravity_scanner" />
+        <item drawable="greenify" />
+        <item drawable="grindr" />
+        <item drawable="grofers" />
+        <item drawable="group_me" />
+        <item drawable="groupon" />
+        <item drawable="gsc_cinemas" />
+        <item drawable="gta_sa" />
+        <item drawable="guilt_iconpack" />
+        <item drawable="guitar_tuna" />
+        <item drawable="gulix_iconpack" />
+        <item drawable="guns_of_boom" />
+        <item drawable="gux_iconpack" />
+        <item drawable="gzdoom" />
+        <item drawable="h2o_iconpack" />
+        <item drawable="h3g" />
+        <item drawable="h3h3" />
+        <item drawable="hangout" />
+        <item drawable="hangout_dialer" />
+        <item drawable="happn" />
+        <item drawable="haptik" />
+        <item drawable="harmony" />
+        <item drawable="hbo" />
+        <item drawable="hbo_go" />
+        <item drawable="hd_backgrounds" />
+        <item drawable="hd_camera" />
+        <item drawable="hd_camera_pro" />
+        <item drawable="hd_streamz" />
+        <item drawable="headspace" />
+        <item drawable="healthforyou" />
+        <item drawable="hearthstone" />
+        <item drawable="heatwave_iconpack" />
+        <item drawable="hedge_cam2" />
+        <item drawable="helium" />
+        <item drawable="helix_jump" />
+        <item drawable="hello_stars" />
+        <item drawable="here_maps" />
+        <item drawable="hermit" />
+        <item drawable="heroes_arena" />
+        <item drawable="hevo_iconpack" />
+        <item drawable="hicare" />
+        <item drawable="hike" />
+        <item drawable="hill_climb_racing" />
+        <item drawable="hinkhoj_dictionary" />
+        <item drawable="hitman_sniper" />
+        <item drawable="hm" />
+        <item drawable="hologram_background_3d" />
+        <item drawable="home_workout" />
+        <item drawable="homescapes" />
+        <item drawable="homver_iconpack" />
+        <item drawable="honey_bee_iconpack" />
+        <item drawable="honkai_impact_3rd" />
+        <item drawable="hoplite" />
+        <item drawable="horoscope_hd_pro" />
+        <item drawable="hotlink_red" />
+        <item drawable="hotspot_shield" />
+        <item drawable="hotstar" />
+        <item drawable="hotukdeals" />
+        <item drawable="hourly_weather_pro" />
+        <item drawable="how_to_crazy" />
+        <item drawable="hp_eprint" />
+        <item drawable="hp_smart" />
+        <item drawable="hq" />
+        <item drawable="hsbc" />
+        <item drawable="htc_boost" />
+        <item drawable="htc_camera" />
+        <item drawable="htc_companion" />
+        <item drawable="htc_contact" />
+        <item drawable="htc_flashlight" />
+        <item drawable="htc_help" />
+        <item drawable="htc_iceview" />
+        <item drawable="htc_mail" />
+        <item drawable="htc_message" />
+        <item drawable="htc_scribe" />
+        <item drawable="htc_theme" />
+        <item drawable="htc_voicerecorder" />
+        <item drawable="htc_weather" />
+        <item drawable="htc_zoe" />
+        <item drawable="huawei_appmarket" />
+        <item drawable="huawei_backup" />
+        <item drawable="huawei_bootloader_unlock" />
+        <item drawable="huawei_camera" />
+        <item drawable="huawei_compass" />
+        <item drawable="huawei_file" />
+        <item drawable="huawei_flashlight" />
+        <item drawable="huawei_gallery" />
+        <item drawable="huawei_game_suite" />
+        <item drawable="huawei_health" />
+        <item drawable="huawei_hilink" />
+        <item drawable="huawei_mirror" />
+        <item drawable="huawei_music" />
+        <item drawable="huawei_phone_clone" />
+        <item drawable="huawei_ride_mode" />
+        <item drawable="huawei_security" />
+        <item drawable="huawei_settings" />
+        <item drawable="huawei_smarte_remote" />
+        <item drawable="huawei_system_update" />
+        <item drawable="huawei_theme_manager" />
+        <item drawable="huawei_themes" />
+        <item drawable="huawei_tips" />
+        <item drawable="huawei_video" />
+        <item drawable="huawei_weather" />
+        <item drawable="huffpost" />
+        <item drawable="huji" />
+        <item drawable="hulu" />
+        <item drawable="huseyinaydin" />
+        <item drawable="hustle_castle" />
+        <item drawable="hype" />
+        <item drawable="hyperflex" />
+        <item drawable="hyperion_launcher" />
+        <item drawable="hypocam" />
+        <item drawable="i_cell" />
+        <item drawable="i_love_hue" />
+        <item drawable="i_shredder_6" />
+        <item drawable="ice_galaxy" />
+        <item drawable="icon_pack_studio" />
+        <item drawable="icon_request" />
+        <item drawable="icon_torch" />
+        <item drawable="icon_x" />
+        <item drawable="idbi_bank" />
+        <item drawable="ifont" />
+        <item drawable="ifttt" />
+        <item drawable="igtv" />
+        <item drawable="iheartradio" />
+        <item drawable="ike" />
+        <item drawable="ikea" />
+        <item drawable="ikea_family" />
+        <item drawable="ikon_iconpack" />
+        <item drawable="ilauncher" />
+        <item drawable="illuminati" />
+        <item drawable="image_search" />
+        <item drawable="imdb" />
+        <item drawable="imgur" />
+        <item drawable="imo" />
+        <item drawable="imobile" />
+        <item drawable="impulse" />
+        <item drawable="indeed" />
+        <item drawable="india_drug_index" />
+        <item drawable="indiegogo" />
+        <item drawable="infinite_s9" />
+        <item drawable="infinity_shooting" />
+        <item drawable="infinity_silk" />
+        <item drawable="infinity_slice" />
+        <item drawable="infinitydisplay" />
+        <item drawable="ingress" />
+        <item drawable="inkhunter" />
+        <item drawable="inkpad_notepad" />
+        <item drawable="inshorts" />
+        <item drawable="instacam" />
+        <item drawable="instagram" />
+        <item drawable="instagram_alt" />
+        <item drawable="instagram_direct" />
+        <item drawable="instagram_downloader" />
+        <item drawable="instagram_lite" />
+        <item drawable="instagram_story_saver" />
+        <item drawable="instlife" />
+        <item drawable="instrument_tuner" />
+        <item drawable="internation_holiday_calendar" />
+        <item drawable="internet_download_manager" />
+        <item drawable="internet_speedmeter_lite" />
+        <item drawable="into_the_dead_2" />
+        <item drawable="ios11_controlcenter" />
+        <item drawable="ios11_iconpack" />
+        <item drawable="ipsos" />
+        <item drawable="irctc_air" />
+        <item drawable="irctc_rail_connect" />
+        <item drawable="irex_iconpack" />
+        <item drawable="isotope" />
+        <item drawable="ispeed" />
+        <item drawable="issuu" />
+        <item drawable="ixigo" />
+        <item drawable="izly" />
+        <item drawable="jaybird" />
+        <item drawable="jbl_connect" />
+        <item drawable="jefit" />
+        <item drawable="jenius" />
+        <item drawable="jetaudio" />
+        <item drawable="jetpack_joyride" />
+        <item drawable="jio_chat" />
+        <item drawable="jio_health_hub" />
+        <item drawable="jio_music" />
+        <item drawable="jiocinema" />
+        <item drawable="jiomusic" />
+        <item drawable="jiotv" />
+        <item drawable="job_street" />
+        <item drawable="joox" />
+        <item drawable="jurassic_world_facts" />
+        <item drawable="just_eat" />
+        <item drawable="justwatch" />
+        <item drawable="jw_alive" />
+        <item drawable="jw_library" />
+        <item drawable="k_plus" />
+        <item drawable="k_wave" />
+        <item drawable="k_weather" />
+        <item drawable="kahoot" />
+        <item drawable="kaomoji" />
+        <item drawable="kaomoji_go" />
+        <item drawable="kaorin_iconpack" />
+        <item drawable="kaspersky_battery_life" />
+        <item drawable="kaspersky_internet_security" />
+        <item drawable="kayak" />
+        <item drawable="kde_connect" />
+        <item drawable="keep" />
+        <item drawable="keepass2android" />
+        <item drawable="keepass_dx" />
+        <item drawable="kernel_adiutor" />
+        <item drawable="kernel_adiutor_alt" />
+        <item drawable="ketchapp_circle" />
+        <item drawable="khan_academy" />
+        <item drawable="kiabi" />
+        <item drawable="kickstarter" />
+        <item drawable="kijiji" />
+        <item drawable="kik" />
+        <item drawable="kine_master" />
+        <item drawable="kinesis" />
+        <item drawable="kingdom_rush" />
+        <item drawable="kiss_launcher" />
+        <item drawable="kiwi_browser" />
+        <item drawable="kix" />
+        <item drawable="knudge_me" />
+        <item drawable="kodi" />
+        <item drawable="kore" />
+        <item drawable="ktmb" />
+        <item drawable="kulcealtin" />
+        <item drawable="kustom_lwp" />
+        <item drawable="kustom_widget" />
+        <item drawable="l_speed" />
+        <item drawable="last_journey" />
+        <item drawable="lastpass" />
+        <item drawable="lastpass_alt" />
+        <item drawable="lastpass_authentificator" />
+        <item drawable="lastpass_beta" />
+        <item drawable="lawnchair" />
+        <item drawable="laytons_mystery_journey" />
+        <item drawable="lazada" />
+        <item drawable="lbc_radio" />
+        <item drawable="le_kiosk" />
+        <item drawable="leaf_wallpapers" />
+        <item drawable="leafly" />
+        <item drawable="lean_glance" />
+        <item drawable="lean_setting" />
+        <item drawable="leapday" />
+        <item drawable="leboncoin" />
+        <item drawable="legam" />
+        <item drawable="legend" />
+        <item drawable="lenovo_camera" />
+        <item drawable="lenovo_cloneit" />
+        <item drawable="lenovo_help" />
+        <item drawable="lenovo_syncit" />
+        <item drawable="lensdistortions" />
+        <item drawable="leos_fortune" />
+        <item drawable="leroy_merlin" />
+        <item drawable="let_it_be_o_iconpack" />
+        <item drawable="letgo" />
+        <item drawable="lg_camera" />
+        <item drawable="lg_health" />
+        <item drawable="lg_tv_plus" />
+        <item drawable="libra" />
+        <item drawable="library_ufrn" />
+        <item drawable="libre_torrent" />
+        <item drawable="libreoffice_viewer" />
+        <item drawable="life360" />
+        <item drawable="lifesum" />
+        <item drawable="light_manager" />
+        <item drawable="light_x_iconpack" />
+        <item drawable="lightflow" />
+        <item drawable="lightning_blue_keyboard_theme" />
+        <item drawable="lightx" />
+        <item drawable="line" />
+        <item drawable="lineage_browser" />
+        <item drawable="lineage_camera" />
+        <item drawable="lineage_downloader" />
+        <item drawable="lineage_recorder" />
+        <item drawable="linguee" />
+        <item drawable="linkedin" />
+        <item drawable="linkedin_job_search" />
+        <item drawable="linkedin_lite" />
+        <item drawable="linxo" />
+        <item drawable="list_my_apps" />
+        <item drawable="listenit" />
+        <item drawable="livenet_tv" />
+        <item drawable="livescore" />
+        <item drawable="lloyds_bank" />
+        <item drawable="localcast" />
+        <item drawable="logitech_boom" />
+        <item drawable="logitech_harmony" />
+        <item drawable="lookout" />
+        <item drawable="loop" />
+        <item drawable="loop_hex" />
+        <item drawable="looper" />
+        <item drawable="lord_mobile" />
+        <item drawable="lost_android" />
+        <item drawable="lovoo" />
+        <item drawable="low_carb" />
+        <item drawable="lucid_daydream" />
+        <item drawable="lucidity" />
+        <item drawable="lucky_patcher" />
+        <item drawable="luno" />
+        <item drawable="lusher_test" />
+        <item drawable="lyf_pay" />
+        <item drawable="lynket" />
+        <item drawable="m1_finance" />
+        <item drawable="m_indicator" />
+        <item drawable="m_parivahan" />
+        <item drawable="ma_banque" />
+        <item drawable="maadhaar" />
+        <item drawable="madrid_mbc" />
+        <item drawable="maestria" />
+        <item drawable="magikarp" />
+        <item drawable="magisk_manager" />
+        <item drawable="magister" />
+        <item drawable="magnifying_glass" />
+        <item drawable="magnifying_glass_magnifier" />
+        <item drawable="mahavitaran" />
+        <item drawable="mail" />
+        <item drawable="mail_ru" />
+        <item drawable="malaysia_airlines" />
+        <item drawable="malwarebytes" />
+        <item drawable="mambo_iconpack" />
+        <item drawable="manga_rock" />
+        <item drawable="mario_run" />
+        <item drawable="marvel_strike_force" />
+        <item drawable="marvel_tournament" />
+        <item drawable="marvel_tsum" />
+        <item drawable="massage_techniques" />
+        <item drawable="material_islands" />
+        <item drawable="material_terminal" />
+        <item drawable="matoxin_iconpack" />
+        <item drawable="mavon_iconpack" />
+        <item drawable="maxfour_music" />
+        <item drawable="maybank" />
+        <item drawable="mayur" />
+        <item drawable="mbjb_spot" />
+        <item drawable="mcdonalds" />
+        <item drawable="mcdonalds_alt" />
+        <item drawable="mcdonalds_monopoly" />
+        <item drawable="media_converter" />
+        <item drawable="mediatek_videoplayer" />
+        <item drawable="medibang_paint" />
+        <item drawable="medical_terms" />
+        <item drawable="medication_list" />
+        <item drawable="medium" />
+        <item drawable="medium_alt" />
+        <item drawable="medlife" />
+        <item drawable="meebon_iconpack" />
+        <item drawable="meedark_iconpack" />
+        <item drawable="meegis_iconpack" />
+        <item drawable="meeui" />
+        <item drawable="meeyes_iconpack" />
+        <item drawable="mega" />
+        <item drawable="mekorama" />
+        <item drawable="meme_generator" />
+        <item drawable="memoria_freese" />
+        <item drawable="memory_improvement" />
+        <item drawable="memrise" />
+        <item drawable="mendeley" />
+        <item drawable="mercado_libre" />
+        <item drawable="merriam_dictionary" />
+        <item drawable="messaging" />
+        <item drawable="messenger" />
+        <item drawable="messenger_lite" />
+        <item drawable="metal" />
+        <item drawable="meteo_3b" />
+        <item drawable="meteor" />
+        <item drawable="mi_apps" />
+        <item drawable="mi_band_master" />
+        <item drawable="mi_browser" />
+        <item drawable="mi_drop" />
+        <item drawable="mi_fit" />
+        <item drawable="mi_forum" />
+        <item drawable="mi_home" />
+        <item drawable="mi_notes" />
+        <item drawable="mi_portal" />
+        <item drawable="mi_recorder" />
+        <item drawable="mi_remote" />
+        <item drawable="mi_store" />
+        <item drawable="microsoft_apps" />
+        <item drawable="microsoft_authentificator" />
+        <item drawable="microsoft_edge" />
+        <item drawable="microsoft_excel" />
+        <item drawable="microsoft_launcher" />
+        <item drawable="microsoft_launcher_alt" />
+        <item drawable="microsoft_lens" />
+        <item drawable="microsoft_news" />
+        <item drawable="microsoft_next" />
+        <item drawable="microsoft_onedrive" />
+        <item drawable="microsoft_onenote" />
+        <item drawable="microsoft_outlook" />
+        <item drawable="microsoft_powerpoint" />
+        <item drawable="microsoft_sharepoint" />
+        <item drawable="microsoft_skype_for_business" />
+        <item drawable="microsoft_teams" />
+        <item drawable="microsoft_todos" />
+        <item drawable="microsoft_translator" />
+        <item drawable="microsoft_word" />
+        <item drawable="microsoft_xbox" />
+        <item drawable="milb" />
+        <item drawable="milkyway_wallpapers" />
+        <item drawable="mimber_iconpack" />
+        <item drawable="minds" />
+        <item drawable="mindtricks" />
+        <item drawable="minecraft" />
+        <item drawable="minesweeper" />
+        <item drawable="minesweeper_suitable" />
+        <item drawable="mini_metro" />
+        <item drawable="mini_racing" />
+        <item drawable="minimal_wallpapers" />
+        <item drawable="minimalist_iconpack" />
+        <item drawable="minion_rush" />
+        <item drawable="ministry_assistant" />
+        <item drawable="mint" />
+        <item drawable="minty_iconpack" />
+        <item drawable="mirror_lab" />
+        <item drawable="miui_calculator" />
+        <item drawable="miui_camera" />
+        <item drawable="miui_compass" />
+        <item drawable="miui_feedback" />
+        <item drawable="miui_forum" />
+        <item drawable="miui_gallery" />
+        <item drawable="miui_hidden_settings" />
+        <item drawable="miui_music" />
+        <item drawable="miui_scanner" />
+        <item drawable="miui_screen_recorder" />
+        <item drawable="miui_security" />
+        <item drawable="miui_theme_editor" />
+        <item drawable="miui_video" />
+        <item drawable="miui_weather" />
+        <item drawable="mixer" />
+        <item drawable="mixer_create" />
+        <item drawable="mixplorer" />
+        <item drawable="mob" />
+        <item drawable="mobdro" />
+        <item drawable="mobil_assistan" />
+        <item drawable="mobile_hotspot" />
+        <item drawable="mobile_legends" />
+        <item drawable="mobizen" />
+        <item drawable="moda" />
+        <item drawable="moda_iconpack" />
+        <item drawable="molotov" />
+        <item drawable="mond" />
+        <item drawable="moneyview" />
+        <item drawable="monopoly" />
+        <item drawable="monster_hunter_stories" />
+        <item drawable="month" />
+        <item drawable="monument_valley" />
+        <item drawable="monument_valley_2" />
+        <item drawable="moon" />
+        <item drawable="moon_alt" />
+        <item drawable="moon_reader" />
+        <item drawable="moon_reader_pro" />
+        <item drawable="moonshine" />
+        <item drawable="moovit" />
+        <item drawable="mortal_kombat_x" />
+        <item drawable="motion_stills" />
+        <item drawable="moto" />
+        <item drawable="moto_camera" />
+        <item drawable="moto_gp" />
+        <item drawable="motorola_fm_radio" />
+        <item drawable="motorola_help" />
+        <item drawable="motorola_notifications" />
+        <item drawable="motorsport_manager" />
+        <item drawable="mototron" />
+        <item drawable="mountain_bike" />
+        <item drawable="mountain_bike_pro" />
+        <item drawable="movie_browser" />
+        <item drawable="movistar" />
+        <item drawable="mp3_video_converter" />
+        <item drawable="msl" />
+        <item drawable="msqrd" />
+        <item drawable="msrtc" />
+        <item drawable="mudah" />
+        <item drawable="music_center" />
+        <item drawable="musixmatch" />
+        <item drawable="muslim_pro" />
+        <item drawable="muviz" />
+        <item drawable="muzei" />
+        <item drawable="mx_log_collector" />
+        <item drawable="mx_player" />
+        <item drawable="my_3" />
+        <item drawable="my_airtel" />
+        <item drawable="my_apk" />
+        <item drawable="my_boy" />
+        <item drawable="my_boy_free" />
+        <item drawable="my_digi" />
+        <item drawable="my_drawer" />
+        <item drawable="my_effectiveness" />
+        <item drawable="my_eleven_street" />
+        <item drawable="my_fitness_pal" />
+        <item drawable="my_idea" />
+        <item drawable="my_library" />
+        <item drawable="my_mail" />
+        <item drawable="my_metro" />
+        <item drawable="my_telkomselcm" />
+        <item drawable="my_tim_mobile" />
+        <item drawable="my_tnb" />
+        <item drawable="my_tomra" />
+        <item drawable="my_tuner_pro" />
+        <item drawable="my_ui5" />
+        <item drawable="my_ui_9_iconpack" />
+        <item drawable="my_verizon" />
+        <item drawable="my_vodafone" />
+        <item drawable="my_yes_4g" />
+        <item drawable="myjio" />
+        <item drawable="mykia" />
+        <item drawable="myopel" />
+        <item drawable="myopel2" />
+        <item drawable="myopel3" />
+        <item drawable="myvodaphone" />
+        <item drawable="n26" />
+        <item drawable="namaz" />
+        <item drawable="narrator_s_voice" />
+        <item drawable="national_rail_enquiries" />
+        <item drawable="navbar_apps" />
+        <item drawable="nbc_sports" />
+        <item drawable="nearbuy_com" />
+        <item drawable="nebi_iconpack" />
+        <item drawable="nebula" />
+        <item drawable="nespresso" />
+        <item drawable="net_velocity" />
+        <item drawable="netflix" />
+        <item drawable="netflix2" />
+        <item drawable="netflix3" />
+        <item drawable="netgear_genie" />
+        <item drawable="network_signal_refresher" />
+        <item drawable="never_settle_wallpapers" />
+        <item drawable="newpipe" />
+        <item drawable="news_republic" />
+        <item drawable="nfc_tools" />
+        <item drawable="nfs_most_wanted" />
+        <item drawable="nfs_no_limit" />
+        <item drawable="niagara_launcher" />
+        <item drawable="night_shift" />
+        <item drawable="nightmare_squircle" />
+        <item drawable="nikas_analytics_widget" />
+        <item drawable="nike_run_club" />
+        <item drawable="nike_training_club" />
+        <item drawable="nine_one_one_help_pro" />
+        <item drawable="ninegag" />
+        <item drawable="ninety_four_seconds" />
+        <item drawable="nintendo_switch_online" />
+        <item drawable="nischint_safe_browser" />
+        <item drawable="no_more_excuses" />
+        <item drawable="noaa" />
+        <item drawable="noizy_iconpack" />
+        <item drawable="nokia_camera" />
+        <item drawable="nokia_fm" />
+        <item drawable="nokia_support" />
+        <item drawable="nolum_iconpack" />
+        <item drawable="nordvpn" />
+        <item drawable="nordvpn_alt" />
+        <item drawable="norton_app_lock" />
+        <item drawable="norton_clean" />
+        <item drawable="norton_mobile_security" />
+        <item drawable="notebloc" />
+        <item drawable="notepad_plus" />
+        <item drawable="notin" />
+        <item drawable="notitia_a8" />
+        <item drawable="nougat_for_zooper" />
+        <item drawable="nova_launcher" />
+        <item drawable="nova_launcher_prime" />
+        <item drawable="nova_legacy" />
+        <item drawable="numix_circle" />
+        <item drawable="nutstore" />
+        <item drawable="nyan_cat_lost_in_space" />
+        <item drawable="o3_iconpack" />
+        <item drawable="o_iconpack" />
+        <item drawable="oculus" />
+        <item drawable="odici_iconpack" />
+        <item drawable="offerup" />
+        <item drawable="office_depot" />
+        <item drawable="office_suite" />
+        <item drawable="official_twrp_app" />
+        <item drawable="olacabs" />
+        <item drawable="olmo_iconpack" />
+        <item drawable="olx" />
+        <item drawable="omlet" />
+        <item drawable="omlicon_iconpack" />
+        <item drawable="one_football" />
+        <item drawable="one_line" />
+        <item drawable="one_one_one_one" />
+        <item drawable="one_seconde_note" />
+        <item drawable="onemg" />
+        <item drawable="oneplus_filemanager" />
+        <item drawable="oneplus_gesture" />
+        <item drawable="oneplus_switch" />
+        <item drawable="oneplus_weather" />
+        <item drawable="ontrax_iconpack" />
+        <item drawable="open_camera" />
+        <item drawable="open_signal" />
+        <item drawable="open_vpn" />
+        <item drawable="opendocument_reader" />
+        <item drawable="opera" />
+        <item drawable="opera2" />
+        <item drawable="opera_beta" />
+        <item drawable="opera_beta2" />
+        <item drawable="opera_beta_mini" />
+        <item drawable="opera_max" />
+        <item drawable="opera_mini" />
+        <item drawable="opera_mini2" />
+        <item drawable="opera_mini_beta" />
+        <item drawable="opera_touch" />
+        <item drawable="opera_touch2" />
+        <item drawable="orange_bank" />
+        <item drawable="orange_cineday" />
+        <item drawable="orange_et_moi" />
+        <item drawable="orbia" />
+        <item drawable="orbia_alt" />
+        <item drawable="orbit" />
+        <item drawable="oreny_iconpack" />
+        <item drawable="oreo_s8_icon_pack" />
+        <item drawable="oriels_iconpack" />
+        <item drawable="orphic" />
+        <item drawable="ortus" />
+        <item drawable="orzak_iconpack" />
+        <item drawable="orzark_iconpack" />
+        <item drawable="os12_iconpack" />
+        <item drawable="os12_launcher" />
+        <item drawable="os_12_iconpack" />
+        <item drawable="oversumo" />
+        <item drawable="overwidget" />
+        <item drawable="ovo" />
+        <item drawable="owncloud" />
+        <item drawable="ox_x_iconpack" />
+        <item drawable="p_iconpack" />
+        <item drawable="pa_lottery" />
+        <item drawable="pacer" />
+        <item drawable="packpoint" />
+        <item drawable="pages_manager" />
+        <item drawable="pagf" />
+        <item drawable="pako" />
+        <item drawable="pako_forever" />
+        <item drawable="palabre" />
+        <item drawable="paladins_strike" />
+        <item drawable="palette" />
+        <item drawable="pandora" />
+        <item drawable="pangpang_iconpack" />
+        <item drawable="paper" />
+        <item drawable="parallax" />
+        <item drawable="paris_wallpapers" />
+        <item drawable="parrot_mini" />
+        <item drawable="particle_constellations_lw" />
+        <item drawable="pascal_n_ide" />
+        <item drawable="password1" />
+        <item drawable="patreon" />
+        <item drawable="payfy" />
+        <item drawable="paymaya" />
+        <item drawable="paypal" />
+        <item drawable="paypal_here" />
+        <item drawable="paytm" />
+        <item drawable="pda_net" />
+        <item drawable="pear_launcher" />
+        <item drawable="peel_smart_remote" />
+        <item drawable="peggo" />
+        <item drawable="pera_swipe" />
+        <item drawable="periscope" />
+        <item drawable="persona_iconpack" />
+        <item drawable="pes2018" />
+        <item drawable="philips_hue" />
+        <item drawable="phone" />
+        <item drawable="phone2" />
+        <item drawable="phone3" />
+        <item drawable="phone4" />
+        <item drawable="phone5" />
+        <item drawable="phone6" />
+        <item drawable="phone7" />
+        <item drawable="phonepe" />
+        <item drawable="phonto" />
+        <item drawable="photo_calculator" />
+        <item drawable="photo_editor" />
+        <item drawable="photo_editor_pro" />
+        <item drawable="photo_labs" />
+        <item drawable="photo_layers" />
+        <item drawable="photo_pills" />
+        <item drawable="photo_studio_pro" />
+        <item drawable="photobucket" />
+        <item drawable="photogrid" />
+        <item drawable="photomania" />
+        <item drawable="photomath" />
+        <item drawable="photoscan" />
+        <item drawable="piano_tiles_2" />
+        <item drawable="picnic" />
+        <item drawable="picsart" />
+        <item drawable="ping_pong_king" />
+        <item drawable="pinterest" />
+        <item drawable="pipette" />
+        <item drawable="pix_color" />
+        <item drawable="pix_it" />
+        <item drawable="pixabay" />
+        <item drawable="pixcyl" />
+        <item drawable="pixel3d_iconpack" />
+        <item drawable="pixel_filter" />
+        <item drawable="pixel_iconpack" />
+        <item drawable="pixel_iconpack2" />
+        <item drawable="pixel_icons" />
+        <item drawable="pixel_pie" />
+        <item drawable="pixelful" />
+        <item drawable="pixio_iconpack" />
+        <item drawable="pixomatic" />
+        <item drawable="pixxy" />
+        <item drawable="pizza_hut" />
+        <item drawable="placestor_pro" />
+        <item drawable="plague_inc" />
+        <item drawable="plant_vs_zombie" />
+        <item drawable="plant_vs_zombie_2" />
+        <item drawable="plax_ui" />
+        <item drawable="play_code" />
+        <item drawable="playstation_app" />
+        <item drawable="playstation_message" />
+        <item drawable="plex" />
+        <item drawable="plix_iconpack" />
+        <item drawable="plumber" />
+        <item drawable="pocket" />
+        <item drawable="pocket2" />
+        <item drawable="pocket_camp" />
+        <item drawable="pocket_casts" />
+        <item drawable="poco_launcher" />
+        <item drawable="podcast_addict" />
+        <item drawable="pogbytes" />
+        <item drawable="poke_mmo" />
+        <item drawable="poke_mmo_alt" />
+        <item drawable="pokemon_go" />
+        <item drawable="pokemon_quest" />
+        <item drawable="poker_bankroll" />
+        <item drawable="poker_equity" />
+        <item drawable="polaris_office" />
+        <item drawable="polaris_office_alt" />
+        <item drawable="polarr" />
+        <item drawable="pomo_iconpack" />
+        <item drawable="popcorn_time" />
+        <item drawable="popcorn_time_alt" />
+        <item drawable="porent_iconpack" />
+        <item drawable="power_toggles" />
+        <item drawable="poweramp" />
+        <item drawable="powerschool" />
+        <item drawable="powershade" />
+        <item drawable="ppsspp" />
+        <item drawable="prisjakt" />
+        <item drawable="private_browser" />
+        <item drawable="prixtel" />
+        <item drawable="productivity_challenge" />
+        <item drawable="protectfile_pro" />
+        <item drawable="protectsms_pro" />
+        <item drawable="pubg" />
+        <item drawable="puissance_4" />
+        <item drawable="pushbullet" />
+        <item drawable="qfile" />
+        <item drawable="qget" />
+        <item drawable="qihoo_security" />
+        <item drawable="qmanager" />
+        <item drawable="qpython" />
+        <item drawable="qq" />
+        <item drawable="qr_barcode_scanner" />
+        <item drawable="qr_code_scanner_pro" />
+        <item drawable="qr_droid" />
+        <item drawable="quick_imageviewer" />
+        <item drawable="quick_lyric" />
+        <item drawable="quickpic" />
+        <item drawable="quickride" />
+        <item drawable="quik" />
+        <item drawable="quitzilla" />
+        <item drawable="quizlet" />
+        <item drawable="quizup" />
+        <item drawable="quora" />
+        <item drawable="quran" />
+        <item drawable="quranshamimyas" />
+        <item drawable="r_compass" />
+        <item drawable="rabo_bankieren" />
+        <item drawable="rabo_wallet" />
+        <item drawable="radar_scope" />
+        <item drawable="radio_com" />
+        <item drawable="radio_fm" />
+        <item drawable="rados_iconpack" />
+        <item drawable="rain_wallpapers" />
+        <item drawable="rar" />
+        <item drawable="ravic_iconpack" />
+        <item drawable="ray_of_sun" />
+        <item drawable="rayman_adventure" />
+        <item drawable="razer_camera" />
+        <item drawable="razer_chroma" />
+        <item drawable="razer_cortex" />
+        <item drawable="razer_gamebooster" />
+        <item drawable="razer_gamedeals" />
+        <item drawable="rd_client" />
+        <item drawable="rd_client_beta" />
+        <item drawable="real_cricket_18" />
+        <item drawable="real_racing_3" />
+        <item drawable="reckless_getaway_2" />
+        <item drawable="recorder" />
+        <item drawable="red" />
+        <item drawable="redboxtv" />
+        <item drawable="reddit" />
+        <item drawable="reddit_relay" />
+        <item drawable="reddit_sync" />
+        <item drawable="rediff_mail" />
+        <item drawable="redox_iconpack" />
+        <item drawable="reigns" />
+        <item drawable="reigns_got" />
+        <item drawable="reigns_her_majesty" />
+        <item drawable="relax_melodies" />
+        <item drawable="relax_my_cat" />
+        <item drawable="reminder_with_alarm" />
+        <item drawable="remitano" />
+        <item drawable="resplash" />
+        <item drawable="restory" />
+        <item drawable="retom_iconpack" />
+        <item drawable="retrica" />
+        <item drawable="retro_music" />
+        <item drawable="reverse_image_search" />
+        <item drawable="revolut" />
+        <item drawable="rimbo_iconpack" />
+        <item drawable="rings" />
+        <item drawable="ringtones_3310" />
+        <item drawable="riptide_gp2" />
+        <item drawable="risk" />
+        <item drawable="rivers_casino" />
+        <item drawable="road_bike" />
+        <item drawable="road_bike_pro" />
+        <item drawable="robinhood" />
+        <item drawable="rocsy_iconpack" />
+        <item drawable="roku" />
+        <item drawable="ronio_iconpack" />
+        <item drawable="root_checker_pro" />
+        <item drawable="root_explorer" />
+        <item drawable="rootless_pixel_launcher" />
+        <item drawable="round_screen_corner_pro" />
+        <item drawable="rounded_corner" />
+        <item drawable="rugos" />
+        <item drawable="rullo" />
+        <item drawable="runtastic" />
+        <item drawable="runtastic_pro" />
+        <item drawable="russian_made_easy" />
+        <item drawable="ruzzle" />
+        <item drawable="s6_ui_iconpack" />
+        <item drawable="s7_ui_iconpack" />
+        <item drawable="s8_iconpack" />
+        <item drawable="s8_pixel" />
+        <item drawable="s8_ui_iconpack" />
+        <item drawable="s9_navigation_bar" />
+        <item drawable="s9_ui_iconpack" />
+        <item drawable="s9_ux_iconpack" />
+        <item drawable="saavn" />
+        <item drawable="safecallin" />
+        <item drawable="sagon" />
+        <item drawable="sakay" />
+        <item drawable="samsung_active_mode" />
+        <item drawable="samsung_browser" />
+        <item drawable="samsung_calculator" />
+        <item drawable="samsung_camera" />
+        <item drawable="samsung_car_mode" />
+        <item drawable="samsung_clock" />
+        <item drawable="samsung_cloud" />
+        <item drawable="samsung_concierge" />
+        <item drawable="samsung_connect" />
+        <item drawable="samsung_contacts" />
+        <item drawable="samsung_device_maintenance" />
+        <item drawable="samsung_dictionary" />
+        <item drawable="samsung_edge_touch" />
+        <item drawable="samsung_edget_lightning" />
+        <item drawable="samsung_email" />
+        <item drawable="samsung_file_explorer" />
+        <item drawable="samsung_flow" />
+        <item drawable="samsung_gallery" />
+        <item drawable="samsung_game_launcher" />
+        <item drawable="samsung_game_tuner" />
+        <item drawable="samsung_gift" />
+        <item drawable="samsung_goodlock" />
+        <item drawable="samsung_health" />
+        <item drawable="samsung_kids_mode" />
+        <item drawable="samsung_link_share" />
+        <item drawable="samsung_manager" />
+        <item drawable="samsung_manual" />
+        <item drawable="samsung_max" />
+        <item drawable="samsung_members" />
+        <item drawable="samsung_messaging" />
+        <item drawable="samsung_music" />
+        <item drawable="samsung_note" />
+        <item drawable="samsung_notes" />
+        <item drawable="samsung_oh" />
+        <item drawable="samsung_one_hand_operation" />
+        <item drawable="samsung_optical_reader" />
+        <item drawable="samsung_pass" />
+        <item drawable="samsung_pay" />
+        <item drawable="samsung_pdf" />
+        <item drawable="samsung_penup" />
+        <item drawable="samsung_phone" />
+        <item drawable="samsung_radio" />
+        <item drawable="samsung_reminder" />
+        <item drawable="samsung_rewards" />
+        <item drawable="samsung_scrapbook" />
+        <item drawable="samsung_secure_folder" />
+        <item drawable="samsung_shop" />
+        <item drawable="samsung_sidesync" />
+        <item drawable="samsung_smart_manager" />
+        <item drawable="samsung_smartmanager" />
+        <item drawable="samsung_sound_assistant" />
+        <item drawable="samsung_svoice" />
+        <item drawable="samsung_switch" />
+        <item drawable="samsung_themes" />
+        <item drawable="samsung_translator" />
+        <item drawable="samsung_video" />
+        <item drawable="samsung_voice" />
+        <item drawable="samsung_voicemail" />
+        <item drawable="samsung_voicerecorder" />
+        <item drawable="samsung_wear" />
+        <item drawable="samsung_weather" />
+        <item drawable="sankaku_black" />
+        <item drawable="sbi_anywhere_personal" />
+        <item drawable="sbi_card" />
+        <item drawable="scanner_radio" />
+        <item drawable="school_assistant" />
+        <item drawable="school_planner" />
+        <item drawable="schoology" />
+        <item drawable="science_facts" />
+        <item drawable="score_hero" />
+        <item drawable="scotiabankgo" />
+        <item drawable="screen_draw" />
+        <item drawable="screen_filter" />
+        <item drawable="screen_recorder" />
+        <item drawable="screen_recorder_pro" />
+        <item drawable="screener" />
+        <item drawable="scrittor" />
+        <item drawable="sd_maid" />
+        <item drawable="sd_maid_pro" />
+        <item drawable="seat_geek" />
+        <item drawable="secondline" />
+        <item drawable="secure_vpn" />
+        <item drawable="seeking_alpha" />
+        <item drawable="self_healing_course" />
+        <item drawable="sellpro" />
+        <item drawable="sendanyfile" />
+        <item drawable="sens_critique" />
+        <item drawable="settings" />
+        <item drawable="settings_alt" />
+        <item drawable="seven_mins_workout" />
+        <item drawable="seveneleven" />
+        <item drawable="sevenfon" />
+        <item drawable="sfilter" />
+        <item drawable="sfilter_pro" />
+        <item drawable="shadow_fight_2" />
+        <item drawable="shadow_fight_3" />
+        <item drawable="shadowgun_legends" />
+        <item drawable="share_it" />
+        <item drawable="sharecloud" />
+        <item drawable="shazam" />
+        <item drawable="shimeji" />
+        <item drawable="shopback" />
+        <item drawable="shopee" />
+        <item drawable="shortcutter" />
+        <item drawable="showbox" />
+        <item drawable="shrug" />
+        <item drawable="shuttle" />
+        <item drawable="signal" />
+        <item drawable="signal_care" />
+        <item drawable="silk_paints" />
+        <item drawable="simcity" />
+        <item drawable="simple_gallery" />
+        <item drawable="simple_mail" />
+        <item drawable="simple_pro" />
+        <item drawable="simplicon_iconpack" />
+        <item drawable="sing_smule" />
+        <item drawable="six_pack_in_30_days" />
+        <item drawable="sketch" />
+        <item drawable="sketchfab" />
+        <item drawable="skullgirls" />
+        <item drawable="sky_force_reloaded" />
+        <item drawable="skyclock" />
+        <item drawable="skype" />
+        <item drawable="skyscanner" />
+        <item drawable="sl_journey_planner" />
+        <item drawable="slack" />
+        <item drawable="slacker_radio" />
+        <item drawable="sleep_cycle" />
+        <item drawable="slickdeals" />
+        <item drawable="slide_for_reddit" />
+        <item drawable="slither_io" />
+        <item drawable="smart_account" />
+        <item drawable="smart_launcher" />
+        <item drawable="smart_lockscreen_protector" />
+        <item drawable="smart_prix" />
+        <item drawable="smartnews" />
+        <item drawable="sms" />
+        <item drawable="sms_alt" />
+        <item drawable="sms_alt2" />
+        <item drawable="sms_backup_and_restore" />
+        <item drawable="sms_organizer" />
+        <item drawable="smugy_ui" />
+        <item drawable="snapchat" />
+        <item drawable="snapdeal" />
+        <item drawable="snapseed" />
+        <item drawable="snaptube" />
+        <item drawable="soccas" />
+        <item drawable="soccer_star" />
+        <item drawable="sofascore" />
+        <item drawable="softbold" />
+        <item drawable="solid_explorer" />
+        <item drawable="solitaire" />
+        <item drawable="solitary" />
+        <item drawable="sololearn" />
+        <item drawable="sonic2" />
+        <item drawable="sonic_forces" />
+        <item drawable="sonic_surge_2" />
+        <item drawable="sony_ar_effect" />
+        <item drawable="sony_camera" />
+        <item drawable="sony_defocus" />
+        <item drawable="sony_gallery" />
+        <item drawable="sony_music" />
+        <item drawable="sony_recorder" />
+        <item drawable="sony_support" />
+        <item drawable="sony_whats_news" />
+        <item drawable="sonyliv" />
+        <item drawable="soul_knight" />
+        <item drawable="soundcloud" />
+        <item drawable="south_park" />
+        <item drawable="space_expedition" />
+        <item drawable="spartan_six_pack" />
+        <item drawable="spartan_six_pack_pro" />
+        <item drawable="spartan_workouts_free" />
+        <item drawable="spectrum" />
+        <item drawable="speedtest" />
+        <item drawable="spendee" />
+        <item drawable="spetinfo" />
+        <item drawable="spheroid" />
+        <item drawable="spider_man_2" />
+        <item drawable="splitwise" />
+        <item drawable="spotify" />
+        <item drawable="squid" />
+        <item drawable="squid_news" />
+        <item drawable="squirclx" />
+        <item drawable="sricam" />
+        <item drawable="star_health" />
+        <item drawable="star_health_agent" />
+        <item drawable="star_music_tag_editor" />
+        <item drawable="star_tracker" />
+        <item drawable="star_walk2" />
+        <item drawable="starbucks" />
+        <item drawable="starific" />
+        <item drawable="stark_dev" />
+        <item drawable="starless" />
+        <item drawable="stashpedia" />
+        <item drawable="stealth_player" />
+        <item drawable="steam" />
+        <item drawable="stellar_fox" />
+        <item drawable="stellio" />
+        <item drawable="stick_war_legacy" />
+        <item drawable="stitch_and_share" />
+        <item drawable="stk" />
+        <item drawable="stocard" />
+        <item drawable="strafe" />
+        <item drawable="stranger" />
+        <item drawable="stranger_things_the_game" />
+        <item drawable="stretching" />
+        <item drawable="stub_hub" />
+        <item drawable="stylish_text" />
+        <item drawable="subatomic_live_wallpaper" />
+        <item drawable="substratum" />
+        <item drawable="substratum_alt" />
+        <item drawable="subway" />
+        <item drawable="subway_surfers" />
+        <item drawable="sudoku" />
+        <item drawable="sugox_iconpack" />
+        <item drawable="super_backup" />
+        <item drawable="super_cat_bros" />
+        <item drawable="super_drag" />
+        <item drawable="super_mario_forever" />
+        <item drawable="super_spell_heroes" />
+        <item drawable="supercat" />
+        <item drawable="supersu" />
+        <item drawable="supertank" />
+        <item drawable="sure_remote" />
+        <item drawable="survival_heroes" />
+        <item drawable="survival_manual" />
+        <item drawable="svc_mobile" />
+        <item drawable="swamp_attack" />
+        <item drawable="sweatcoin" />
+        <item drawable="sweech" />
+        <item drawable="sweetbo_iconpack" />
+        <item drawable="swift_black" />
+        <item drawable="swift_installer" />
+        <item drawable="swiftapp" />
+        <item drawable="swiftdark_substratum" />
+        <item drawable="swiftkey" />
+        <item drawable="swiftly_switch" />
+        <item drawable="swiggy" />
+        <item drawable="swiss_iconpack" />
+        <item drawable="sygic" />
+        <item drawable="symbolab" />
+        <item drawable="syndicate_bank" />
+        <item drawable="synology_cloud" />
+        <item drawable="synology_file" />
+        <item drawable="synology_router" />
+        <item drawable="t_mobile" />
+        <item drawable="t_mobile_voicemail" />
+        <item drawable="tank_star" />
+        <item drawable="tapastic" />
+        <item drawable="tapet" />
+        <item drawable="tasker" />
+        <item drawable="taskmanager_byte" />
+        <item drawable="tasks" />
+        <item drawable="tasty_trades" />
+        <item drawable="tbs_online" />
+        <item drawable="tea_tv" />
+        <item drawable="teamviewer" />
+        <item drawable="teardrop_pixel_dark" />
+        <item drawable="ted" />
+        <item drawable="telegram" />
+        <item drawable="telegram_x" />
+        <item drawable="temple_run_oz" />
+        <item drawable="tempmail" />
+        <item drawable="termux" />
+        <item drawable="terrarium_tv" />
+        <item drawable="tetris" />
+        <item drawable="text_converter" />
+        <item drawable="text_now" />
+        <item drawable="textra" />
+        <item drawable="textra_alt" />
+        <item drawable="thailand_radio" />
+        <item drawable="the_athletic" />
+        <item drawable="the_economist" />
+        <item drawable="the_economist_espresso" />
+        <item drawable="the_sandbox_evolution" />
+        <item drawable="the_score" />
+        <item drawable="the_wiki_game" />
+        <item drawable="theme" />
+        <item drawable="theme_galaxy" />
+        <item drawable="theotown" />
+        <item drawable="thinkors_swim" />
+        <item drawable="thisissand" />
+        <item drawable="three" />
+        <item drawable="ticktick" />
+        <item drawable="tide" />
+        <item drawable="tiktok" />
+        <item drawable="tile" />
+        <item drawable="tiles" />
+        <item drawable="timbul" />
+        <item drawable="timetune" />
+        <item drawable="timver_iconpack" />
+        <item drawable="tinder" />
+        <item drawable="tinder_alt" />
+        <item drawable="tingles" />
+        <item drawable="titanium_backup" />
+        <item drawable="tmz" />
+        <item drawable="today_weather" />
+        <item drawable="todoist" />
+        <item drawable="tokopedia" />
+        <item drawable="toluna" />
+        <item drawable="tomb_of_the_mask" />
+        <item drawable="too_good_to_go" />
+        <item drawable="too_good_to_go_alt" />
+        <item drawable="toon_shooters" />
+        <item drawable="top_eleven" />
+        <item drawable="torrdroid" />
+        <item drawable="torrent_search_engine" />
+        <item drawable="touch_n_go" />
+        <item drawable="touchpal" />
+        <item drawable="touchvpn" />
+        <item drawable="trade_me" />
+        <item drawable="trainman" />
+        <item drawable="transdrone" />
+        <item drawable="transparent_clock_weather" />
+        <item drawable="tripadvisor" />
+        <item drawable="trivago" />
+        <item drawable="truecaller" />
+        <item drawable="tsubook" />
+        <item drawable="tsumtsum" />
+        <item drawable="ttorrent" />
+        <item drawable="tube_map" />
+        <item drawable="tubemate" />
+        <item drawable="tumblr" />
+        <item drawable="tunein_radio" />
+        <item drawable="tunein_radio_pro" />
+        <item drawable="tunetalk" />
+        <item drawable="turbo_vpn" />
+        <item drawable="tv_sideview" />
+        <item drawable="tv_time" />
+        <item drawable="tvc" />
+        <item drawable="tweet2gif" />
+        <item drawable="twilight" />
+        <item drawable="twisty_timer" />
+        <item drawable="twitama" />
+        <item drawable="twitch" />
+        <item drawable="twitter" />
+        <item drawable="twitter_lite" />
+        <item drawable="two_eyes" />
+        <item drawable="uber" />
+        <item drawable="uber_eats" />
+        <item drawable="ubisoft_club" />
+        <item drawable="uc_browser" />
+        <item drawable="uchoose" />
+        <item drawable="udacity" />
+        <item drawable="udemy" />
+        <item drawable="ufc" />
+        <item drawable="uitm_digital_campus" />
+        <item drawable="uitm_sufo" />
+        <item drawable="ulike" />
+        <item drawable="ultimate_guitar_tabs" />
+        <item drawable="ultimate_randomizer" />
+        <item drawable="umang" />
+        <item drawable="unfollowers" />
+        <item drawable="unidays" />
+        <item drawable="unified_hosts_manager" />
+        <item drawable="unified_remote" />
+        <item drawable="uninstall" />
+        <item drawable="unit_converter" />
+        <item drawable="universal_copy" />
+        <item drawable="universal_list" />
+        <item drawable="uniwhere" />
+        <item drawable="untappd" />
+        <item drawable="upflix" />
+        <item drawable="uptodown" />
+        <item drawable="urbanclap" />
+        <item drawable="urbandroid_sleep" />
+        <item drawable="uriconpack" />
+        <item drawable="usbank" />
+        <item drawable="user_review" />
+        <item drawable="utorrent" />
+        <item drawable="uts" />
+        <item drawable="ux11_icon_pack" />
+        <item drawable="ux_s8" />
+        <item drawable="ux_s9" />
+        <item drawable="ux_s9_iconpack" />
+        <item drawable="v_sat" />
+        <item drawable="vcam" />
+        <item drawable="venmo" />
+        <item drawable="vente_privee" />
+        <item drawable="verizon_cloud" />
+        <item drawable="verizon_message" />
+        <item drawable="verizon_security" />
+        <item drawable="vestel_cloud" />
+        <item drawable="viber" />
+        <item drawable="vice" />
+        <item drawable="video_downloader" />
+        <item drawable="video_downloader_for_instagram" />
+        <item drawable="video_editor_for_youtube" />
+        <item drawable="videoder" />
+        <item drawable="videoshow" />
+        <item drawable="videostream_mobile" />
+        <item drawable="vidtrim" />
+        <item drawable="vignette" />
+        <item drawable="vimage" />
+        <item drawable="vimeo" />
+        <item drawable="vimla" />
+        <item drawable="vin_wiki" />
+        <item drawable="vinci" />
+        <item drawable="vip_access" />
+        <item drawable="viper4android" />
+        <item drawable="viper4android_xhifi" />
+        <item drawable="vipre" />
+        <item drawable="virgin_media" />
+        <item drawable="virgin_mobile" />
+        <item drawable="virtual_xposed" />
+        <item drawable="viscosity" />
+        <item drawable="visible_body" />
+        <item drawable="viveport" />
+        <item drawable="vivo_appstore" />
+        <item drawable="vivo_browser" />
+        <item drawable="vivo_cloud" />
+        <item drawable="vivo_com" />
+        <item drawable="vivo_easyshare" />
+        <item drawable="vivo_lock" />
+        <item drawable="vivo_mail" />
+        <item drawable="vivo_music" />
+        <item drawable="vivo_pctools" />
+        <item drawable="vivo_security" />
+        <item drawable="vivo_soundrecorder" />
+        <item drawable="vivo_theme" />
+        <item drawable="vivo_video" />
+        <item drawable="vivo_weather" />
+        <item drawable="vlc" />
+        <item drawable="vlc_mobile_remote" />
+        <item drawable="vmarket" />
+        <item drawable="vodafone_wallpaper" />
+        <item drawable="voi" />
+        <item drawable="voice_changer" />
+        <item drawable="voice_mail" />
+        <item drawable="vonage_extension" />
+        <item drawable="votus_iconpack" />
+        <item drawable="vpn_force" />
+        <item drawable="vsco" />
+        <item drawable="vudu" />
+        <item drawable="vuewin" />
+        <item drawable="w10_lockscreen" />
+        <item drawable="wall_of_fame" />
+        <item drawable="wallboard" />
+        <item drawable="wallcraft" />
+        <item drawable="wallhub" />
+        <item drawable="walli" />
+        <item drawable="wallify" />
+        <item drawable="wallpaper_4k" />
+        <item drawable="wallpaper_for_venus" />
+        <item drawable="wallpapers_craft" />
+        <item drawable="wallrox" />
+        <item drawable="wallz" />
+        <item drawable="walpy" />
+        <item drawable="wamo_iconpack" />
+        <item drawable="wamr" />
+        <item drawable="war_dragons" />
+        <item drawable="war_wings" />
+        <item drawable="watch_espn" />
+        <item drawable="wattpad" />
+        <item drawable="way2news" />
+        <item drawable="waze" />
+        <item drawable="weather_samruston" />
+        <item drawable="web_video_caster" />
+        <item drawable="webtoon" />
+        <item drawable="wechat" />
+        <item drawable="weedmaps" />
+        <item drawable="weightwatchers" />
+        <item drawable="wendys" />
+        <item drawable="werewolf_online" />
+        <item drawable="westworld" />
+        <item drawable="whaff" />
+        <item drawable="whale" />
+        <item drawable="whats_removed" />
+        <item drawable="whatsapp" />
+        <item drawable="whatsapp_business" />
+        <item drawable="where_is_my_train" />
+        <item drawable="whereismywater2" />
+        <item drawable="whicons" />
+        <item drawable="whisper" />
+        <item drawable="wibr" />
+        <item drawable="wifi_utility" />
+        <item drawable="wifikey" />
+        <item drawable="wikipedia" />
+        <item drawable="windscribe" />
+        <item drawable="wirex" />
+        <item drawable="wish" />
+        <item drawable="wonder_iconpack" />
+        <item drawable="wonderwall" />
+        <item drawable="woodfoorest" />
+        <item drawable="wordpress" />
+        <item drawable="wordweb" />
+        <item drawable="worldstar" />
+        <item drawable="worms_4" />
+        <item drawable="wps_office" />
+        <item drawable="wunderlist" />
+        <item drawable="wuntu" />
+        <item drawable="x_vpn" />
+        <item drawable="xcast" />
+        <item drawable="xcloud" />
+        <item drawable="xda" />
+        <item drawable="xda_feed" />
+        <item drawable="xda_labs" />
+        <item drawable="xda_labs_alt" />
+        <item drawable="xender" />
+        <item drawable="xeus_timbre" />
+        <item drawable="xodo_docs" />
+        <item drawable="xperia_assist" />
+        <item drawable="xperia_lounge" />
+        <item drawable="xperia_transfer_mobile" />
+        <item drawable="xplayer" />
+        <item drawable="xposed_installer" />
+        <item drawable="xui_mod" />
+        <item drawable="yahoo_finance" />
+        <item drawable="yahoo_mail" />
+        <item drawable="yalp_store" />
+        <item drawable="yeelight" />
+        <item drawable="yellow" />
+        <item drawable="yelp" />
+        <item drawable="yelp_alt" />
+        <item drawable="yi_action" />
+        <item drawable="yify" />
+        <item drawable="yify_torrent_subtitle" />
+        <item drawable="yik_yak" />
+        <item drawable="ymusic" />
+        <item drawable="yomira" />
+        <item drawable="yono" />
+        <item drawable="you_music" />
+        <item drawable="yougov" />
+        <item drawable="youper" />
+        <item drawable="youtube" />
+        <item drawable="youtube_creator" />
+        <item drawable="youtube_gaming" />
+        <item drawable="youtube_gaming2" />
+        <item drawable="youtube_music" />
+        <item drawable="youtube_music_alt" />
+        <item drawable="youtube_tv" />
+        <item drawable="youtube_vanced" />
+        <item drawable="yqtrack" />
+        <item drawable="yuka" />
+        <item drawable="yumu_music" />
+        <item drawable="zarchiver" />
+        <item drawable="zedge" />
+        <item drawable="zello" />
+        <item drawable="zemb" />
+        <item drawable="zenge" />
+        <item drawable="zenomia5" />
+        <item drawable="ziggo_go" />
+        <item drawable="zip_recruiters" />
+        <item drawable="zomato" />
+        <item drawable="zombie_catcher" />
+        <item drawable="zoom" />
+        <item drawable="zooper_widget_free" />
+        <item drawable="zopper_widget_pro" />
+        <item drawable="zoreo_iconpack" />
+        <item drawable="zte_browser" />
+        <item drawable="zte_camera" />
+        <item drawable="zte_download" />
+        <item drawable="zte_gallery" />
+        <item drawable="zte_lock" />
+        <item drawable="zte_mail" />
+        <item drawable="zte_music" />
+        <item drawable="zte_recorder" />
+        <item drawable="zte_service" />
+        <item drawable="zte_tools" />
+        <item drawable="zte_video" />
+        <item drawable="zyan_drench" />
+        <item drawable="zynga_poker" />
     </string-array>
-
-    <!-- These sections below are for your "Previews" section -->
-    <!-- These names should match YOUR actual icon names
-    	 the names used below are just for sampling purposes -->
-
-    <!-- Make sure the filters names are the same as the other arrays -->
-    <string-array name="icon_filters">
-        <item>all</item>
-        <item>amber</item>
-        <item>blue</item>
-        <item>purple</item>
-        <item>red</item>
-        <item>circles</item>
-        <item>rectangles</item>
-        <item>squares</item>
-    </string-array>
-
-    <string-array name="all">
-        <item>amber_circle</item>
-        <item>amber_rectangle</item>
-        <item>amber_square</item>
-        <item>blue_circle</item>
-        <item>blue_rectangle</item>
-        <item>blue_square</item>
-        <item>purple_circle</item>
-        <item>purple_rectangle</item>
-        <item>purple_square</item>
-        <item>red_circle</item>
-        <item>red_rectangle</item>
-        <item>red_square</item>
-    </string-array>
-
-    <string-array name="amber">
-        <item>amber_circle</item>
-        <item>amber_rectangle</item>
-        <item>amber_square</item>
-    </string-array>
-
-    <string-array name="blue">
-        <item>blue_circle</item>
-        <item>blue_rectangle</item>
-        <item>blue_square</item>
-    </string-array>
-
-    <string-array name="purple">
-        <item>purple_circle</item>
-        <item>purple_rectangle</item>
-        <item>purple_square</item>
-    </string-array>
-
-    <string-array name="red">
-        <item>red_circle</item>
-        <item>red_rectangle</item>
-        <item>red_square</item>
-    </string-array>
-
-    <string-array name="circles">
-        <item>amber_circle</item>
-        <item>blue_circle</item>
-        <item>purple_circle</item>
-        <item>red_circle</item>
-    </string-array>
-
-    <string-array name="rectangles">
-        <item>amber_rectangle</item>
-        <item>blue_rectangle</item>
-        <item>purple_rectangle</item>
-        <item>red_rectangle</item>
-    </string-array>
-
-    <string-array name="squares">
-        <item>amber_square</item>
-        <item>blue_square</item>
-        <item>purple_square</item>
-        <item>red_square</item>
-    </string-array>
-
 </resources>
