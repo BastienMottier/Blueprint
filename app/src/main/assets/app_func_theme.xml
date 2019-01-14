@@ -137,6 +137,6 @@
     <AppIcon text_bg_color="#FF007FEB" text_color="#FFFFFFFF"></AppIcon>
     <!-- Theme configuration -->
     <!-- Grid Size -->
-    <AppSetting grid_format="6"></AppSetting>
+    <AppSetting grid_format="1"></AppSetting>
 </Theme>
 
