@@ -48,7 +48,7 @@ $text = <<<EOF
 
 EOF;
 
-$text .= makeCategory('icon_preview', $new_all);
+$text .= makeCategory('icons_preview', $new_all);
 $text .= makeCategory('all', $new_all);
 $text .= makeCategory('recently_added', $new_icons);
 

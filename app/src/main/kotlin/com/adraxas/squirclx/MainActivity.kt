@@ -31,7 +31,7 @@ class MainActivity : BottomNavigationBlueprintActivity() {
      */
     override var donationsEnabled = true
     
-    override fun amazonInstallsEnabled(): Boolean = false
+    override fun amazonInstallsEnabled(): Boolean = true
     override fun checkLPF(): Boolean = false
     override fun checkStores(): Boolean = false
     
@@ -49,8 +49,9 @@ class MainActivity : BottomNavigationBlueprintActivity() {
      */
     override fun getLicenseChecker(): PiracyChecker? {
         destroyChecker() // Important
-        return if (BuildConfig.DEBUG) null
-        else super.getLicenseChecker()
+        /*return if (BuildConfig.DEBUG) null
+        else super.getLicenseChecker()*/
+        return null
     }
 
     /**
