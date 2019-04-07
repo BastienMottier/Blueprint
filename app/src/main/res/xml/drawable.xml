@@ -24,6 +24,7 @@
 		<item drawable="acr_pro" />
 		<item drawable="acrobat_reader" />
 		<item drawable="act_fibernet" />
+		<item drawable="action_dash" />
 		<item drawable="action_launcher" />
 		<item drawable="ada" />
 		<item drawable="adapticon" />
@@ -55,6 +56,7 @@
 		<item drawable="adobe_spark" />
 		<item drawable="adobe_xd" />
 		<item drawable="adpdigital_ayande" />
+		<item drawable="adventure_communist" />
 		<item drawable="adventure_smith" />
 		<item drawable="aeris_currency_converter" />
 		<item drawable="aex_papers" />
@@ -111,6 +113,7 @@
 		<item drawable="amazon_music" />
 		<item drawable="amazon_photos" />
 		<item drawable="amazon_prime_video" />
+		<item drawable="amazon_seller" />
 		<item drawable="amazon_shopping" />
 		<item drawable="amc_theaters" />
 		<item drawable="amd_link" />
@@ -119,6 +122,7 @@
 		<item drawable="amoled_live_wallpaper" />
 		<item drawable="amoled_wallpaper" />
 		<item drawable="amoled_wallpapers_4k" />
+		<item drawable="amoled_walls" />
 		<item drawable="amolet_wallpapers_4k_2" />
 		<item drawable="ampere" />
 		<item drawable="andro_irc" />
@@ -143,6 +147,7 @@
 		<item drawable="anime_dlr" />
 		<item drawable="anime_tv" />
 		<item drawable="animus2" />
+		<item drawable="ankara_kart" />
 		<item drawable="ankidroid" />
 		<item drawable="annabelle_ui" />
 		<item drawable="anonytun" />
@@ -179,6 +184,7 @@
 		<item drawable="apple_music" />
 		<item drawable="appnana" />
 		<item drawable="apps2fire" />
+		<item drawable="apps_free" />
 		<item drawable="apps_giveway" />
 		<item drawable="appsales" />
 		<item drawable="appvn" />
@@ -201,6 +207,7 @@
 		<item drawable="around_me" />
 		<item drawable="art_wallpaper_pro" />
 		<item drawable="arte" />
+		<item drawable="aruba_pec" />
 		<item drawable="asana" />
 		<item drawable="ascio" />
 		<item drawable="asian_wallpaper" />
@@ -227,6 +234,7 @@
 		<item drawable="asus_sound_recorder" />
 		<item drawable="asus_theme" />
 		<item drawable="asus_weather" />
+		<item drawable="at_and_t_call_protect" />
 		<item drawable="atbat" />
 		<item drawable="atm_milano" />
 		<item drawable="atomic_clock" />
@@ -257,6 +265,7 @@
 		<item drawable="avicii_gravity_hd" />
 		<item drawable="axis_mobile" />
 		<item drawable="axolotl_pet" />
+		<item drawable="aycon" />
 		<item drawable="az_screenrecorder" />
 		<item drawable="azar" />
 		<item drawable="azur_lane" />
@@ -264,7 +273,10 @@
 		<item drawable="b612" />
 		<item drawable="babbel" />
 		<item drawable="bac_mobile" />
+		<item drawable="back_dark" />
+		<item drawable="back_white" />
 		<item drawable="backdrops" />
+		<item drawable="background" />
 		<item drawable="background_video_recorder" />
 		<item drawable="bacon_reader" />
 		<item drawable="baidu_netdisk" />
@@ -273,6 +285,7 @@
 		<item drawable="banco_bpm" />
 		<item drawable="banco_estado" />
 		<item drawable="banco_falabella" />
+		<item drawable="banco_guayaquil" />
 		<item drawable="banco_next" />
 		<item drawable="banco_posta" />
 		<item drawable="bandcamp" />
@@ -303,7 +316,9 @@
 		<item drawable="bcci" />
 		<item drawable="be_my_eyes" />
 		<item drawable="beach_waves_wallpaper" />
+		<item drawable="beat_fever" />
 		<item drawable="beat_stomper" />
+		<item drawable="beatbox" />
 		<item drawable="beebom" />
 		<item drawable="behance" />
 		<item drawable="belari_iconpack" />
@@ -345,6 +360,7 @@
 		<item drawable="bitpay" />
 		<item drawable="bittorrent" />
 		<item drawable="bittorrent_pro" />
+		<item drawable="bitwarden" />
 		<item drawable="bj" />
 		<item drawable="blablacar" />
 		<item drawable="black" />
@@ -371,6 +387,7 @@
 		<item drawable="bnz_mobile" />
 		<item drawable="bol_com" />
 		<item drawable="bolt_iconpack" />
+		<item drawable="bolt_taxify" />
 		<item drawable="book_my_show" />
 		<item drawable="booking" />
 		<item drawable="bookmark_links" />
@@ -465,8 +482,10 @@
 		<item drawable="caller_name_id" />
 		<item drawable="calligrapher_pro" />
 		<item drawable="calm" />
+		<item drawable="cambridge_grammar" />
 		<item drawable="camcorder" />
 		<item drawable="camera" />
+		<item drawable="camera_360" />
 		<item drawable="camera_fv5" />
 		<item drawable="camera_mx" />
 		<item drawable="camera_oneplus" />
@@ -484,6 +503,7 @@
 		<item drawable="canon_print" />
 		<item drawable="canva" />
 		<item drawable="canvas_student" />
+		<item drawable="capital_one" />
 		<item drawable="capital_one_canada" />
 		<item drawable="car2go" />
 		<item drawable="card_ui" />
@@ -507,8 +527,10 @@
 		<item drawable="cdiscount_2" />
 		<item drawable="cek_saldo" />
 		<item drawable="celcom_life" />
+		<item drawable="cell_broadcast" />
 		<item drawable="cerberus" />
 		<item drawable="cerco" />
+		<item drawable="chaos_ring_3" />
 		<item drawable="chase" />
 		<item drawable="check_su" />
 		<item drawable="cheetah_keyboard" />
@@ -521,6 +543,7 @@
 		<item drawable="chomp_sms_alt" />
 		<item drawable="chroma_lab" />
 		<item drawable="chrome_canary" />
+		<item drawable="chrono_trigger" />
 		<item drawable="chronus" />
 		<item drawable="chrooma_keyboard" />
 		<item drawable="chrooma_live_wallpaper" />
@@ -571,6 +594,7 @@
 		<item drawable="coingecko" />
 		<item drawable="coins_ph" />
 		<item drawable="collage_maker" />
+		<item drawable="collision" />
 		<item drawable="color_iconpack" />
 		<item drawable="color_note" />
 		<item drawable="color_paper_iconpack" />
@@ -659,6 +683,7 @@
 		<item drawable="day_by_day" />
 		<item drawable="day_off" />
 		<item drawable="daydream" />
+		<item drawable="dbm" />
 		<item drawable="dcikonz" />
 		<item drawable="dcoder" />
 		<item drawable="dead_trigger_2" />
@@ -689,6 +714,7 @@
 		<item drawable="did_you_know" />
 		<item drawable="didi" />
 		<item drawable="digical" />
+		<item drawable="digid" />
 		<item drawable="digilocker" />
 		<item drawable="digital_clock_widget" />
 		<item drawable="dillons" />
@@ -706,6 +732,7 @@
 		<item drawable="diskdigger" />
 		<item drawable="display_calibration" />
 		<item drawable="dji_go" />
+		<item drawable="dlive" />
 		<item drawable="dmart" />
 		<item drawable="dnschanger" />
 		<item drawable="dodol_locker" />
@@ -767,6 +794,7 @@
 		<item drawable="easy_voice_recorder" />
 		<item drawable="easyjet" />
 		<item drawable="easyjoin" />
+		<item drawable="easyly_do" />
 		<item drawable="eatigo" />
 		<item drawable="ebay" />
 		<item drawable="eboox" />
@@ -799,6 +827,7 @@
 		<item drawable="energy_bar" />
 		<item drawable="english_to_tagalog" />
 		<item drawable="enki" />
+		<item drawable="enpara_com" />
 		<item drawable="enpass" />
 		<item drawable="entel" />
 		<item drawable="epson_iprint" />
@@ -841,19 +870,23 @@
 		<item drawable="faasos" />
 		<item drawable="fabpro" />
 		<item drawable="fabulous" />
+		<item drawable="faceapp" />
 		<item drawable="facebook" />
 		<item drawable="facebook_ads_manager" />
 		<item drawable="facebook_lite" />
 		<item drawable="facebook_local" />
 		<item drawable="facebook_moments" />
 		<item drawable="facer" />
+		<item drawable="fake_gps_pro" />
 		<item drawable="fakegps_free" />
 		<item drawable="falco" />
 		<item drawable="fallout_shelter" />
+		<item drawable="fallout_wiki" />
 		<item drawable="fast" />
 		<item drawable="fast_like_a_fox" />
 		<item drawable="fast_scanner" />
 		<item drawable="fasthub" />
+		<item drawable="fastpay" />
 		<item drawable="fastsave" />
 		<item drawable="fate_go" />
 		<item drawable="fatsecret" />
@@ -873,6 +906,8 @@
 		<item drawable="file_commander" />
 		<item drawable="filelinked" />
 		<item drawable="files_go" />
+		<item drawable="final_fantasy_dimensions_2" />
+		<item drawable="final_fantasy_portal" />
 		<item drawable="financial_calculator" />
 		<item drawable="financial_times" />
 		<item drawable="find_me_gf" />
@@ -887,6 +922,7 @@
 		<item drawable="first_aids2" />
 		<item drawable="fit_notes" />
 		<item drawable="fit_sport" />
+		<item drawable="fitbit" />
 		<item drawable="fitbit_learn" />
 		<item drawable="fitness_bodybuilding" />
 		<item drawable="fivehundredpx" />
@@ -946,6 +982,7 @@
 		<item drawable="four_pics_one_words" />
 		<item drawable="foursquare" />
 		<item drawable="fpl" />
+		<item drawable="frag" />
 		<item drawable="framelapse" />
 		<item drawable="frames_21" />
 		<item drawable="france_24" />
@@ -983,8 +1020,10 @@
 		<item drawable="gamers_wallpapers" />
 		<item drawable="games2048" />
 		<item drawable="gametime" />
+		<item drawable="gaming_zone" />
 		<item drawable="garena_free_fire" />
 		<item drawable="gasbuddy" />
+		<item drawable="gbc_emu" />
 		<item drawable="gcash" />
 		<item drawable="gear_club" />
 		<item drawable="gearbest" />
@@ -1014,6 +1053,7 @@
 		<item drawable="glitch_iconpack" />
 		<item drawable="globe_switch" />
 		<item drawable="glos_iconpack" />
+		<item drawable="glovo" />
 		<item drawable="gmail" />
 		<item drawable="gmf" />
 		<item drawable="go_jek" />
@@ -1152,8 +1192,10 @@
 		<item drawable="group_me" />
 		<item drawable="groupon" />
 		<item drawable="gsc_cinemas" />
+		<item drawable="gta_3" />
 		<item drawable="gta_chinatown_wars" />
 		<item drawable="gta_sa" />
+		<item drawable="guardian" />
 		<item drawable="guilt_iconpack" />
 		<item drawable="guitar_tuna" />
 		<item drawable="gulix_iconpack" />
@@ -1175,6 +1217,7 @@
 		<item drawable="hd_camera_pro" />
 		<item drawable="hd_streamz" />
 		<item drawable="hdfc_bank" />
+		<item drawable="headphone_equalizer" />
 		<item drawable="headspace" />
 		<item drawable="healthforyou" />
 		<item drawable="hearthstone" />
@@ -1269,7 +1312,10 @@
 		<item drawable="icon_x" />
 		<item drawable="idbi_bank" />
 		<item drawable="identityforce" />
+		<item drawable="idle_miner" />
+		<item drawable="idle_tycoon" />
 		<item drawable="ifont" />
+		<item drawable="ifruit" />
 		<item drawable="ifttt" />
 		<item drawable="igtv" />
 		<item drawable="iheartradio" />
@@ -1299,6 +1345,7 @@
 		<item drawable="inkhunter" />
 		<item drawable="inkpad_notepad" />
 		<item drawable="inshorts" />
+		<item drawable="inshot" />
 		<item drawable="insight_timer" />
 		<item drawable="instacam" />
 		<item drawable="instagram" />
@@ -1318,9 +1365,11 @@
 		<item drawable="ios11_controlcenter" />
 		<item drawable="ios11_iconpack" />
 		<item drawable="ipsos" />
+		<item drawable="iptv_daz" />
 		<item drawable="irctc_air" />
 		<item drawable="irctc_rail_connect" />
 		<item drawable="irex_iconpack" />
+		<item drawable="iscep" />
 		<item drawable="isotope" />
 		<item drawable="ispeed" />
 		<item drawable="issuu" />
@@ -1330,8 +1379,11 @@
 		<item drawable="jbl_connect" />
 		<item drawable="jefit" />
 		<item drawable="jenius" />
+		<item drawable="jep_movil" />
+		<item drawable="jep_token" />
 		<item drawable="jetaudio" />
 		<item drawable="jetpack_joyride" />
+		<item drawable="jeuxvideo_com" />
 		<item drawable="jio_chat" />
 		<item drawable="jio_health_hub" />
 		<item drawable="jio_music" />
@@ -1342,7 +1394,9 @@
 		<item drawable="joey_for_reddit" />
 		<item drawable="joom" />
 		<item drawable="joox" />
+		<item drawable="jpay" />
 		<item drawable="jurassic_world_facts" />
+		<item drawable="just_dance_now" />
 		<item drawable="just_eat" />
 		<item drawable="justwatch" />
 		<item drawable="jw_alive" />
@@ -1378,13 +1432,18 @@
 		<item drawable="knudge_me" />
 		<item drawable="kodi" />
 		<item drawable="kore" />
+		<item drawable="kredivo" />
+		<item drawable="kroger" />
 		<item drawable="ktmb" />
 		<item drawable="kulcealtin" />
 		<item drawable="kustom_lwp" />
 		<item drawable="kustom_widget" />
 		<item drawable="kvb_dlite" />
+		<item drawable="kwgt" />
 		<item drawable="l_speed" />
+		<item drawable="la_voix_du_nord" />
 		<item drawable="last_journey" />
+		<item drawable="last_pirate" />
 		<item drawable="lastpass" />
 		<item drawable="lastpass_alt" />
 		<item drawable="lastpass_authentificator" />
@@ -1393,6 +1452,7 @@
 		<item drawable="laytons_mystery_journey" />
 		<item drawable="lazada" />
 		<item drawable="lbc_radio" />
+		<item drawable="le_figaro" />
 		<item drawable="le_kiosk" />
 		<item drawable="leaf_wallpapers" />
 		<item drawable="leafly" />
@@ -1402,7 +1462,9 @@
 		<item drawable="leboncoin" />
 		<item drawable="legam" />
 		<item drawable="legend" />
+		<item drawable="lego_jurassic_world" />
 		<item drawable="lego_star_wars" />
+		<item drawable="lego_star_wars_the_force_awaken" />
 		<item drawable="lenovo_camera" />
 		<item drawable="lenovo_cloneit" />
 		<item drawable="lenovo_help" />
@@ -1418,14 +1480,17 @@
 		<item drawable="lg_doctor" />
 		<item drawable="lg_email" />
 		<item drawable="lg_file_manager" />
+		<item drawable="lg_friends_manager" />
 		<item drawable="lg_health" />
 		<item drawable="lg_memo" />
 		<item drawable="lg_music" />
 		<item drawable="lg_quick_help" />
 		<item drawable="lg_radio" />
 		<item drawable="lg_remote_call" />
+		<item drawable="lg_smartworld" />
 		<item drawable="lg_tv_plus" />
 		<item drawable="lg_voice_recorder" />
+		<item drawable="lg_weather" />
 		<item drawable="libra" />
 		<item drawable="library_ufrn" />
 		<item drawable="libre_torrent" />
@@ -1440,12 +1505,14 @@
 		<item drawable="lifeline_line_white_out" />
 		<item drawable="lifeline_silent_night" />
 		<item drawable="lifesum" />
+		<item drawable="light_a_way" />
 		<item drawable="light_manager" />
 		<item drawable="light_x_iconpack" />
 		<item drawable="lightflow" />
 		<item drawable="lightning_blue_keyboard_theme" />
 		<item drawable="lightx" />
 		<item drawable="line" />
+		<item drawable="line_lite" />
 		<item drawable="lineage_browser" />
 		<item drawable="lineage_camera" />
 		<item drawable="lineage_downloader" />
@@ -1479,6 +1546,7 @@
 		<item drawable="luno" />
 		<item drawable="lusher_test" />
 		<item drawable="lyf_pay" />
+		<item drawable="lyft" />
 		<item drawable="lynket" />
 		<item drawable="m1_finance" />
 		<item drawable="m_indicator" />
@@ -1502,6 +1570,7 @@
 		<item drawable="malaysia_airlines" />
 		<item drawable="malwarebytes" />
 		<item drawable="mambo_iconpack" />
+		<item drawable="manga_master" />
 		<item drawable="manga_rock" />
 		<item drawable="mario_run" />
 		<item drawable="marvel_strike_force" />
@@ -1514,9 +1583,11 @@
 		<item drawable="matoxin_iconpack" />
 		<item drawable="mavon_iconpack" />
 		<item drawable="maxfour_music" />
+		<item drawable="maximum_mobil" />
 		<item drawable="maybank" />
 		<item drawable="mayur" />
 		<item drawable="mbjb_spot" />
+		<item drawable="mcafee_security" />
 		<item drawable="mcdonalds" />
 		<item drawable="mcdonalds_alt" />
 		<item drawable="mcdonalds_monopoly" />
@@ -1621,12 +1692,14 @@
 		<item drawable="mixer" />
 		<item drawable="mixer_create" />
 		<item drawable="mixplorer" />
+		<item drawable="moasure" />
 		<item drawable="mob" />
 		<item drawable="mobdro" />
 		<item drawable="mobil_assistan" />
 		<item drawable="mobile_hotspot" />
 		<item drawable="mobile_legends" />
 		<item drawable="mobizen" />
+		<item drawable="mobvoi" />
 		<item drawable="moda" />
 		<item drawable="moda_iconpack" />
 		<item drawable="molotov" />
@@ -1668,6 +1741,7 @@
 		<item drawable="music_center" />
 		<item drawable="music_maker_jam" />
 		<item drawable="music_maker_jam2" />
+		<item drawable="musicolet" />
 		<item drawable="musixmatch" />
 		<item drawable="muslim_pro" />
 		<item drawable="muviz" />
@@ -1677,8 +1751,12 @@
 		<item drawable="my_3" />
 		<item drawable="my_airtel" />
 		<item drawable="my_apk" />
+		<item drawable="my_at_and_t" />
 		<item drawable="my_boy" />
 		<item drawable="my_boy_free" />
+		<item drawable="my_chart" />
+		<item drawable="my_cricket" />
+		<item drawable="my_data_manager" />
 		<item drawable="my_digi" />
 		<item drawable="my_drawer" />
 		<item drawable="my_effectiveness" />
@@ -1689,6 +1767,7 @@
 		<item drawable="my_library" />
 		<item drawable="my_mail" />
 		<item drawable="my_metro" />
+		<item drawable="my_oldboy" />
 		<item drawable="my_pilot" />
 		<item drawable="my_talk_talk" />
 		<item drawable="my_telkomselcm" />
@@ -1712,6 +1791,7 @@
 		<item drawable="namaz" />
 		<item drawable="narrator_s_voice" />
 		<item drawable="national_rail_enquiries" />
+		<item drawable="nationwide" />
 		<item drawable="natwest" />
 		<item drawable="navbar_apps" />
 		<item drawable="nbc_sports" />
@@ -1719,6 +1799,7 @@
 		<item drawable="nebi_iconpack" />
 		<item drawable="nebula" />
 		<item drawable="nespresso" />
+		<item drawable="nest" />
 		<item drawable="net_velocity" />
 		<item drawable="netflix" />
 		<item drawable="netflix2" />
@@ -1727,6 +1808,7 @@
 		<item drawable="network_signal_refresher" />
 		<item drawable="never_settle_wallpapers" />
 		<item drawable="newpipe" />
+		<item drawable="news360" />
 		<item drawable="news_break" />
 		<item drawable="news_republic" />
 		<item drawable="nfc_tools" />
@@ -1771,6 +1853,7 @@
 		<item drawable="numix_circle" />
 		<item drawable="nutstore" />
 		<item drawable="nyan_cat_lost_in_space" />
+		<item drawable="nytimes" />
 		<item drawable="o3_iconpack" />
 		<item drawable="o_iconpack" />
 		<item drawable="oculus" />
@@ -1784,16 +1867,20 @@
 		<item drawable="olx" />
 		<item drawable="omlet" />
 		<item drawable="omlicon_iconpack" />
+		<item drawable="omnia_opera2" />
+		<item drawable="once" />
 		<item drawable="one_football" />
 		<item drawable="one_line" />
 		<item drawable="one_one_one_one" />
 		<item drawable="one_seconde_note" />
+		<item drawable="one_ui" />
 		<item drawable="onemg" />
 		<item drawable="oneplus_filemanager" />
 		<item drawable="oneplus_gesture" />
 		<item drawable="oneplus_note" />
 		<item drawable="oneplus_switch" />
 		<item drawable="oneplus_weather" />
+		<item drawable="oneui_icons" />
 		<item drawable="ontrax_iconpack" />
 		<item drawable="open_camera" />
 		<item drawable="open_signal" />
@@ -1808,8 +1895,13 @@
 		<item drawable="opera_mini" />
 		<item drawable="opera_mini2" />
 		<item drawable="opera_mini_beta" />
+		<item drawable="opera_omnia" />
 		<item drawable="opera_touch" />
 		<item drawable="opera_touch2" />
+		<item drawable="oppo_camera" />
+		<item drawable="oppo_compass" />
+		<item drawable="oppo_filemanager" />
+		<item drawable="oppo_phone_clone" />
 		<item drawable="orange_bank" />
 		<item drawable="orange_cineday" />
 		<item drawable="orange_et_moi" />
@@ -1826,6 +1918,7 @@
 		<item drawable="os12_iconpack" />
 		<item drawable="os12_launcher" />
 		<item drawable="os_12_iconpack" />
+		<item drawable="overdrop" />
 		<item drawable="oversumo" />
 		<item drawable="overwidget" />
 		<item drawable="ovo" />
@@ -1846,6 +1939,7 @@
 		<item drawable="pandora" />
 		<item drawable="pangpang_iconpack" />
 		<item drawable="paper" />
+		<item drawable="paper_wings" />
 		<item drawable="parallax" />
 		<item drawable="paris_wallpapers" />
 		<item drawable="parrot_mini" />
@@ -1863,10 +1957,12 @@
 		<item drawable="peel_smart_remote" />
 		<item drawable="peggo" />
 		<item drawable="pera_swipe" />
+		<item drawable="perfect_piano" />
 		<item drawable="periscope" />
 		<item drawable="persona_iconpack" />
 		<item drawable="pes2018" />
 		<item drawable="philips_hue" />
+		<item drawable="phogy" />
 		<item drawable="phone" />
 		<item drawable="phone2" />
 		<item drawable="phone3" />
@@ -1888,6 +1984,7 @@
 		<item drawable="photomania" />
 		<item drawable="photomath" />
 		<item drawable="photoscan" />
+		<item drawable="pi_music_player" />
 		<item drawable="piano_tiles_2" />
 		<item drawable="picnic" />
 		<item drawable="picsart" />
@@ -1906,6 +2003,7 @@
 		<item drawable="pixel_icons" />
 		<item drawable="pixel_pie" />
 		<item drawable="pixelful" />
+		<item drawable="pixellab" />
 		<item drawable="pixio_iconpack" />
 		<item drawable="pixomatic" />
 		<item drawable="pixxy" />
@@ -1925,6 +2023,7 @@
 		<item drawable="pocket2" />
 		<item drawable="pocket_camp" />
 		<item drawable="pocket_casts" />
+		<item drawable="pocket_city" />
 		<item drawable="poco_launcher" />
 		<item drawable="podcast_addict" />
 		<item drawable="pogbytes" />
@@ -1944,6 +2043,7 @@
 		<item drawable="popcorn_time_alt" />
 		<item drawable="porent_iconpack" />
 		<item drawable="portal_knights" />
+		<item drawable="postepay" />
 		<item drawable="posteroid" />
 		<item drawable="postnl" />
 		<item drawable="power_director" />
@@ -1952,6 +2052,7 @@
 		<item drawable="powerschool" />
 		<item drawable="powershade" />
 		<item drawable="ppsspp" />
+		<item drawable="prayer_time" />
 		<item drawable="prisjakt" />
 		<item drawable="privacy_pay" />
 		<item drawable="private_browser" />
@@ -1977,6 +2078,8 @@
 		<item drawable="qualcomm_perfdump" />
 		<item drawable="quick_imageviewer" />
 		<item drawable="quick_lyric" />
+		<item drawable="quickoffice" />
+		<item drawable="quickoffice2" />
 		<item drawable="quickpic" />
 		<item drawable="quickride" />
 		<item drawable="quik" />
@@ -2005,6 +2108,7 @@
 		<item drawable="razer_gamebooster" />
 		<item drawable="razer_gamedeals" />
 		<item drawable="razer_themes" />
+		<item drawable="rbc_mobile" />
 		<item drawable="rd_client" />
 		<item drawable="rd_client_beta" />
 		<item drawable="real_cricket_18" />
@@ -2024,6 +2128,7 @@
 		<item drawable="reigns_her_majesty" />
 		<item drawable="relax_melodies" />
 		<item drawable="relax_my_cat" />
+		<item drawable="remembear" />
 		<item drawable="reminder_with_alarm" />
 		<item drawable="remitano" />
 		<item drawable="resplash" />
@@ -2031,6 +2136,8 @@
 		<item drawable="retom_iconpack" />
 		<item drawable="retrica" />
 		<item drawable="retro_music" />
+		<item drawable="retro_music_player" />
+		<item drawable="reuters" />
 		<item drawable="reverse_image_search" />
 		<item drawable="revolut" />
 		<item drawable="rimbo_iconpack" />
@@ -2042,6 +2149,7 @@
 		<item drawable="road_bike" />
 		<item drawable="road_bike_pro" />
 		<item drawable="robinhood" />
+		<item drawable="roblox" />
 		<item drawable="rocsy_iconpack" />
 		<item drawable="roku" />
 		<item drawable="ronio_iconpack" />
@@ -2118,6 +2226,7 @@
 		<item drawable="samsung_edget_lightning" />
 		<item drawable="samsung_email" />
 		<item drawable="samsung_file_explorer" />
+		<item drawable="samsung_finder" />
 		<item drawable="samsung_flow" />
 		<item drawable="samsung_gallery" />
 		<item drawable="samsung_game_launcher" />
@@ -2151,6 +2260,7 @@
 		<item drawable="samsung_shop" />
 		<item drawable="samsung_sidesync" />
 		<item drawable="samsung_smart_manager" />
+		<item drawable="samsung_smart_tutor" />
 		<item drawable="samsung_smartmanager" />
 		<item drawable="samsung_sound_assistant" />
 		<item drawable="samsung_svoice" />
@@ -2163,12 +2273,15 @@
 		<item drawable="samsung_voicerecorder" />
 		<item drawable="samsung_wear" />
 		<item drawable="samsung_weather" />
+		<item drawable="sandisk_cloud" />
+		<item drawable="sandisk_memory_zone" />
 		<item drawable="sankaku_black" />
 		<item drawable="sbi_anywhere_personal" />
 		<item drawable="sbi_card" />
 		<item drawable="sbi_quick" />
 		<item drawable="scanner_radio" />
 		<item drawable="school_assistant" />
+		<item drawable="school_loop" />
 		<item drawable="school_planner" />
 		<item drawable="schoology" />
 		<item drawable="science_facts" />
@@ -2182,6 +2295,7 @@
 		<item drawable="scrittor" />
 		<item drawable="sd_maid" />
 		<item drawable="sd_maid_pro" />
+		<item drawable="seaport" />
 		<item drawable="seat_geek" />
 		<item drawable="seatseller" />
 		<item drawable="secondline" />
@@ -2205,6 +2319,7 @@
 		<item drawable="shadow_fight_3" />
 		<item drawable="shadowgun_legends" />
 		<item drawable="share_it" />
+		<item drawable="sharechat" />
 		<item drawable="sharecloud" />
 		<item drawable="shazam" />
 		<item drawable="shazam_lite" />
@@ -2220,6 +2335,7 @@
 		<item drawable="silk_paints" />
 		<item drawable="simcity" />
 		<item drawable="simpl" />
+		<item drawable="simple_filemanager" />
 		<item drawable="simple_gallery" />
 		<item drawable="simple_mail" />
 		<item drawable="simple_pro" />
@@ -2231,6 +2347,7 @@
 		<item drawable="skiddy_car" />
 		<item drawable="skullgirls" />
 		<item drawable="sky_force_reloaded" />
+		<item drawable="sky_sports" />
 		<item drawable="skyclock" />
 		<item drawable="skype" />
 		<item drawable="skyscanner" />
@@ -2242,6 +2359,7 @@
 		<item drawable="sleep_cycle" />
 		<item drawable="slickdeals" />
 		<item drawable="slide_for_reddit" />
+		<item drawable="sling_tv" />
 		<item drawable="slither_io" />
 		<item drawable="smart_account" />
 		<item drawable="smart_launcher" />
@@ -2263,6 +2381,7 @@
 		<item drawable="snapcam" />
 		<item drawable="snapchat" />
 		<item drawable="snapdeal" />
+		<item drawable="snapp" />
 		<item drawable="snapseed" />
 		<item drawable="snaptube" />
 		<item drawable="soccas" />
@@ -2291,6 +2410,7 @@
 		<item drawable="soundcloud" />
 		<item drawable="south_park" />
 		<item drawable="space_expedition" />
+		<item drawable="space_justice" />
 		<item drawable="spartan_six_pack" />
 		<item drawable="spartan_six_pack_pro" />
 		<item drawable="spartan_workouts_free" />
@@ -2312,6 +2432,7 @@
 		<item drawable="star_health" />
 		<item drawable="star_health_agent" />
 		<item drawable="star_music_tag_editor" />
+		<item drawable="star_ocean" />
 		<item drawable="star_tracker" />
 		<item drawable="star_walk2" />
 		<item drawable="star_wars_heroes" />
@@ -2331,6 +2452,7 @@
 		<item drawable="stk" />
 		<item drawable="stocard" />
 		<item drawable="storm_play" />
+		<item drawable="storm_radar" />
 		<item drawable="strafe" />
 		<item drawable="stranger" />
 		<item drawable="stranger_things_the_game" />
@@ -2344,9 +2466,11 @@
 		<item drawable="subway_surfers" />
 		<item drawable="sudoku" />
 		<item drawable="sugox_iconpack" />
+		<item drawable="suntrust" />
 		<item drawable="super_backup" />
 		<item drawable="super_cat_bros" />
 		<item drawable="super_drag" />
+		<item drawable="super_guida_tv" />
 		<item drawable="super_mario_forever" />
 		<item drawable="super_spell_heroes" />
 		<item drawable="supercat" />
@@ -2357,6 +2481,7 @@
 		<item drawable="survival_manual" />
 		<item drawable="svc_mobile" />
 		<item drawable="swamp_attack" />
+		<item drawable="swappa" />
 		<item drawable="sweatcoin" />
 		<item drawable="sweech" />
 		<item drawable="sweetbo_iconpack" />
@@ -2378,8 +2503,11 @@
 		<item drawable="t_mobile" />
 		<item drawable="t_mobile_tuesdays" />
 		<item drawable="t_mobile_voicemail" />
+		<item drawable="tachiyomi" />
 		<item drawable="tank_star" />
 		<item drawable="tapastic" />
+		<item drawable="tapatalk" />
+		<item drawable="tapatalk2" />
 		<item drawable="tapet" />
 		<item drawable="tasker" />
 		<item drawable="taskmanager_byte" />
@@ -2392,6 +2520,7 @@
 		<item drawable="teardrop_pixel_dark" />
 		<item drawable="ted" />
 		<item drawable="telegram" />
+		<item drawable="telegram_plus" />
 		<item drawable="telegram_x" />
 		<item drawable="temple_run_oz" />
 		<item drawable="tempmail" />
@@ -2399,6 +2528,7 @@
 		<item drawable="terraria" />
 		<item drawable="terrarium_tv" />
 		<item drawable="teslagrad" />
+		<item drawable="testing_catalog" />
 		<item drawable="tetris" />
 		<item drawable="text_converter" />
 		<item drawable="text_now" />
@@ -2411,7 +2541,10 @@
 		<item drawable="the_economist_espresso" />
 		<item drawable="the_galaxy_survivor" />
 		<item drawable="the_sandbox_evolution" />
+		<item drawable="the_scoop" />
 		<item drawable="the_score" />
+		<item drawable="the_sims" />
+		<item drawable="the_sims_alt" />
 		<item drawable="the_valley_planner" />
 		<item drawable="the_weather_channel" />
 		<item drawable="the_wiki_game" />
@@ -2438,6 +2571,7 @@
 		<item drawable="today_weather" />
 		<item drawable="todoist" />
 		<item drawable="tokopedia" />
+		<item drawable="toloka" />
 		<item drawable="toluna" />
 		<item drawable="tomb_of_the_mask" />
 		<item drawable="tomtom_go" />
@@ -2445,6 +2579,7 @@
 		<item drawable="too_good_to_go_alt" />
 		<item drawable="toon_shooters" />
 		<item drawable="top_eleven" />
+		<item drawable="top_music" />
 		<item drawable="torrdroid" />
 		<item drawable="torrent_search_engine" />
 		<item drawable="touch_n_go" />
@@ -2454,11 +2589,16 @@
 		<item drawable="tracfone_downloader" />
 		<item drawable="trade_me" />
 		<item drawable="trading_212" />
+		<item drawable="trafi" />
+		<item drawable="trainline_gb" />
 		<item drawable="trainman" />
 		<item drawable="transdrone" />
+		<item drawable="transferwise" />
 		<item drawable="transparent_clock_weather" />
+		<item drawable="trello" />
 		<item drawable="tripadvisor" />
 		<item drawable="trivago" />
+		<item drawable="trivia_crack" />
 		<item drawable="trucker_path" />
 		<item drawable="truecaller" />
 		<item drawable="tsubook" />
@@ -2474,10 +2614,13 @@
 		<item drawable="tunetalk" />
 		<item drawable="tunnelbear" />
 		<item drawable="turbo_vpn" />
+		<item drawable="turk_telecom" />
+		<item drawable="tutuapp" />
 		<item drawable="tv_sideview" />
 		<item drawable="tv_time" />
 		<item drawable="tvc" />
 		<item drawable="tweet2gif" />
+		<item drawable="tweny" />
 		<item drawable="twilight" />
 		<item drawable="twisty_timer" />
 		<item drawable="twitama" />
@@ -2499,6 +2642,7 @@
 		<item drawable="ultimate_guitar_tabs" />
 		<item drawable="ultimate_randomizer" />
 		<item drawable="umang" />
+		<item drawable="unblocker_for_wikipedia" />
 		<item drawable="unfold" />
 		<item drawable="unfollowers" />
 		<item drawable="unidays" />
@@ -2531,6 +2675,7 @@
 		<item drawable="verizon_message" />
 		<item drawable="verizon_security" />
 		<item drawable="vestel_cloud" />
+		<item drawable="via_browser" />
 		<item drawable="viber" />
 		<item drawable="vice" />
 		<item drawable="video_downloader" />
@@ -2560,6 +2705,7 @@
 		<item drawable="virtual_xposed" />
 		<item drawable="viscosity" />
 		<item drawable="visible_body" />
+		<item drawable="visual_voicemail" />
 		<item drawable="viu" />
 		<item drawable="viveport" />
 		<item drawable="vivo_appstore" />
@@ -2585,6 +2731,7 @@
 		<item drawable="voice_mail" />
 		<item drawable="vonage_extension" />
 		<item drawable="votus_iconpack" />
+		<item drawable="vpn_express" />
 		<item drawable="vpn_force" />
 		<item drawable="vsco" />
 		<item drawable="vudu" />
@@ -2632,6 +2779,7 @@
 		<item drawable="whereismywater2" />
 		<item drawable="whicons" />
 		<item drawable="whisper" />
+		<item drawable="whole_foods_market" />
 		<item drawable="wibr" />
 		<item drawable="wifi_utility" />
 		<item drawable="wifikey" />
@@ -2646,6 +2794,7 @@
 		<item drawable="wonderwall" />
 		<item drawable="woodfoorest" />
 		<item drawable="wordpress" />
+		<item drawable="wordscapes" />
 		<item drawable="wordweb" />
 		<item drawable="world_of_tanks" />
 		<item drawable="worldstar" />
@@ -2684,6 +2833,7 @@
 		<item drawable="yomira" />
 		<item drawable="yono" />
 		<item drawable="you_music" />
+		<item drawable="youcam_perfect" />
 		<item drawable="yougov" />
 		<item drawable="youper" />
 		<item drawable="youtube" />
@@ -2702,6 +2852,7 @@
 		<item drawable="zello" />
 		<item drawable="zemb" />
 		<item drawable="zenge" />
+		<item drawable="zenly" />
 		<item drawable="zenomia5" />
 		<item drawable="ziggo_go" />
 		<item drawable="zip_recruiters" />
@@ -2709,6 +2860,7 @@
 		<item drawable="ziraat_mobil" />
 		<item drawable="zomato" />
 		<item drawable="zombie_catcher" />
+		<item drawable="zombie_survival_craft" />
 		<item drawable="zoom" />
 		<item drawable="zooper_widget_free" />
 		<item drawable="zooper_widget_pro" />
@@ -2724,6 +2876,7 @@
 		<item drawable="zte_service" />
 		<item drawable="zte_tools" />
 		<item drawable="zte_video" />
+		<item drawable="zwart" />
 		<item drawable="zyan_drench" />
 		<item drawable="zynga_poker" />
 </resources>
