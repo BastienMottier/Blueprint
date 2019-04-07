@@ -29,7 +29,8 @@ apply plugin: 'com.android.application'
 apply plugin: 'kotlin-android'
 
 android {
-    compileSdkVersion 28
+    compileSdkVersion versions.targetSdk
+    buildToolsVersion versions.buildTools
 
     applicationVariants.all { variant ->
         variant.outputs.all { output ->
@@ -59,6 +60,7 @@ android {
         vectorDrawables.useSupportLibrary = true
         proguardFiles 'proguard-android-optimize.txt', 'proguard-rules.pro'
         consumerProguardFiles 'proguard-android-optimize.txt', 'proguard-rules.pro'
+        multiDexEnabled true
     }
 
     buildTypes {
@@ -86,12 +88,16 @@ android {
         pickFirst 'META-INF/library_debug.kotlin_module'
         pickFirst 'META-INF/library_release.kotlin_module'
     }
-    buildToolsVersion '28.0.3'
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
 }
 
 dependencies {
     // Blueprint
-    implementation('com.jahirfiquitiva:Blueprint:1.4.1@aar') {
+    implementation('com.jahirfiquitiva:Blueprint:1.4.4@aar') {
         transitive = true
     }
     // TODO: Remove comment marks to enable
