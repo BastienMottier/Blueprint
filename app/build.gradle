@@ -97,7 +97,7 @@ android {
 
 dependencies {
     // Blueprint
-    implementation('com.jahirfiquitiva:Blueprint:1.4.4@aar') {
+    implementation('com.jahirfiquitiva:Blueprint:1.4.5@aar') {
         transitive = true
     }
     // TODO: Remove comment marks to enable
