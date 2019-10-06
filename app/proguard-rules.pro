@@ -66,6 +66,7 @@
 # Retain generic type information for use by reflection by converters and adapters.
 -keepattributes InnerClasses
 -keepattributes Signature
+-keepattributes InnerClasses
 # Retain service method parameters.
 -keepclassmembernames,allowobfuscation interface * {
     @retrofit2.http.* <methods>;

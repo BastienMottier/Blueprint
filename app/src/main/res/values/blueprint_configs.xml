@@ -17,7 +17,7 @@
 <!--suppress CheckTagEmptyBody -->
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Icon Pack designer/owner e-mail -->
-    <string name="email">hello@bastienmottier.com</string>
+    <string name="email">squirclx@bastien.dev</string>
 
     <!-- Mail subjects for simple e-mail and requests e-mail -->
     <string name="email_subject">Squirclx</string>
