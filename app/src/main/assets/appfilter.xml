@@ -3515,5 +3515,60 @@
     <item component="ComponentInfo{com.forrestmarkham.iconpack.capricorn/com.forrestmarkham.iconpack.capricorn.activities.SplashActivity}" drawable="capricorn_iconpack"/>
     <item component="ComponentInfo{com.t2kgames.civrev2/com.unity3d.plugin.downloader.UnityDownloaderActivity}" drawable="civilization_revolution_2"/>
     <item component="ComponentInfo{com.tung91.clix/com.tung91.clix.activities.SplashActivity}" drawable="clix_iconpack"/>
+    <item component="ComponentInfo{com.gramgames.tenten/com.gramgames.activity.UnityPlayerActivity}" drawable="tenten"/>
+    <item component="ComponentInfo{com.nlabsoft.world2048/com.unity3d.player.UnityPlayerActivity}" drawable="world2048"/>
+    <item component="ComponentInfo{by4a.setedit22/by4a.setedit.EditorActivity}" drawable="setedit22"/>
+    <item component="ComponentInfo{com.airbnb.android/com.airbnb.android.feat.legacy.activities.HomeActivity}" drawable="airbnb"/>
+    <item component="ComponentInfo{com.hnib.smslater/com.hnib.smslater.main.SplashActivity}" drawable="do_it_later"/>
+    <item component="ComponentInfo{fr.geev.application/fr.geev.application.presentation.entrypoint.EntryPointActivity}" drawable="geev"/>
+    <item component="ComponentInfo{com.ovianet.generation/com.ovianet.generation.ui.activity.impl.SplashActivity}" drawable="mutuelle_generation"/>
+    <item component="ComponentInfo{com.vivaldi.browser/com.google.android.apps.chrome.Main}" drawable="vivaldi_browser"/>
+    <item component="ComponentInfo{app.bowvie.weather/app.bowvie.weather.activity.MainActivity}" drawable="bowie_weather"/>
+    <item component="ComponentInfo{com.meizu.flyme.launcher/com.meizu.flyme.launcher.Launcher}" drawable="flyme_launcher"/>
+    <item component="ComponentInfo{com.gramgames.merged/com.gramgames.activity.UnityPlayerActivity}" drawable="merged"/>
+    <item component="ComponentInfo{com.infinitygames.loopenergy/com.unity3d.player.UnityPlayerActivity}" drawable="loop_energy"/>
+    <item component="ComponentInfo{com.lumiesoft.dolmenia/com.lumiesoft.dolmenia.MainActivity}" drawable="dolmenia"/>
+    <item component="ComponentInfo{product.clicklabs.jugnoo/product.clicklabs.jugnoo.SplashNewActivity}" drawable="jugnoo"/>
+    <item component="ComponentInfo{com.feresr.walpy/com.feresr.walpy.welcome.WelcomeActivity}" drawable="walpy"/>
+    <item component="ComponentInfo{com.bornehltd.fastvpn/com.bornehltd.fastvpn.splash.SplashActivity}" drawable="fast_vpn"/>
+    <item component="ComponentInfo{com.whaleapp.hiddenhotel/com.unity3d.player.UnityPlayerActivity}" drawable="hidden_hotel"/>
+    <item component="ComponentInfo{com.ubisoft.hungrysharkworld/com.fgol.firebase.FGOLUnityPlayerNativeActivityFirebase}" drawable="hungry_shark_world"/>
+
+    <item component="ComponentInfo{com.edzondm.linebitse/com.edzondm.linebitse.MainActivity}" drawable="linebit_se"/>
+    <item component="ComponentInfo{com.mobile.legends/com.moba.unityplugin.MobaGameMainActivityWithExtractor}" drawable="mobile_legends_bang_bang"/>
+    <item component="ComponentInfo{com.rcplatform.nocrop/com.rcplatform.nocrop.activity.LogoActivity}" drawable="no_crop_for_instagram"/>
+    <item component="ComponentInfo{com.storm8.propertybrothers/com.google.firebase.MessagingUnityPlayerActivity}" drawable="property_brothers"/>
+    <item component="ComponentInfo{com.jndapp.skyline.linex.iconpack/com.jndapp.skyline.linex.iconpack.MainActivity}" drawable="skyline_iconpack"/>
+    <item component="ComponentInfo{com.game.space.shooter2/com.google.firebase.MessagingUnityPlayerActivity}" drawable="space_shooter"/>
+    <item component="ComponentInfo{com.tohsoft.translate/com.tohsoft.translate.ui.main.MainActivity}" drawable="tohsoft_translate"/>
+    <item component="ComponentInfo{com.pixelberrystudios.choices/com.pixelberrystudios.choices.ChoicesActivity}" drawable="choices"/>
+    <item component="ComponentInfo{org.dashnet.cookieclicker/org.dashnet.cookieclicker.MainActivity}" drawable="cookie_clicker"/>
+    <item component="ComponentInfo{com.tratao.xcurrency.mini/com.tratao.xcurrency.plus.MainActivity}" drawable="xcurrency_mini"/>
+    <item component="ComponentInfo{com.autocab.taxibooker.yellow333.bulgaria/com.autocab.premiumapp3.ui.activities.MainActivity}" drawable="yellow_taxi_91119"/>
+    <item component="ComponentInfo{com.wizzair.WizzAirApp/com.wizzair.app.MainActivity}" drawable="wizz_air"/>
+    <item component="ComponentInfo{com.evgeniysharafan.tabatatimer/com.evgeniysharafan.tabatatimer.ui.activity.SetupActivity}" drawable="tabata_timer"/>
+    <item component="ComponentInfo{com.sirmamobile.prodavalnik/pl.tablica2.app.startup.activity.StartupActivity}" drawable="olx_bg"/>
+    <item component="ComponentInfo{jp.co.canon.ic.cameraconnect/jp.co.canon.ic.cameraconnect.top.CCTopActivity}" drawable="canon_camera_connect"/>
+    <item component="ComponentInfo{com.nintendo.zaka/com.google.firebase.MessagingUnityPlayerActivity}" drawable="mario_kart_tour"/>
+    <item component="ComponentInfo{com.rockstargames.gtavc/com.rockstargames.gtavc.GTAVC}" drawable="gta_vice_city"/>
+    <item component="ComponentInfo{com.rockstargames.gtalcs/com.rockstargames.gtalcs.BootGameActivity}" drawable="gta_liberty_city_stories"/>
+    <item component="ComponentInfo{com.playmini.miniworld/com.minitech.miniworld.SplashScreenActivity}" drawable="mini_world"/>
+    <item component="ComponentInfo{com.coloros.backuprestore/com.coloros.backuprestore.activity.BootActivity}" drawable="oppo_backup_restore"/>
+    <item component="ComponentInfo{com.jdroid.gtasacheater/com.jdroid.gtasacheater.MainActivity}" drawable="gta_sa_cheater"/>
+    <item component="ComponentInfo{com.coloros.safecenter/com.coloros.safecenter.FakeActivity}" drawable="oppo_phone_manager"/>
+    <item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivityI}" drawable="oppo_stk"/>
+    <item component="ComponentInfo{com.shazam.android.lite/com.shazam.android.lite.ui.SplashActivity}" drawable="shazam_lite"/>
+    <item component="ComponentInfo{com.nearme.themespace/com.nearme.themespace.activities.ThemeActivity}" drawable="oppo_theme_space"/>
+    <item component="ComponentInfo{com.ss.android.ugc.trill.go/com.ss.android.ugc.aweme.splash.SplashActivity}" drawable="tiktok_lite"/>
+    <item component="ComponentInfo{com.mobilemediacomm.wallpapers/com.mobilemediacomm.wallpapers.Activities.Splash.Splash}" drawable="everpics"/>
+    <item component="ComponentInfo{com.myairtelapp/com.myairtelapp.activity.HomeActivity}" drawable="my_airtel"/>
+    <item component="ComponentInfo{mathieumaree.rippple/mathieumaree.rippple.MainActivity}" drawable="dribbble"/>
+    <item component="ComponentInfo{com.nextbillion.groww/com.nextbillion.groww.MainActivity}" drawable="groww"/>
+    <item component="ComponentInfo{com.citrus.citruspay/com.citrus.citruspay.splash.SplashActivity}" drawable="lazypay"/>
+    <item component="ComponentInfo{com.sodel.maruticare/com.sodel.maruticare.MainActivity}" drawable="maruti_care"/>
+    <item component="ComponentInfo{com.olx.southasia/com.olxgroup.panamera.presentation.splash.SplashActivity}" drawable="olx_india"/>
+    <item component="ComponentInfo{com.phonepe.app/com.phonepe.app.v4.nativeapps.splash.Navigator_SplashActivity}" drawable="phonepe"/>
+    <item component="ComponentInfo{com.atomyes/com.atomyes.YesMobileNext}" drawable="yes_bank"/>
+
 
 </resources>
