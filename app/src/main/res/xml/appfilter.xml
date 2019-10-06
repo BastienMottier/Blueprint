@@ -3570,5 +3570,53 @@
     <item component="ComponentInfo{com.phonepe.app/com.phonepe.app.v4.nativeapps.splash.Navigator_SplashActivity}" drawable="phonepe"/>
     <item component="ComponentInfo{com.atomyes/com.atomyes.YesMobileNext}" drawable="yes_bank"/>
 
+    <item component="ComponentInfo{com.coloros.calculator/com.android.calculator2.Calculator}" drawable="calculator"/>
+    <item component="ComponentInfo{com.coloros.compass2/com.coloros.compass.flat.FlatCompass}" drawable="oppo_compass"/>
+    <item component="ComponentInfo{com.vendour.vendourcompanion/com.vendour.vendourcompanion.ui.activity.AuthenticationActivity}" drawable="vendour"/>
+    <item component="ComponentInfo{com.opodo.reisen/com.odigeo.app.android.navigator.SplashNavigator}" drawable="opodo"/>
+    <item component="ComponentInfo{com.vizio.vue.launcher/com.vizio.vue.launcher.activities.InitializationActivity}" drawable="vizio_smartcast"/>
+    <item component="ComponentInfo{com.zellepay.zelle/com.earlywarning.zelle.ui.splash.SplashActivity}" drawable="zelle"/>
+    <item component="ComponentInfo{com.dronzer.periodctracker/com.dronzer.periodctracker.MainActivity}" drawable="dronzer_period_tracker"/>
+    <item component="ComponentInfo{com.ruud.econetconsumerandroid/com.rheem.econet.view.splash.SplashActivity}" drawable="ruud"/>
+    <item component="ComponentInfo{com.redfin.android/com.redfin.android.activity.launch.DefaultLaunchActivity}" drawable="redfin"/>
+    <item component="ComponentInfo{com.samsung.android.authfw/com.samsung.android.authfw.samsungpass.launcher.EntryLauncher}" drawable="samsung_pass"/>
+    <item component="ComponentInfo{ru.yandex.music/ru.yandex.music.main.MainScreenActivity}" drawable="yandex_music"/>
+    <item component="ComponentInfo{com.whyalwayshorse.thin/com.whyalwayshorse.thin.activities.SplashActivity}" drawable="thin_iconpack"/>
+    <item component="ComponentInfo{com.androholic.dopewalls/com.vpapps.dopewalls.SplashActivity}" drawable="dopewalls"/>
+    <item component="ComponentInfo{com.lknninex.mation/com.lknninex.mation.MainActivity}" drawable="mation_iconpack"/>
+    <item component="ComponentInfo{com.boostedproductivity.app/com.boostedproductivity.app.activities.LauncherActivity}" drawable="boosted"/>
+    <item component="ComponentInfo{com.b_lam.resplash/com.b_lam.resplash.activities.MainActivity}" drawable="resplash"/>
+    <item component="ComponentInfo{com.whyalwayshorse.croc/com.whyalwayshorse.croc.activities.SplashActivity}" drawable="croc_iconpack"/>
+    <item component="ComponentInfo{com.franco.kernel/a.spl}" drawable="croc_iconpack"/>
+    <item component="ComponentInfo{com.t101.android3.recon/com.t101.android3.recon.LoginActivity}" drawable="recon"/>
+    <item component="ComponentInfo{pl.patrykgoworowski.mintypro/pl.patrykgoworowski.mintypro.MainActivity}" drawable="minty_pro_iconpack"/>
+    <item component="ComponentInfo{com.initechapps.growlr/com.initechapps.growlr.ui.LoginActivity}" drawable="growlr"/>
+    <item component="ComponentInfo{com.plokia.ClassUp/com.plokia.ClassUp.ClassUpActivity}" drawable="classup"/>
+    <item component="ComponentInfo{com.overlook.android.fing/com.overlook.android.fing.SplashActivity}" drawable="fing"/>
+    <item component="ComponentInfo{com.bitmango.go.wordcookies/com.bitmango.go.wordcookies.UnityPlayerActivity}" drawable="word_cookies"/>
+    <item component="ComponentInfo{com.micredit.in/com.micredit.in.SplashActivity}" drawable="mi_credit"/>
+    <item component="ComponentInfo{net.plus.plusnetmobile/net.plus.plusnetmobile.ui.splash.SplashActivity}" drawable="plusnet_mobile"/>
+    <item component="ComponentInfo{com.IndexEducation.Pronote/com.IndexEducation.Pronote.MainActivity}" drawable="pronote"/>
+    <item component="ComponentInfo{com.go2get.skanappplus/com.go2get.skanappplus.MainActivity}" drawable="skanapp_plus"/>
+    <item component="ComponentInfo{project.vivid.gxfonts/project.vivid.gxfonts.GxFonts}" drawable="gx__fonts"/>
+    <item component="ComponentInfo{ch.deletescape.lawnchair.ci/ch.deletescape.lawnchair.settings.ui.SettingsLauncherActivity}" drawable="lawnchair"/>
+    <item component="ComponentInfo{cn.wps.note/cn.wps.note.StartActivity}" drawable="wps_note"/>
+    <item component="ComponentInfo{com.syncme.syncmeapp/com.syncme.activities.SplashActivity}" drawable="sync_me"/>
+    <item component="ComponentInfo{kr.bitbyte.playkeyboard/kr.bitbyte.playkeyboard.activities.MainActivity}" drawable="play_keyboard"/>
+    <item component="ComponentInfo{com.yinzcam.nfl.raiders/com.yinzcam.nba.mobile.home.NBAHomeActivity}" drawable="nfl_raiders"/>
+    <item component="ComponentInfo{com.vitotechnology.StarWalk2/com.vitotechnology.common.GooglePlayBillingActivityFirebase}" drawable="star_walk_2"/>
+    <item component="ComponentInfo{com.duolingo.tinycards/com.duolingo.tinycards.webviewtinycards.MainActivity}" drawable="tinycards_by_duolingo"/>
+    <item component="ComponentInfo{co.crystalapp.crystal/co.crystalapp.crystal.contentblocker.MainPreferences}" drawable="crystal_for_samsung"/>
+    <item component="ComponentInfo{taxi.android.client/taxi.android.client.feature.startup.ui.StartupActivity}" drawable="free_now"/>
+    <item component="ComponentInfo{com.round_tower.app.android.wallpaper.cartogram/com.round_tower.cartogram.ui.map.MapsActivity}" drawable="cartogram"/>
+    <item component="ComponentInfo{com.peakpocketstudios.atmosphere/atmosphere.peakpocketstudios.com.atmosphere.SplashScreen}" drawable="atmosphere"/>
+    <item component="ComponentInfo{com.fast.free.unblock.secure.vpn/com.signallab.secure.activity.MainActivity}" drawable="signal_secure_vpn"/>
+    <item component="ComponentInfo{com.moleskine.actions.release/com.moleskine.actions.ui.main.MainActivity}" drawable="actions_moleskine"/>
+    <item component="ComponentInfo{com.fabio.flat.squircle.iconpack/com.fabio.flat.squircle.iconpack.activities.SplashActivity}" drawable="flat_squircle"/>
+    <item component="ComponentInfo{com.arthurivanets.reminderpro/com.arthurivanets.reminderpro.ui.splash.SplashActivity}" drawable="reminder_pro"/>
+    <item component="ComponentInfo{com.onelook.oneui.circle.iconpack/com.onelook.oneui.circle.iconpack.MainActivity}" drawable="oneui_circle"/>
+    <item component="ComponentInfo{com.onelook.oneui.circle.iconpack/com.onelook.oneui.circle.iconpack.MainActivity}" drawable="oneui_circle"/>
+    <item component="ComponentInfo{com.dailymail.online/com.dailymail.online.modules.splash.SplashActivity}" drawable="dailymail"/>
+    <item component="ComponentInfo{ginlemon.flowerpro/ginlemon.flower.HomeScreen}" drawable="smart_launcher"/>
 
 </resources>

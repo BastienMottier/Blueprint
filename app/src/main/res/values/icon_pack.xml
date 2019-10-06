@@ -27,6 +27,7 @@
 		<item>act_fibernet</item>
 		<item>action_dash</item>
 		<item>action_launcher</item>
+		<item>actions_moleskine</item>
 		<item>ada</item>
 		<item>adapticon</item>
 		<item>adaptive_iconpack</item>
@@ -271,6 +272,7 @@
 		<item>at_and_t_call_protect</item>
 		<item>atbat</item>
 		<item>atm_milano</item>
+		<item>atmosphere</item>
 		<item>atomic_clock</item>
 		<item>atomicclock</item>
 		<item>audible</item>
@@ -453,6 +455,7 @@
 		<item>boom_beach</item>
 		<item>boomerang</item>
 		<item>boost</item>
+		<item>boosted</item>
 		<item>borealis</item>
 		<item>botim</item>
 		<item>bouncy_hoops</item>
@@ -654,6 +657,7 @@
 		<item>clash_royal_alt</item>
 		<item>clash_royale</item>
 		<item>class_dojo</item>
+		<item>classup</item>
 		<item>clean_file_manager</item>
 		<item>clean_master</item>
 		<item>cleanfox</item>
@@ -749,11 +753,13 @@
 		<item>cricbuzz</item>
 		<item>crispy_iconpack</item>
 		<item>crit_dice</item>
+		<item>croc_iconpack</item>
 		<item>crossy_road</item>
 		<item>crowdcity</item>
 		<item>crowdfire</item>
 		<item>crunchy_roll</item>
 		<item>cryptocurrency_secrets</item>
+		<item>crystal_for_samsung</item>
 		<item>crystal_for_samsung_browser</item>
 		<item>cryten_iconpack</item>
 		<item>csr_racing_2</item>
@@ -771,6 +777,7 @@
 		<item>daily_horoscope_click</item>
 		<item>daily_hunt</item>
 		<item>daily_scripture</item>
+		<item>dailymail</item>
 		<item>damonps2</item>
 		<item>dan_the_man</item>
 		<item>dark_diary</item>
@@ -856,6 +863,7 @@
 		<item>dominos</item>
 		<item>domka_iconpack</item>
 		<item>doordash</item>
+		<item>dopewalls</item>
 		<item>dots</item>
 		<item>dots_co</item>
 		<item>download</item>
@@ -880,6 +888,7 @@
 		<item>droidbug_busybox_advance_free</item>
 		<item>drone_2_air_assault</item>
 		<item>drone_spot</item>
+		<item>dronzer_period_tracker</item>
 		<item>dropbox</item>
 		<item>droper</item>
 		<item>drops</item>
@@ -1046,6 +1055,7 @@
 		<item>fifa</item>
 		<item>fifa_companion</item>
 		<item>fifa_mobile</item>
+		<item>fifa_mobile_old</item>
 		<item>figgo</item>
 		<item>file</item>
 		<item>file_commander</item>
@@ -1056,6 +1066,7 @@
 		<item>financial_calculator</item>
 		<item>financial_times</item>
 		<item>find_me_gf</item>
+		<item>fing</item>
 		<item>fire_emblem_heroes</item>
 		<item>fire_emblem_wiki</item>
 		<item>fire_tv</item>
@@ -1083,6 +1094,7 @@
 		<item>flashify</item>
 		<item>flat_keyboard</item>
 		<item>flat_minimal_iconpack</item>
+		<item>flat_squircle</item>
 		<item>flatlay_wallpapers</item>
 		<item>flats</item>
 		<item>flatty_iconpack</item>
@@ -1141,6 +1153,7 @@
 		<item>frames_21</item>
 		<item>france_24</item>
 		<item>frandroid</item>
+		<item>free_now</item>
 		<item>free_vpn_master</item>
 		<item>freecharge</item>
 		<item>freeflight_mini</item>
@@ -1368,6 +1381,7 @@
 		<item>grofers</item>
 		<item>group_me</item>
 		<item>groupon</item>
+		<item>growlr</item>
 		<item>groww</item>
 		<item>gsc_cinemas</item>
 		<item>gta_3</item>
@@ -1382,6 +1396,7 @@
 		<item>gulix_iconpack</item>
 		<item>guns_of_boom</item>
 		<item>gux_iconpack</item>
+		<item>gx__fonts</item>
 		<item>gzdoom</item>
 		<item>h2o_iconpack</item>
 		<item>h3g</item>
@@ -1832,6 +1847,7 @@
 		<item>mario_kart_tour</item>
 		<item>mario_run</item>
 		<item>mariott</item>
+		<item>maruti_care</item>
 		<item>marvel_strike_force</item>
 		<item>marvel_tournament</item>
 		<item>marvel_tsum</item>
@@ -1896,6 +1912,7 @@
 		<item>mi_band_master</item>
 		<item>mi_bandage</item>
 		<item>mi_browser</item>
+		<item>mi_credit</item>
 		<item>mi_drop</item>
 		<item>mi_fit</item>
 		<item>mi_forum</item>
@@ -1949,6 +1966,7 @@
 		<item>ministry_assistant</item>
 		<item>minma_iconpack</item>
 		<item>mint</item>
+		<item>minty__pro_iconpack</item>
 		<item>minty_iconpack</item>
 		<item>mirror_lab</item>
 		<item>mirrorop_sender</item>
@@ -2114,6 +2132,7 @@
 		<item>nexa_iconpack</item>
 		<item>nextdoor</item>
 		<item>nfc_tools</item>
+		<item>nfl_raiders</item>
 		<item>nfs_most_wanted</item>
 		<item>nfs_no_limit</item>
 		<item>niagara_launcher</item>
@@ -2196,6 +2215,7 @@
 		<item>oneplus_weather</item>
 		<item>oneplus_zenmode</item>
 		<item>onetracker</item>
+		<item>oneui_circle</item>
 		<item>oneui_iconpack</item>
 		<item>oneui_icons</item>
 		<item>ontrax_iconpack</item>
@@ -2217,6 +2237,7 @@
 		<item>opera_touch</item>
 		<item>opera_touch2</item>
 		<item>oplayer</item>
+		<item>opodo</item>
 		<item>oppo_backup_restore</item>
 		<item>oppo_camera</item>
 		<item>oppo_compass</item>
@@ -2367,6 +2388,7 @@
 		<item>plant_vs_zombie_2</item>
 		<item>plax_ui</item>
 		<item>play_code</item>
+		<item>play_keyboard</item>
 		<item>playstation_app</item>
 		<item>playstation_message</item>
 		<item>plenty_of_fish</item>
@@ -2374,6 +2396,7 @@
 		<item>plix_iconpack</item>
 		<item>plugshare</item>
 		<item>plumber</item>
+		<item>plusnet_mobile</item>
 		<item>pocket</item>
 		<item>pocket2</item>
 		<item>pocket_camp</item>
@@ -2420,6 +2443,7 @@
 		<item>private_browser</item>
 		<item>prixtel</item>
 		<item>productivity_challenge</item>
+		<item>pronote</item>
 		<item>property_brothers</item>
 		<item>protectfile_pro</item>
 		<item>protectsms_pro</item>
@@ -2492,6 +2516,7 @@
 		<item>real_racing_3</item>
 		<item>realtor_com</item>
 		<item>reckless_getaway_2</item>
+		<item>recon</item>
 		<item>recorder</item>
 		<item>recticons_iconpack</item>
 		<item>red</item>
@@ -2511,6 +2536,7 @@
 		<item>relax_melodies</item>
 		<item>relax_my_cat</item>
 		<item>remembear</item>
+		<item>reminder_pro</item>
 		<item>reminder_with_alarm</item>
 		<item>remitano</item>
 		<item>resplash</item>
@@ -2552,6 +2578,7 @@
 		<item>runtastic</item>
 		<item>runtastic_pro</item>
 		<item>russian_made_easy</item>
+		<item>ruud</item>
 		<item>ruzzle</item>
 		<item>ryanair</item>
 		<item>s6_ui_iconpack</item>
@@ -2733,6 +2760,7 @@
 		<item>shuttle</item>
 		<item>signal</item>
 		<item>signal_care</item>
+		<item>signal_secure_vpn</item>
 		<item>silk_paints</item>
 		<item>simcity</item>
 		<item>simpax_iconpack</item>
@@ -2745,6 +2773,7 @@
 		<item>simplicon_iconpack</item>
 		<item>sing_smule</item>
 		<item>six_pack_in_30_days</item>
+		<item>skanapp_plus</item>
 		<item>sketch</item>
 		<item>sketchfab</item>
 		<item>skiddy_car</item>
@@ -2862,6 +2891,7 @@
 		<item>star_ocean</item>
 		<item>star_tracker</item>
 		<item>star_walk2</item>
+		<item>star_walk_2</item>
 		<item>star_wars_heroes</item>
 		<item>star_wars_kotor</item>
 		<item>starbucks</item>
@@ -2926,6 +2956,7 @@
 		<item>sword_of_xolan</item>
 		<item>sygic</item>
 		<item>symbolab</item>
+		<item>sync_me</item>
 		<item>syndicate_bank</item>
 		<item>synology_cloud</item>
 		<item>synology_file</item>
@@ -2993,6 +3024,7 @@
 		<item>theme_galaxy</item>
 		<item>theme_park</item>
 		<item>theotown</item>
+		<item>thin_iconpack</item>
 		<item>thinkors_swim</item>
 		<item>thisissand</item>
 		<item>three</item>
@@ -3012,6 +3044,7 @@
 		<item>tinder</item>
 		<item>tinder_alt</item>
 		<item>tingles</item>
+		<item>tinycards_by_duolingo</item>
 		<item>titanium_backup</item>
 		<item>tmz</item>
 		<item>today_weather</item>
@@ -3132,6 +3165,7 @@
 		<item>ux_s9_iconpack</item>
 		<item>v_sat</item>
 		<item>vcam</item>
+		<item>vendour</item>
 		<item>venmo</item>
 		<item>vente_privee</item>
 		<item>verizon_cloud</item>
@@ -3188,6 +3222,7 @@
 		<item>vivo_theme</item>
 		<item>vivo_video</item>
 		<item>vivo_weather</item>
+		<item>vizio_smartcast</item>
 		<item>vlad_call_blocker</item>
 		<item>vlc</item>
 		<item>vlc_mobile_remote</item>
@@ -3275,6 +3310,7 @@
 		<item>wonder_iconpack</item>
 		<item>wonderwall</item>
 		<item>woodfoorest</item>
+		<item>word_cookies</item>
 		<item>word_search_addict</item>
 		<item>wordpress</item>
 		<item>words2</item>
@@ -3286,6 +3322,7 @@
 		<item>worldstar</item>
 		<item>worms_4</item>
 		<item>wowbox</item>
+		<item>wps_note</item>
 		<item>wps_office</item>
 		<item>wunderlist</item>
 		<item>wuntu</item>
@@ -3315,6 +3352,7 @@
 		<item>yahoo_mail</item>
 		<item>yalp_store</item>
 		<item>yandex_browser</item>
+		<item>yandex_music</item>
 		<item>yandex_navi</item>
 		<item>yatzy</item>
 		<item>yeelight</item>
@@ -3349,6 +3387,7 @@
 		<item>zarchiver</item>
 		<item>zedge</item>
 		<item>zee5</item>
+		<item>zelle</item>
 		<item>zello</item>
 		<item>zemb</item>
 		<item>zenge</item>
@@ -3409,6 +3448,7 @@
 		<item>act_fibernet</item>
 		<item>action_dash</item>
 		<item>action_launcher</item>
+		<item>actions_moleskine</item>
 		<item>ada</item>
 		<item>adapticon</item>
 		<item>adaptive_iconpack</item>
@@ -3653,6 +3693,7 @@
 		<item>at_and_t_call_protect</item>
 		<item>atbat</item>
 		<item>atm_milano</item>
+		<item>atmosphere</item>
 		<item>atomic_clock</item>
 		<item>atomicclock</item>
 		<item>audible</item>
@@ -3835,6 +3876,7 @@
 		<item>boom_beach</item>
 		<item>boomerang</item>
 		<item>boost</item>
+		<item>boosted</item>
 		<item>borealis</item>
 		<item>botim</item>
 		<item>bouncy_hoops</item>
@@ -4036,6 +4078,7 @@
 		<item>clash_royal_alt</item>
 		<item>clash_royale</item>
 		<item>class_dojo</item>
+		<item>classup</item>
 		<item>clean_file_manager</item>
 		<item>clean_master</item>
 		<item>cleanfox</item>
@@ -4131,11 +4174,13 @@
 		<item>cricbuzz</item>
 		<item>crispy_iconpack</item>
 		<item>crit_dice</item>
+		<item>croc_iconpack</item>
 		<item>crossy_road</item>
 		<item>crowdcity</item>
 		<item>crowdfire</item>
 		<item>crunchy_roll</item>
 		<item>cryptocurrency_secrets</item>
+		<item>crystal_for_samsung</item>
 		<item>crystal_for_samsung_browser</item>
 		<item>cryten_iconpack</item>
 		<item>csr_racing_2</item>
@@ -4153,6 +4198,7 @@
 		<item>daily_horoscope_click</item>
 		<item>daily_hunt</item>
 		<item>daily_scripture</item>
+		<item>dailymail</item>
 		<item>damonps2</item>
 		<item>dan_the_man</item>
 		<item>dark_diary</item>
@@ -4238,6 +4284,7 @@
 		<item>dominos</item>
 		<item>domka_iconpack</item>
 		<item>doordash</item>
+		<item>dopewalls</item>
 		<item>dots</item>
 		<item>dots_co</item>
 		<item>download</item>
@@ -4262,6 +4309,7 @@
 		<item>droidbug_busybox_advance_free</item>
 		<item>drone_2_air_assault</item>
 		<item>drone_spot</item>
+		<item>dronzer_period_tracker</item>
 		<item>dropbox</item>
 		<item>droper</item>
 		<item>drops</item>
@@ -4428,6 +4476,7 @@
 		<item>fifa</item>
 		<item>fifa_companion</item>
 		<item>fifa_mobile</item>
+		<item>fifa_mobile_old</item>
 		<item>figgo</item>
 		<item>file</item>
 		<item>file_commander</item>
@@ -4438,6 +4487,7 @@
 		<item>financial_calculator</item>
 		<item>financial_times</item>
 		<item>find_me_gf</item>
+		<item>fing</item>
 		<item>fire_emblem_heroes</item>
 		<item>fire_emblem_wiki</item>
 		<item>fire_tv</item>
@@ -4465,6 +4515,7 @@
 		<item>flashify</item>
 		<item>flat_keyboard</item>
 		<item>flat_minimal_iconpack</item>
+		<item>flat_squircle</item>
 		<item>flatlay_wallpapers</item>
 		<item>flats</item>
 		<item>flatty_iconpack</item>
@@ -4523,6 +4574,7 @@
 		<item>frames_21</item>
 		<item>france_24</item>
 		<item>frandroid</item>
+		<item>free_now</item>
 		<item>free_vpn_master</item>
 		<item>freecharge</item>
 		<item>freeflight_mini</item>
@@ -4750,6 +4802,7 @@
 		<item>grofers</item>
 		<item>group_me</item>
 		<item>groupon</item>
+		<item>growlr</item>
 		<item>groww</item>
 		<item>gsc_cinemas</item>
 		<item>gta_3</item>
@@ -4764,6 +4817,7 @@
 		<item>gulix_iconpack</item>
 		<item>guns_of_boom</item>
 		<item>gux_iconpack</item>
+		<item>gx__fonts</item>
 		<item>gzdoom</item>
 		<item>h2o_iconpack</item>
 		<item>h3g</item>
@@ -5214,6 +5268,7 @@
 		<item>mario_kart_tour</item>
 		<item>mario_run</item>
 		<item>mariott</item>
+		<item>maruti_care</item>
 		<item>marvel_strike_force</item>
 		<item>marvel_tournament</item>
 		<item>marvel_tsum</item>
@@ -5278,6 +5333,7 @@
 		<item>mi_band_master</item>
 		<item>mi_bandage</item>
 		<item>mi_browser</item>
+		<item>mi_credit</item>
 		<item>mi_drop</item>
 		<item>mi_fit</item>
 		<item>mi_forum</item>
@@ -5331,6 +5387,7 @@
 		<item>ministry_assistant</item>
 		<item>minma_iconpack</item>
 		<item>mint</item>
+		<item>minty__pro_iconpack</item>
 		<item>minty_iconpack</item>
 		<item>mirror_lab</item>
 		<item>mirrorop_sender</item>
@@ -5496,6 +5553,7 @@
 		<item>nexa_iconpack</item>
 		<item>nextdoor</item>
 		<item>nfc_tools</item>
+		<item>nfl_raiders</item>
 		<item>nfs_most_wanted</item>
 		<item>nfs_no_limit</item>
 		<item>niagara_launcher</item>
@@ -5578,6 +5636,7 @@
 		<item>oneplus_weather</item>
 		<item>oneplus_zenmode</item>
 		<item>onetracker</item>
+		<item>oneui_circle</item>
 		<item>oneui_iconpack</item>
 		<item>oneui_icons</item>
 		<item>ontrax_iconpack</item>
@@ -5599,6 +5658,7 @@
 		<item>opera_touch</item>
 		<item>opera_touch2</item>
 		<item>oplayer</item>
+		<item>opodo</item>
 		<item>oppo_backup_restore</item>
 		<item>oppo_camera</item>
 		<item>oppo_compass</item>
@@ -5749,6 +5809,7 @@
 		<item>plant_vs_zombie_2</item>
 		<item>plax_ui</item>
 		<item>play_code</item>
+		<item>play_keyboard</item>
 		<item>playstation_app</item>
 		<item>playstation_message</item>
 		<item>plenty_of_fish</item>
@@ -5756,6 +5817,7 @@
 		<item>plix_iconpack</item>
 		<item>plugshare</item>
 		<item>plumber</item>
+		<item>plusnet_mobile</item>
 		<item>pocket</item>
 		<item>pocket2</item>
 		<item>pocket_camp</item>
@@ -5802,6 +5864,7 @@
 		<item>private_browser</item>
 		<item>prixtel</item>
 		<item>productivity_challenge</item>
+		<item>pronote</item>
 		<item>property_brothers</item>
 		<item>protectfile_pro</item>
 		<item>protectsms_pro</item>
@@ -5874,6 +5937,7 @@
 		<item>real_racing_3</item>
 		<item>realtor_com</item>
 		<item>reckless_getaway_2</item>
+		<item>recon</item>
 		<item>recorder</item>
 		<item>recticons_iconpack</item>
 		<item>red</item>
@@ -5893,6 +5957,7 @@
 		<item>relax_melodies</item>
 		<item>relax_my_cat</item>
 		<item>remembear</item>
+		<item>reminder_pro</item>
 		<item>reminder_with_alarm</item>
 		<item>remitano</item>
 		<item>resplash</item>
@@ -5934,6 +5999,7 @@
 		<item>runtastic</item>
 		<item>runtastic_pro</item>
 		<item>russian_made_easy</item>
+		<item>ruud</item>
 		<item>ruzzle</item>
 		<item>ryanair</item>
 		<item>s6_ui_iconpack</item>
@@ -6115,6 +6181,7 @@
 		<item>shuttle</item>
 		<item>signal</item>
 		<item>signal_care</item>
+		<item>signal_secure_vpn</item>
 		<item>silk_paints</item>
 		<item>simcity</item>
 		<item>simpax_iconpack</item>
@@ -6127,6 +6194,7 @@
 		<item>simplicon_iconpack</item>
 		<item>sing_smule</item>
 		<item>six_pack_in_30_days</item>
+		<item>skanapp_plus</item>
 		<item>sketch</item>
 		<item>sketchfab</item>
 		<item>skiddy_car</item>
@@ -6244,6 +6312,7 @@
 		<item>star_ocean</item>
 		<item>star_tracker</item>
 		<item>star_walk2</item>
+		<item>star_walk_2</item>
 		<item>star_wars_heroes</item>
 		<item>star_wars_kotor</item>
 		<item>starbucks</item>
@@ -6308,6 +6377,7 @@
 		<item>sword_of_xolan</item>
 		<item>sygic</item>
 		<item>symbolab</item>
+		<item>sync_me</item>
 		<item>syndicate_bank</item>
 		<item>synology_cloud</item>
 		<item>synology_file</item>
@@ -6375,6 +6445,7 @@
 		<item>theme_galaxy</item>
 		<item>theme_park</item>
 		<item>theotown</item>
+		<item>thin_iconpack</item>
 		<item>thinkors_swim</item>
 		<item>thisissand</item>
 		<item>three</item>
@@ -6394,6 +6465,7 @@
 		<item>tinder</item>
 		<item>tinder_alt</item>
 		<item>tingles</item>
+		<item>tinycards_by_duolingo</item>
 		<item>titanium_backup</item>
 		<item>tmz</item>
 		<item>today_weather</item>
@@ -6514,6 +6586,7 @@
 		<item>ux_s9_iconpack</item>
 		<item>v_sat</item>
 		<item>vcam</item>
+		<item>vendour</item>
 		<item>venmo</item>
 		<item>vente_privee</item>
 		<item>verizon_cloud</item>
@@ -6570,6 +6643,7 @@
 		<item>vivo_theme</item>
 		<item>vivo_video</item>
 		<item>vivo_weather</item>
+		<item>vizio_smartcast</item>
 		<item>vlad_call_blocker</item>
 		<item>vlc</item>
 		<item>vlc_mobile_remote</item>
@@ -6657,6 +6731,7 @@
 		<item>wonder_iconpack</item>
 		<item>wonderwall</item>
 		<item>woodfoorest</item>
+		<item>word_cookies</item>
 		<item>word_search_addict</item>
 		<item>wordpress</item>
 		<item>words2</item>
@@ -6668,6 +6743,7 @@
 		<item>worldstar</item>
 		<item>worms_4</item>
 		<item>wowbox</item>
+		<item>wps_note</item>
 		<item>wps_office</item>
 		<item>wunderlist</item>
 		<item>wuntu</item>
@@ -6697,6 +6773,7 @@
 		<item>yahoo_mail</item>
 		<item>yalp_store</item>
 		<item>yandex_browser</item>
+		<item>yandex_music</item>
 		<item>yandex_navi</item>
 		<item>yatzy</item>
 		<item>yeelight</item>
@@ -6731,6 +6808,7 @@
 		<item>zarchiver</item>
 		<item>zedge</item>
 		<item>zee5</item>
+		<item>zelle</item>
 		<item>zello</item>
 		<item>zemb</item>
 		<item>zenge</item>
@@ -6766,35 +6844,45 @@
 	</string-array>
 
 	<string-array name="recently_added">
-		<item>canon_camera_connect</item>
-		<item>choices</item>
-		<item>cookie_clicker</item>
-		<item>dribbble</item>
-		<item>everpics</item>
-		<item>groww</item>
-		<item>gta_liberty_city_stories</item>
-		<item>gta_sa_cheater</item>
-		<item>gta_vice_city</item>
-		<item>lazypay</item>
-		<item>linebit_se</item>
-		<item>mario_kart_tour</item>
-		<item>mini_world</item>
-		<item>mobile_legends_bang_bang</item>
-		<item>no_crop_for_instagram</item>
-		<item>olx_bg</item>
-		<item>oppo_backup_restore</item>
-		<item>oppo_stk</item>
-		<item>oppo_theme_space</item>
-		<item>property_brothers</item>
-		<item>skyline_iconpack</item>
-		<item>space_shooter</item>
-		<item>tabata_timer</item>
-		<item>tiktok_lite</item>
-		<item>tohsoft_translate</item>
-		<item>wizz_air</item>
-		<item>xcurrency_mini</item>
-		<item>yellow_taxi_91119</item>
-		<item>yes_bank</item>
+		<item>actions_moleskine</item>
+		<item>atmosphere</item>
+		<item>boosted</item>
+		<item>classup</item>
+		<item>croc_iconpack</item>
+		<item>crystal_for_samsung</item>
+		<item>dailymail</item>
+		<item>dopewalls</item>
+		<item>dronzer_period_tracker</item>
+		<item>fifa_mobile_old</item>
+		<item>fing</item>
+		<item>flat_squircle</item>
+		<item>free_now</item>
+		<item>growlr</item>
+		<item>gx__fonts</item>
+		<item>maruti_care</item>
+		<item>mi_credit</item>
+		<item>minty__pro_iconpack</item>
+		<item>nfl_raiders</item>
+		<item>oneui_circle</item>
+		<item>opodo</item>
+		<item>play_keyboard</item>
+		<item>plusnet_mobile</item>
+		<item>pronote</item>
+		<item>recon</item>
+		<item>reminder_pro</item>
+		<item>ruud</item>
+		<item>signal_secure_vpn</item>
+		<item>skanapp_plus</item>
+		<item>star_walk_2</item>
+		<item>sync_me</item>
+		<item>thin_iconpack</item>
+		<item>tinycards_by_duolingo</item>
+		<item>vendour</item>
+		<item>vizio_smartcast</item>
+		<item>word_cookies</item>
+		<item>wps_note</item>
+		<item>yandex_music</item>
+		<item>zelle</item>
 	</string-array>
 
 	<string-array name="adobe">
