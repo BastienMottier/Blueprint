@@ -3619,4 +3619,32 @@
     <item component="ComponentInfo{com.dailymail.online/com.dailymail.online.modules.splash.SplashActivity}" drawable="dailymail"/>
     <item component="ComponentInfo{ginlemon.flowerpro/ginlemon.flower.HomeScreen}" drawable="smart_launcher"/>
 
+    <item component="ComponentInfo{com.apkpure.aegon/com.apkpure.aegon.main.activity.SplashActivity}" drawable="apkpure"/>
+    <item component="ComponentInfo{com.spotify.lite/com.spotify.lite.features.launcher.LauncherActivity}" drawable="spotify_lite"/>
+    <item component="ComponentInfo{com.compscieddy.writeaday/com.compscieddy.writeaday.activities.LandingActivity}" drawable="writeaday"/>
+    <item component="ComponentInfo{com.goyourfly.bigidea/com.goyourfly.bigidea.SplashActivity}" drawable="idea_note"/>
+    <item component="ComponentInfo{com.lumoslabs.lumosity/com.lumoslabs.lumosity.activity.LaunchActivity}" drawable="lumosity"/>
+    <item component="ComponentInfo{io.quire.app/io.quire.app.activity.MainActivity}" drawable="quire"/>
+    <item component="ComponentInfo{health.mia.app/health.mia.app.ui.splash.SplashActivity}" drawable="mia"/>
+    <item component="ComponentInfo{com.ea.evowner/com.ec.evowner.view.activity.SplashActivity}" drawable="electrify_america"/>
+    <item component="ComponentInfo{com.deepstash/com.deepstash.MainActivity}" drawable="deepstash"/>
+    <item component="ComponentInfo{com.squats.fittr/com.squats.fittr.activity.SplashActivity}" drawable="fittr"/>
+    <item component="ComponentInfo{com.olacabs.olamoney/com.olacabs.olamoney.activities.SplashActivity}" drawable="ola_money"/>
+    <item component="ComponentInfo{com.amtrak.rider/com.amtrak.rider.Amtrak}" drawable="amtrak"/>
+    <item component="ComponentInfo{com.vpn.free.hotspot.secure.vpnify/com.vpn.free.hotspot.secure.vpnify.MainActivity}" drawable="vpnify"/>
+    <item component="ComponentInfo{com.strava/com.strava.SplashActivity}" drawable="strava"/>
+    <item component="ComponentInfo{com.google.tango.measure/com.google.vr.apps.ornament.measure.MeasureMainActivity}" drawable="google_measure"/>
+    <item component="ComponentInfo{com.google.android.apps.mapslite/org.chromium.webapk.shell_apk.MainActivity}" drawable="google_maps_go"/>
+    <item component="ComponentInfo{com.maxelus.livewallpaper.neoline/com.maxelus.livewallpaper.neoline.OpenApp}" drawable="neoline_livewallpaper"/>
+    <item component="ComponentInfo{com.wecut.pintu/com.wecut.pins.WelcomeActivity}" drawable="pintu"/>
+    <item component="ComponentInfo{net.xblacky.wallx/net.xblacky.wallx.Activities.SplashActivity.SplashActivity}" drawable="wall_x"/>
+    <item component="ComponentInfo{com.kpc.relaxchill/com.kpc.relaxchill.ui.SplashActivity}" drawable="relax_chill"/>
+    <item component="ComponentInfo{com.ss.popupWidget/com.ss.popupWidget.MainActivity}" drawable="popup_widget"/>
+    <item component="ComponentInfo{com.devexpert.weatheradfree/com.devexpert.weatheradfree.view.HomeActivity}" drawable="weather_clack_widget"/>
+    <item component="ComponentInfo{com.cessnalifeline.www/com.cessnalifeline.www.MainActivity}" drawable="cessna_lifeline"/>
+    <item component="ComponentInfo{com.google.android.apps.youtube.mango/com.google.android.apps.youtube.lite.frontend.activities.SplashActivity}" drawable="youtube_go"/>
+    <item component="ComponentInfo{jp.konami.pesam/com.epicgames.ue4.SplashActivity}" drawable="pes_2019"/>
+    <item component="ComponentInfo{com.yandex.launcher/com.yandex.launcher.Launcher}" drawable="yandex_launcher"/>
+    <item component="ComponentInfo{org.chromium.webapk.a4cdd6ad8e6d35c6d/org.chromium.webapk.shell_apk.MainActivity}" drawable="unsplash"/>
+
 </resources>

@@ -21,5 +21,6 @@
 
 	$text .= "</resources>\n";
 	file_put_contents('./app/src/main/res/xml/drawable.xml', $text);
+	file_put_contents('./app/src/main/assets/drawable.xml', $text);
 	echo "NB Icons : $count\n";
 ?>
