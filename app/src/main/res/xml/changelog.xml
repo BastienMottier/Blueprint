@@ -15,6 +15,23 @@
   ~ limitations under the License.
   -->
 <resources>
+    <version title="v1.4.16"/>
+    <item text="57 new apps supported!"/>
+    <item text="40 new icons!"/>
+    <item text="7 icons updated"/>
+    <version title="v1.4.14"/>
+    <item text="53 new apps supported!"/>
+    <item text="48 new icons!"/>
+    <version title="v1.4.13"/>
+    <item text="48 new apps supported!"/>
+    <item text="37 new icons!"/>
+    <version title="v1.4.12"/>
+    <item text="38 new icons!"/>
+    <version title="v1.4.11"/>
+    <item text="66 new icons!"/>
+    <item text="Correct lot of errors!"/>
+    <version title="v1.4.10"/>
+    <item text="44 new icons!"/>
     <version title="v1.4.9"/>
     <item text="47 new icons!"/>
 </resources>
