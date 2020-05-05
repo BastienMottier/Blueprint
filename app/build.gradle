@@ -1,84 +1,61 @@
-/*
- * Copyright (c) 2018. Jahir Fiquitiva
- *
- * Licensed under the CreativeCommons Attribution-ShareAlike
- * 4.0 International License. You may not use this file except in compliance
- * with the License. You may obtain a copy of the License at
- *
- *    http://creativecommons.org/licenses/by-sa/4.0/legalcode
- *
- * Unless required by applicable law or agreed to in writing, software
- * distributed under the License is distributed on an "AS IS" BASIS,
- * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
- * See the License for the specific language governing permissions and
- * limitations under the License.
- */
 // TODO: Remove comment marks to enable
 /*
 buildscript {
     repositories {
         maven { url 'https://plugins.gradle.org/m2/' }
     }
+
     dependencies {
-        classpath 'gradle.plugin.com.onesignal:onesignal-gradle-plugin:0.12.5'
+        classpath Plugins.oneSignal
     }
 }
+
 apply plugin: 'com.onesignal.androidsdk.onesignal-gradle-plugin'
 */
 
 apply plugin: 'com.android.application'
 apply plugin: 'kotlin-android'
+apply plugin: 'kotlin-android-extensions'
 apply plugin: 'kotlin-kapt'
 
 android {
-    bundle {
-        density {
-            // Different APKs are generated for devices with different screen densities; true by default.
-            enableSplit true
-        }
-        abi {
-            // Different APKs are generated for devices with different CPU architectures; true by default.
-            enableSplit true
-        }
-        language {
-            // This is disabled so that the App Bundle does NOT split the APK for each language.
-            // We're gonna use the same APK for all languages.
-            enableSplit false
-        }
-    }
-
-    compileSdkVersion versions.targetSdk
-    buildToolsVersion versions.buildTools
-
     applicationVariants.all { variant ->
         variant.outputs.all { output ->
-            outputFileName = "Squirclx-v${variant.versionName}-${variant.name}.apk"
+            outputFileName = defaultConfig.applicationId + "-v${variant.versionName}-${variant.name}.apk"
         }
     }
 
     lintOptions {
         abortOnError false
-        checkReleaseBuilds false
+        checkReleaseBuilds true
         disable 'MissingTranslation', 'GoogleAppIndexingWarning'
     }
 
-    defaultConfig {
-        // TODO: Remove comment marks to enable
-        /*
-        manifestPlaceholders = [onesignal_app_id               : "abcd-1234-efgh-5678",
-                                // Project number pulled from dashboard, local value is ignored.
-                                onesignal_google_project_number: "1234567890"]
-                                */
+    compileSdkVersion Versions.targetSdk
+    buildToolsVersion Versions.buildTools
 
-        applicationId "com.adraxas.squirclx"
-        minSdkVersion versions.minSdk
-        targetSdkVersion versions.targetSdk
-        versionCode 1416
-        versionName "1.4.16"
+    defaultConfig {
+        manifestPlaceholders = [
+                onesignal_app_id               : OneSignal.appId,
+                onesignal_google_project_number: OneSignal.googleProjectNumber
+        ]
+        applicationId MyApp.appId
+        minSdkVersion Versions.minSdk
+        targetSdkVersion Versions.targetSdk
+        versionCode MyApp.version
+        versionName MyApp.versionName
         vectorDrawables.useSupportLibrary = true
         proguardFiles 'proguard-android-optimize.txt', 'proguard-rules.pro'
         consumerProguardFiles 'proguard-android-optimize.txt', 'proguard-rules.pro'
-        multiDexEnabled true
+
+        javaCompileOptions {
+            annotationProcessorOptions {
+                arguments = [
+                        "room.schemaLocation"  : "$projectDir/schemas".toString(),
+                        "room.incremental"     : "true",
+                        "room.expandProjection": "true"]
+            }
+        }
     }
 
     buildTypes {
@@ -89,12 +66,7 @@ android {
             shrinkResources false
             proguardFiles 'proguard-android-optimize.txt', 'proguard-rules.pro'
             consumerProguardFiles 'proguard-android-optimize.txt', 'proguard-rules.pro'
-            multiDexKeepProguard file('proguard-rules.pro')
         }
-    }
-
-    aaptOptions {
-        noCompress 'zw', 'zip', 'komp', 'klwp', 'kwgt', 'klck', 'kwch', 'xml'
     }
 
     sourceSets {
@@ -119,16 +91,9 @@ android {
 }
 
 dependencies {
-    // Blueprint
-    implementation('com.jahirfiquitiva:Blueprint:1.5.1@aar') {
+    implementation(Libs.blueprint) {
         transitive = true
     }
     // TODO: Remove comment marks to enable
-    // implementation libraries.oneSignal
-}
-
-tasks.whenTaskAdded { task ->
-    if (task.name.contains("lint") || task.name.contains("test")) {
-        task.enabled = false
-    }
+    // implementation Libs.oneSignal
 }
