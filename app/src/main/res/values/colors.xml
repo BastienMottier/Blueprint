@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- Light Theme Colors -->
-    <color name="primary">#ffffff</color>
-    <color name="primaryDark">#fafafa</color>
+    <color name="primary">#E91E63</color>
+    <color name="primaryDark">#B0003A</color>
     <color name="onPrimary">#de000000</color>
 
-    <color name="accent">#3881fa</color>
+    <color name="accent">#E91E63</color>
     <color name="onAccent">#ffffff</color>
 
     <color name="surface">#ffffff</color>
@@ -20,14 +20,14 @@
     <color name="snackbarButtonColor">#88b3fc</color>
 
     <!-- Dark Theme Colors -->
-    <color name="darkThemePrimary">#212121</color>
-    <color name="darkThemePrimaryDark">#000000</color>
+    <color name="darkThemePrimary">#E91E63</color>
+    <color name="darkThemePrimaryDark">#B0003A</color>
     <color name="darkThemeOnPrimary">#ffffff</color>
 
-    <color name="darkThemeAccent">#ff3f80</color>
+    <color name="darkThemeAccent">#E91E63</color>
     <color name="darkThemeOnAccent">#ffffff</color>
 
-    <color name="darkThemeSurface">#424242</color>
+    <color name="darkThemeSurface">#4A4A4A</color>
     <color name="darkThemeOnSurface">#ffffff</color>
     <color name="darkThemeOnSurfaceVariant">#b3ffffff</color>
 

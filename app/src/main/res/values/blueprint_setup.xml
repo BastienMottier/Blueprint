@@ -12,7 +12,7 @@
         Use drawable name without extensions
     -->
     <string name="icons_placeholder"></string>
-
+s
     <!--
         Set a drawable name in case you want to use a static picture for icons preview.
         Leave empty if you don't want to use a static one.
@@ -34,11 +34,11 @@
     <bool name="includes_adaptive_icons">false</bool>
 
     <!-- Icon Pack designer/owner e-mail -->
-    <string name="email">someone@email.com</string>
+    <string name="email">squirclx@bastien.dev</string>
 
     <!-- Mail subjects for simple e-mail and requests e-mail -->
-    <string name="email_subject">Blueprint</string>
-    <string name="request_title">Blueprint Icon Request</string>
+    <string name="email_subject">Squirclx</string>
+    <string name="request_title">Squirclx Icon Request</string>
 
     <!--
     1. Set the max amount of apps to request.
@@ -56,8 +56,8 @@
     If the time limit is set to 0 or less, users will be able to request as many times they want,
     with the max apps limit.
     -->
-    <integer name="max_apps_to_request">-1</integer>
-    <integer name="time_limit_in_minutes">0</integer>
+    <integer name="max_apps_to_request">30</integer>
+    <integer name="time_limit_in_minutes">10080</integer>
 
     <!--
         Host must also be filled in first. An app API key from Arctic Request Manager.

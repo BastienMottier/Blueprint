@@ -13,7 +13,7 @@
     True means yes
     False means no
     -->
-    <bool name="notifications_enabled_by_default">true</bool>
+    <bool name="notifications_enabled_by_default">false</bool>
 
     <!--
     Do you want animations to be enabled for all your users?
@@ -33,7 +33,7 @@
     True means yes
     False means no
     -->
-    <bool name="show_versions_in_settings">true</bool>
+    <bool name="show_versions_in_settings">false</bool>
 
     <!--
     Which theme do you want set as default?
@@ -52,7 +52,8 @@
 
     <!-- These are your donation items. Only put their ids here -->
     <string-array name="donation_items">
-        <item></item>
+        <item>buy_me_a_coffee</item>
+        <item>buy_me_a_beer</item>
+        <item>support_my_work</item>
     </string-array>
-
 </resources>
