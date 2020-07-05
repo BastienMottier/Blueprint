@@ -9,7 +9,7 @@
         app:showAsAction="ifRoom" />
     <item
         android:id="@+id/icons"
-        android:icon="@drawable/ic_icons"
+        android:icon="@drawable/ic_shape"
         android:orderInCategory="200"
         android:title="@string/icons"
         app:showAsAction="ifRoom" />
