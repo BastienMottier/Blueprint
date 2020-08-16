@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <version title="2.1.8"/>
+    <item text="44 new apps supported"/>
+    <version title="2.1.7"/>
+    <item text="Hotfix icon masking"/>
     <version title="2.1.6"/>
     <item text="35 new apps supported"/>
     <item text="48 new icons"/>

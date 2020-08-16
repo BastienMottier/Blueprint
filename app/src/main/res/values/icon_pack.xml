@@ -65,6 +65,7 @@
 		<item>adpdigital_ayande</item>
 		<item>adshield</item>
 		<item>adventure_communist</item>
+		<item>adventure_llama</item>
 		<item>adventure_smith</item>
 		<item>aeris_currency_converter</item>
 		<item>aex_papers</item>
@@ -80,6 +81,7 @@
 		<item>agos_iconpack</item>
 		<item>aicut</item>
 		<item>aida64</item>
+		<item>aids</item>
 		<item>aimp_player</item>
 		<item>air_asia</item>
 		<item>air_asia_big</item>
@@ -134,6 +136,7 @@
 		<item>amazon_prime_video</item>
 		<item>amazon_seller</item>
 		<item>amazon_shopping</item>
+		<item>amc</item>
 		<item>amc_theaters</item>
 		<item>amd_link</item>
 		<item>american_airlines</item>
@@ -151,6 +154,7 @@
 		<item>amtrak</item>
 		<item>analiti</item>
 		<item>analog_clock_live_wallpaper</item>
+		<item>ancestry</item>
 		<item>andotp</item>
 		<item>andro_irc</item>
 		<item>androgens</item>
@@ -321,6 +325,7 @@
 		<item>aura_iconpack</item>
 		<item>aurdroid</item>
 		<item>aurora_iconpack</item>
+		<item>aurora_sms</item>
 		<item>aurorastore</item>
 		<item>aurum_iconpack</item>
 		<item>authy</item>
@@ -403,6 +408,7 @@
 		<item>be_my_eyes</item>
 		<item>beach_wallpapers</item>
 		<item>beach_waves_wallpaper</item>
+		<item>beaker</item>
 		<item>beat_fever</item>
 		<item>beat_stomper</item>
 		<item>beatbox</item>
@@ -424,6 +430,8 @@
 		<item>best_keyboard</item>
 		<item>best_wifi</item>
 		<item>bestia</item>
+		<item>beta_maniac</item>
+		<item>betclic</item>
 		<item>betternet</item>
 		<item>betternet_vpn</item>
 		<item>bevmo</item>
@@ -891,6 +899,7 @@
 		<item>cut_ringtones</item>
 		<item>cut_the_rope</item>
 		<item>cut_the_rope_time_travel</item>
+		<item>cw_seed</item>
 		<item>cx_file_explorer</item>
 		<item>cxx_droid</item>
 		<item>cyanogen_themes</item>
@@ -1052,6 +1061,7 @@
 		<item>dsblq</item>
 		<item>du_gif_maker</item>
 		<item>du_recorder</item>
+		<item>dual_sim_selector</item>
 		<item>duckduckgo</item>
 		<item>duel_links</item>
 		<item>duel_links_yusei</item>
@@ -1120,6 +1130,7 @@
 		<item>en_tl_dict</item>
 		<item>encode</item>
 		<item>endomondo</item>
+		<item>enedis</item>
 		<item>energy_bar</item>
 		<item>english_to_tagalog</item>
 		<item>enki</item>
@@ -1458,6 +1469,7 @@
 		<item>gleeph</item>
 		<item>glitch_iconpack</item>
 		<item>globe_switch</item>
+		<item>globoplay</item>
 		<item>glos_iconpack</item>
 		<item>glovo</item>
 		<item>glow_hockey</item>
@@ -1662,6 +1674,7 @@
 		<item>hangout_dialer</item>
 		<item>happn</item>
 		<item>happy_couple</item>
+		<item>happymod</item>
 		<item>haptik</item>
 		<item>harmony</item>
 		<item>harry_potter</item>
@@ -1678,6 +1691,7 @@
 		<item>hdfc_bank</item>
 		<item>head_ball_2</item>
 		<item>headphone_equalizer</item>
+		<item>heads_up</item>
 		<item>headspace</item>
 		<item>health4me</item>
 		<item>health_sync</item>
@@ -1839,6 +1853,7 @@
 		<item>imo</item>
 		<item>imobile</item>
 		<item>impulse</item>
+		<item>imusicplayer</item>
 		<item>indeed</item>
 		<item>india_drug_index</item>
 		<item>indian_express</item>
@@ -2477,6 +2492,7 @@
 		<item>myxl</item>
 		<item>n26</item>
 		<item>n2_wallpaper</item>
+		<item>n_notifier</item>
 		<item>namaz</item>
 		<item>napster</item>
 		<item>naptime</item>
@@ -2575,6 +2591,7 @@
 		<item>o3_iconpack</item>
 		<item>o_iconpack</item>
 		<item>ocea_kwgt</item>
+		<item>ocean_wallpaper</item>
 		<item>oculus</item>
 		<item>odici_iconpack</item>
 		<item>odigea_kwgt</item>
@@ -2688,6 +2705,7 @@
 		<item>ow_league</item>
 		<item>owncloud</item>
 		<item>oxs_iconpack</item>
+		<item>oxygen_os_iconpack</item>
 		<item>oxygen_updater</item>
 		<item>oxygen_updater_old</item>
 		<item>oxypie</item>
@@ -2721,6 +2739,7 @@
 		<item>parcels</item>
 		<item>paris_airport</item>
 		<item>paris_wallpapers</item>
+		<item>park_mobile</item>
 		<item>parkmobile</item>
 		<item>parrot_mini</item>
 		<item>particle_constellations_lw</item>
@@ -2792,6 +2811,7 @@
 		<item>pictrove_2</item>
 		<item>picture_match</item>
 		<item>ping_pong_king</item>
+		<item>ping_tools</item>
 		<item>pinkbird</item>
 		<item>pinterest</item>
 		<item>pintu</item>
@@ -2800,6 +2820,7 @@
 		<item>pix_color</item>
 		<item>pix_it</item>
 		<item>pixabay</item>
+		<item>pixaloop</item>
 		<item>pixcyl</item>
 		<item>pixel3d_iconpack</item>
 		<item>pixel_battery_saver</item>
@@ -2811,6 +2832,7 @@
 		<item>pixel_pie</item>
 		<item>pixel_pie_3d</item>
 		<item>pixel_pie_iconpack</item>
+		<item>pixel_q_iconpack</item>
 		<item>pixel_ring_iconpack</item>
 		<item>pixelful</item>
 		<item>pixellab</item>
@@ -2898,6 +2920,7 @@
 		<item>protectfile_pro</item>
 		<item>protectsms_pro</item>
 		<item>protonmail</item>
+		<item>protonvpn</item>
 		<item>ps4_remote_play</item>
 		<item>ps4_second_screen</item>
 		<item>pubg</item>
@@ -2905,6 +2928,7 @@
 		<item>puissance_4</item>
 		<item>pulsepoint</item>
 		<item>pure_iconpack</item>
+		<item>purple_wallpapers</item>
 		<item>pushbullet</item>
 		<item>pushbullet_portal</item>
 		<item>pushover</item>
@@ -3040,6 +3064,7 @@
 		<item>rocsy_iconpack</item>
 		<item>roku</item>
 		<item>roku_legacy</item>
+		<item>rondo</item>
 		<item>ronio_iconpack</item>
 		<item>root_checker_pro</item>
 		<item>root_explorer</item>
@@ -3136,6 +3161,7 @@
 		<item>samsung_max</item>
 		<item>samsung_members</item>
 		<item>samsung_message</item>
+		<item>samsung_mobile_print</item>
 		<item>samsung_mobile_tv</item>
 		<item>samsung_music</item>
 		<item>samsung_nice_catch</item>
@@ -3152,6 +3178,7 @@
 		<item>samsung_radio</item>
 		<item>samsung_reminder</item>
 		<item>samsung_rewards</item>
+		<item>samsung_routines</item>
 		<item>samsung_scrapbook</item>
 		<item>samsung_secure_folder</item>
 		<item>samsung_secure_wifi</item>
@@ -3271,6 +3298,7 @@
 		<item>simplebanking</item>
 		<item>simpler</item>
 		<item>simplicon_iconpack</item>
+		<item>simpsons</item>
 		<item>sims_freeplay</item>
 		<item>sing_smule</item>
 		<item>six_pack_in_30_days</item>
@@ -3499,6 +3527,7 @@
 		<item>tabata_timer</item>
 		<item>tachiyomi</item>
 		<item>talking_tom_gold_run</item>
+		<item>talon_for_twitter</item>
 		<item>tank_star</item>
 		<item>tantan</item>
 		<item>tap_tap_reborn_2</item>
@@ -3518,10 +3547,14 @@
 		<item>tcl_update</item>
 		<item>tct_calculator</item>
 		<item>tct_gallery</item>
+		<item>tct_phoneguard</item>
+		<item>tct_radio</item>
+		<item>tct_soundrecorder</item>
 		<item>tea_tv</item>
 		<item>teamviewer</item>
 		<item>teardrop_pixel_dark</item>
 		<item>teazit</item>
+		<item>technological_keyboard_theme</item>
 		<item>ted</item>
 		<item>teen_patti_gold</item>
 		<item>telegram</item>
@@ -3816,6 +3849,7 @@
 		<item>voot</item>
 		<item>votus_iconpack</item>
 		<item>vova</item>
+		<item>voxel_iconpack</item>
 		<item>voxer</item>
 		<item>voyage_prive</item>
 		<item>vpn_express</item>
@@ -3896,6 +3930,7 @@
 		<item>wikipedia_black</item>
 		<item>win_circle_iconpack</item>
 		<item>windscribe</item>
+		<item>winter_wallpaper</item>
 		<item>wirex</item>
 		<item>wish</item>
 		<item>withings_health_mate</item>
@@ -3940,6 +3975,7 @@
 		<item>xeus_timbre</item>
 		<item>xfinity_my_account</item>
 		<item>xiaomi_gamebooster</item>
+		<item>xiaomi_mipicks</item>
 		<item>xiaomi_roaming</item>
 		<item>xodo_docs</item>
 		<item>xperia_assist</item>
@@ -3982,6 +4018,7 @@
 		<item>youcut</item>
 		<item>yougov</item>
 		<item>youper</item>
+		<item>yousician</item>
 		<item>youtube</item>
 		<item>youtube_creator</item>
 		<item>youtube_gaming</item>
@@ -4105,6 +4142,7 @@
 		<item>adpdigital_ayande</item>
 		<item>adshield</item>
 		<item>adventure_communist</item>
+		<item>adventure_llama</item>
 		<item>adventure_smith</item>
 		<item>aeris_currency_converter</item>
 		<item>aex_papers</item>
@@ -4120,6 +4158,7 @@
 		<item>agos_iconpack</item>
 		<item>aicut</item>
 		<item>aida64</item>
+		<item>aids</item>
 		<item>aimp_player</item>
 		<item>air_asia</item>
 		<item>air_asia_big</item>
@@ -4174,6 +4213,7 @@
 		<item>amazon_prime_video</item>
 		<item>amazon_seller</item>
 		<item>amazon_shopping</item>
+		<item>amc</item>
 		<item>amc_theaters</item>
 		<item>amd_link</item>
 		<item>american_airlines</item>
@@ -4191,6 +4231,7 @@
 		<item>amtrak</item>
 		<item>analiti</item>
 		<item>analog_clock_live_wallpaper</item>
+		<item>ancestry</item>
 		<item>andotp</item>
 		<item>andro_irc</item>
 		<item>androgens</item>
@@ -4361,6 +4402,7 @@
 		<item>aura_iconpack</item>
 		<item>aurdroid</item>
 		<item>aurora_iconpack</item>
+		<item>aurora_sms</item>
 		<item>aurorastore</item>
 		<item>aurum_iconpack</item>
 		<item>authy</item>
@@ -4443,6 +4485,7 @@
 		<item>be_my_eyes</item>
 		<item>beach_wallpapers</item>
 		<item>beach_waves_wallpaper</item>
+		<item>beaker</item>
 		<item>beat_fever</item>
 		<item>beat_stomper</item>
 		<item>beatbox</item>
@@ -4464,6 +4507,8 @@
 		<item>best_keyboard</item>
 		<item>best_wifi</item>
 		<item>bestia</item>
+		<item>beta_maniac</item>
+		<item>betclic</item>
 		<item>betternet</item>
 		<item>betternet_vpn</item>
 		<item>bevmo</item>
@@ -4931,6 +4976,7 @@
 		<item>cut_ringtones</item>
 		<item>cut_the_rope</item>
 		<item>cut_the_rope_time_travel</item>
+		<item>cw_seed</item>
 		<item>cx_file_explorer</item>
 		<item>cxx_droid</item>
 		<item>cyanogen_themes</item>
@@ -5092,6 +5138,7 @@
 		<item>dsblq</item>
 		<item>du_gif_maker</item>
 		<item>du_recorder</item>
+		<item>dual_sim_selector</item>
 		<item>duckduckgo</item>
 		<item>duel_links</item>
 		<item>duel_links_yusei</item>
@@ -5160,6 +5207,7 @@
 		<item>en_tl_dict</item>
 		<item>encode</item>
 		<item>endomondo</item>
+		<item>enedis</item>
 		<item>energy_bar</item>
 		<item>english_to_tagalog</item>
 		<item>enki</item>
@@ -5498,6 +5546,7 @@
 		<item>gleeph</item>
 		<item>glitch_iconpack</item>
 		<item>globe_switch</item>
+		<item>globoplay</item>
 		<item>glos_iconpack</item>
 		<item>glovo</item>
 		<item>glow_hockey</item>
@@ -5702,6 +5751,7 @@
 		<item>hangout_dialer</item>
 		<item>happn</item>
 		<item>happy_couple</item>
+		<item>happymod</item>
 		<item>haptik</item>
 		<item>harmony</item>
 		<item>harry_potter</item>
@@ -5718,6 +5768,7 @@
 		<item>hdfc_bank</item>
 		<item>head_ball_2</item>
 		<item>headphone_equalizer</item>
+		<item>heads_up</item>
 		<item>headspace</item>
 		<item>health4me</item>
 		<item>health_sync</item>
@@ -5879,6 +5930,7 @@
 		<item>imo</item>
 		<item>imobile</item>
 		<item>impulse</item>
+		<item>imusicplayer</item>
 		<item>indeed</item>
 		<item>india_drug_index</item>
 		<item>indian_express</item>
@@ -6517,6 +6569,7 @@
 		<item>myxl</item>
 		<item>n26</item>
 		<item>n2_wallpaper</item>
+		<item>n_notifier</item>
 		<item>namaz</item>
 		<item>napster</item>
 		<item>naptime</item>
@@ -6615,6 +6668,7 @@
 		<item>o3_iconpack</item>
 		<item>o_iconpack</item>
 		<item>ocea_kwgt</item>
+		<item>ocean_wallpaper</item>
 		<item>oculus</item>
 		<item>odici_iconpack</item>
 		<item>odigea_kwgt</item>
@@ -6728,6 +6782,7 @@
 		<item>ow_league</item>
 		<item>owncloud</item>
 		<item>oxs_iconpack</item>
+		<item>oxygen_os_iconpack</item>
 		<item>oxygen_updater</item>
 		<item>oxygen_updater_old</item>
 		<item>oxypie</item>
@@ -6761,6 +6816,7 @@
 		<item>parcels</item>
 		<item>paris_airport</item>
 		<item>paris_wallpapers</item>
+		<item>park_mobile</item>
 		<item>parkmobile</item>
 		<item>parrot_mini</item>
 		<item>particle_constellations_lw</item>
@@ -6832,6 +6888,7 @@
 		<item>pictrove_2</item>
 		<item>picture_match</item>
 		<item>ping_pong_king</item>
+		<item>ping_tools</item>
 		<item>pinkbird</item>
 		<item>pinterest</item>
 		<item>pintu</item>
@@ -6840,6 +6897,7 @@
 		<item>pix_color</item>
 		<item>pix_it</item>
 		<item>pixabay</item>
+		<item>pixaloop</item>
 		<item>pixcyl</item>
 		<item>pixel3d_iconpack</item>
 		<item>pixel_battery_saver</item>
@@ -6851,6 +6909,7 @@
 		<item>pixel_pie</item>
 		<item>pixel_pie_3d</item>
 		<item>pixel_pie_iconpack</item>
+		<item>pixel_q_iconpack</item>
 		<item>pixel_ring_iconpack</item>
 		<item>pixelful</item>
 		<item>pixellab</item>
@@ -6938,6 +6997,7 @@
 		<item>protectfile_pro</item>
 		<item>protectsms_pro</item>
 		<item>protonmail</item>
+		<item>protonvpn</item>
 		<item>ps4_remote_play</item>
 		<item>ps4_second_screen</item>
 		<item>pubg</item>
@@ -6945,6 +7005,7 @@
 		<item>puissance_4</item>
 		<item>pulsepoint</item>
 		<item>pure_iconpack</item>
+		<item>purple_wallpapers</item>
 		<item>pushbullet</item>
 		<item>pushbullet_portal</item>
 		<item>pushover</item>
@@ -7080,6 +7141,7 @@
 		<item>rocsy_iconpack</item>
 		<item>roku</item>
 		<item>roku_legacy</item>
+		<item>rondo</item>
 		<item>ronio_iconpack</item>
 		<item>root_checker_pro</item>
 		<item>root_explorer</item>
@@ -7176,6 +7238,7 @@
 		<item>samsung_max</item>
 		<item>samsung_members</item>
 		<item>samsung_message</item>
+		<item>samsung_mobile_print</item>
 		<item>samsung_mobile_tv</item>
 		<item>samsung_music</item>
 		<item>samsung_nice_catch</item>
@@ -7192,6 +7255,7 @@
 		<item>samsung_radio</item>
 		<item>samsung_reminder</item>
 		<item>samsung_rewards</item>
+		<item>samsung_routines</item>
 		<item>samsung_scrapbook</item>
 		<item>samsung_secure_folder</item>
 		<item>samsung_secure_wifi</item>
@@ -7311,6 +7375,7 @@
 		<item>simplebanking</item>
 		<item>simpler</item>
 		<item>simplicon_iconpack</item>
+		<item>simpsons</item>
 		<item>sims_freeplay</item>
 		<item>sing_smule</item>
 		<item>six_pack_in_30_days</item>
@@ -7539,6 +7604,7 @@
 		<item>tabata_timer</item>
 		<item>tachiyomi</item>
 		<item>talking_tom_gold_run</item>
+		<item>talon_for_twitter</item>
 		<item>tank_star</item>
 		<item>tantan</item>
 		<item>tap_tap_reborn_2</item>
@@ -7558,10 +7624,14 @@
 		<item>tcl_update</item>
 		<item>tct_calculator</item>
 		<item>tct_gallery</item>
+		<item>tct_phoneguard</item>
+		<item>tct_radio</item>
+		<item>tct_soundrecorder</item>
 		<item>tea_tv</item>
 		<item>teamviewer</item>
 		<item>teardrop_pixel_dark</item>
 		<item>teazit</item>
+		<item>technological_keyboard_theme</item>
 		<item>ted</item>
 		<item>teen_patti_gold</item>
 		<item>telegram</item>
@@ -7856,6 +7926,7 @@
 		<item>voot</item>
 		<item>votus_iconpack</item>
 		<item>vova</item>
+		<item>voxel_iconpack</item>
 		<item>voxer</item>
 		<item>voyage_prive</item>
 		<item>vpn_express</item>
@@ -7936,6 +8007,7 @@
 		<item>wikipedia_black</item>
 		<item>win_circle_iconpack</item>
 		<item>windscribe</item>
+		<item>winter_wallpaper</item>
 		<item>wirex</item>
 		<item>wish</item>
 		<item>withings_health_mate</item>
@@ -7980,6 +8052,7 @@
 		<item>xeus_timbre</item>
 		<item>xfinity_my_account</item>
 		<item>xiaomi_gamebooster</item>
+		<item>xiaomi_mipicks</item>
 		<item>xiaomi_roaming</item>
 		<item>xodo_docs</item>
 		<item>xperia_assist</item>
@@ -8022,6 +8095,7 @@
 		<item>youcut</item>
 		<item>yougov</item>
 		<item>youper</item>
+		<item>yousician</item>
 		<item>youtube</item>
 		<item>youtube_creator</item>
 		<item>youtube_gaming</item>
@@ -8082,38 +8156,43 @@
 	</string-array>
 
 	<string-array name="recently_added">
-		<item>abstract_wallpapers</item>
-		<item>apex_launcher_pro</item>
-		<item>beach_wallpapers</item>
-		<item>bible_hub</item>
-		<item>buzzfeed</item>
-		<item>cartoon_network</item>
-		<item>cbs</item>
-		<item>curve</item>
-		<item>dumb_ways_to_die_superheroes</item>
-		<item>flamme_briquet</item>
-		<item>folder_shopping</item>
-		<item>funimation</item>
-		<item>game_center_n</item>
-		<item>glaze</item>
-		<item>maya</item>
-		<item>mint_browser</item>
-		<item>my_spectrum</item>
-		<item>oneplus_community</item>
-		<item>oneplus_community_alt</item>
-		<item>practo</item>
-		<item>revolut_business</item>
-		<item>revolut_junior</item>
-		<item>ruler</item>
-		<item>santander_uk</item>
-		<item>sophos_mobile_security</item>
-		<item>speedify</item>
-		<item>stardew_valley</item>
-		<item>tcl_update</item>
-		<item>tenor_gif_keyboard</item>
-		<item>uc_turbo</item>
-		<item>vysor</item>
-		<item>yandex_maps</item>
+		<item>adventure_llama</item>
+		<item>aids</item>
+		<item>amc</item>
+		<item>ancestry</item>
+		<item>aurora_sms</item>
+		<item>beaker</item>
+		<item>beta_maniac</item>
+		<item>betclic</item>
+		<item>cw_seed</item>
+		<item>dual_sim_selector</item>
+		<item>enedis</item>
+		<item>globoplay</item>
+		<item>happymod</item>
+		<item>heads_up</item>
+		<item>imusicplayer</item>
+		<item>n_notifier</item>
+		<item>ocean_wallpaper</item>
+		<item>oxygen_os_iconpack</item>
+		<item>park_mobile</item>
+		<item>ping_tools</item>
+		<item>pixaloop</item>
+		<item>pixel_q_iconpack</item>
+		<item>protonvpn</item>
+		<item>purple_wallpapers</item>
+		<item>rondo</item>
+		<item>samsung_mobile_print</item>
+		<item>samsung_routines</item>
+		<item>simpsons</item>
+		<item>talon_for_twitter</item>
+		<item>tct_phoneguard</item>
+		<item>tct_radio</item>
+		<item>tct_soundrecorder</item>
+		<item>technological_keyboard_theme</item>
+		<item>voxel_iconpack</item>
+		<item>winter_wallpaper</item>
+		<item>xiaomi_mipicks</item>
+		<item>yousician</item>
 	</string-array>
 
 	<string-array name="Squirclx">
@@ -8172,6 +8251,7 @@
 	<string-array name="books_and_reference">
 		<item>adobe_digital_editions</item>
 		<item>amazon_kindle</item>
+		<item>ancestry</item>
 		<item>anidroid</item>
 		<item>anybooks</item>
 		<item>audible</item>
@@ -8274,10 +8354,6 @@
 		<item>voice_mail</item>
 		<item>zip_recruiters</item>
 		<item>zoom</item>
-	</string-array>
-
-	<string-array name="c">
-		<item>minimalist_wallpaper</item>
 	</string-array>
 
 	<string-array name="comics">
@@ -8430,6 +8506,7 @@
 		<item>ankidroid</item>
 		<item>aviation_dictionary</item>
 		<item>babbel</item>
+		<item>beaker</item>
 		<item>blackboard</item>
 		<item>brilliant</item>
 		<item>busuu</item>
@@ -8513,6 +8590,7 @@
 		<item>uitm_digital_campus</item>
 		<item>uitm_sufo</item>
 		<item>uniwhere</item>
+		<item>yousician</item>
 	</string-array>
 
 	<string-array name="entertainment">
@@ -8521,6 +8599,7 @@
 		<item>airtel_tv</item>
 		<item>akinator</item>
 		<item>amazon_prime_video</item>
+		<item>amc</item>
 		<item>amc_theaters</item>
 		<item>amd_link</item>
 		<item>amolet_wallpapers_4k_2</item>
@@ -8544,6 +8623,7 @@
 		<item>creepypasta</item>
 		<item>crit_dice</item>
 		<item>crunchy_roll</item>
+		<item>cw_seed</item>
 		<item>dailymotion</item>
 		<item>did_you_know</item>
 		<item>directtv</item>
@@ -8564,6 +8644,7 @@
 		<item>fx_now</item>
 		<item>gamers_db</item>
 		<item>gift_wallet</item>
+		<item>globoplay</item>
 		<item>google_play_games</item>
 		<item>gsc_cinemas</item>
 		<item>hbo</item>
@@ -8981,6 +9062,7 @@
 	</string-array>
 
 	<string-array name="game_adventure">
+		<item>adventure_llama</item>
 		<item>ark_survival_evolved</item>
 		<item>case_animatronics</item>
 		<item>cats_are_liquids</item>
@@ -9166,6 +9248,7 @@
 		<item>poolbilliard</item>
 		<item>pou</item>
 		<item>puissance_4</item>
+		<item>simpsons</item>
 		<item>supertank</item>
 		<item>thisissand</item>
 		<item>township</item>
@@ -9427,6 +9510,7 @@
 
 	<string-array name="game_trivia">
 		<item>flags</item>
+		<item>heads_up</item>
 		<item>hq</item>
 		<item>logo_quiz</item>
 		<item>ninety_four_degrees</item>
@@ -9576,6 +9660,7 @@
 		<item>astrology_horoscope</item>
 		<item>be_my_eyes</item>
 		<item>best_buy_home</item>
+		<item>beta_maniac</item>
 		<item>caf</item>
 		<item>catholictv</item>
 		<item>cliqq</item>
@@ -9673,6 +9758,7 @@
 		<item>olacabs</item>
 		<item>opoli</item>
 		<item>paris_airport</item>
+		<item>park_mobile</item>
 		<item>parkmobile</item>
 		<item>plugshare</item>
 		<item>rapido</item>
@@ -9982,7 +10068,6 @@
 		<item>bottom_quick_settings</item>
 		<item>bubble_cloud_wear_os</item>
 		<item>bubblee_pro</item>
-		<item>c</item>
 		<item>cake_wallpaper</item>
 		<item>calculator_vault</item>
 		<item>candoy_iconpack</item>
@@ -10145,6 +10230,7 @@
 		<item>minimal_iconpack</item>
 		<item>minimal_o_iconpack</item>
 		<item>minimalist_iconpack</item>
+		<item>minimalist_wallpaper</item>
 		<item>minimo_iconpack</item>
 		<item>minma_iconpack</item>
 		<item>minty__pro_iconpack</item>
@@ -10200,6 +10286,7 @@
 		<item>os_style_launcher</item>
 		<item>os_x_iconpack</item>
 		<item>oxs_iconpack</item>
+		<item>oxygen_os_iconpack</item>
 		<item>oxypie</item>
 		<item>p_iconpack</item>
 		<item>painting_iconpack</item>
@@ -10219,6 +10306,7 @@
 		<item>pixel_pie</item>
 		<item>pixel_pie_3d</item>
 		<item>pixel_pie_iconpack</item>
+		<item>pixel_q_iconpack</item>
 		<item>pixel_ring_iconpack</item>
 		<item>pixelful</item>
 		<item>pixio_iconpack</item>
@@ -10248,6 +10336,7 @@
 		<item>rimbo_iconpack</item>
 		<item>ringer_modes</item>
 		<item>rocsy_iconpack</item>
+		<item>rondo</item>
 		<item>ronio_iconpack</item>
 		<item>rootless_pixel_launcher</item>
 		<item>round_screen_corner_pro</item>
@@ -10313,6 +10402,7 @@
 		<item>vlyaricons_iconpack</item>
 		<item>vodafone_wallpaper</item>
 		<item>votus_iconpack</item>
+		<item>voxel_iconpack</item>
 		<item>wall_of_fame</item>
 		<item>wall_x</item>
 		<item>walladict_pro</item>
@@ -10441,6 +10531,7 @@
 		<item>picsay</item>
 		<item>pictrove_2</item>
 		<item>pixabay</item>
+		<item>pixaloop</item>
 		<item>pixellab</item>
 		<item>pixlr</item>
 		<item>pixomatic</item>
@@ -10488,7 +10579,6 @@
 		<item>amazon_drive</item>
 		<item>anydo</item>
 		<item>app_backup_pro</item>
-		<item>app_share_send</item>
 		<item>assist_mapper</item>
 		<item>assistant_for_android</item>
 		<item>asus_calculator</item>
@@ -10553,7 +10643,6 @@
 		<item>diaro</item>
 		<item>digical</item>
 		<item>digilocker</item>
-		<item>drive</item>
 		<item>drive_sync</item>
 		<item>dropbox</item>
 		<item>droper</item>
@@ -10742,6 +10831,7 @@
 		<item>samsung_calendar_9</item>
 		<item>samsung_email</item>
 		<item>samsung_flow</item>
+		<item>samsung_mobile_print</item>
 		<item>samsung_notes</item>
 		<item>samsung_pdf</item>
 		<item>sandisk_memory_zone</item>
@@ -10935,6 +11025,7 @@
 		<item>snapchat</item>
 		<item>spetinfo</item>
 		<item>stackexchange</item>
+		<item>talon_for_twitter</item>
 		<item>tantan</item>
 		<item>tapatalk</item>
 		<item>teazit</item>
@@ -10958,6 +11049,7 @@
 		<item>basketball_24</item>
 		<item>bcci</item>
 		<item>bein_sport_connect</item>
+		<item>betclic</item>
 		<item>boxing_itimer</item>
 		<item>cbs_sports</item>
 		<item>cricbuzz</item>
@@ -11114,6 +11206,7 @@
 		<item>edge_screen_s9</item>
 		<item>ef_cleaner</item>
 		<item>emoji_keyboard</item>
+		<item>enedis</item>
 		<item>epson_iprint</item>
 		<item>eset_antivirus</item>
 		<item>exodus_privacy</item>
@@ -11260,6 +11353,7 @@
 		<item>oxygen_updater</item>
 		<item>oxygen_updater_old</item>
 		<item>phone</item>
+		<item>ping_tools</item>
 		<item>pixel_battery_saver</item>
 		<item>play_code</item>
 		<item>play_keyboard</item>
@@ -11269,6 +11363,7 @@
 		<item>prixtel</item>
 		<item>pro_bar</item>
 		<item>protectfile_pro</item>
+		<item>protonvpn</item>
 		<item>pushbullet_portal</item>
 		<item>qget</item>
 		<item>qihoo_security</item>
@@ -11583,7 +11678,6 @@
 		<item>beauty</item>
 		<item>books_and_reference</item>
 		<item>business</item>
-		<item>c</item>
 		<item>comics</item>
 		<item>communication</item>
 		<item>dating</item>
