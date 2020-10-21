@@ -81,7 +81,7 @@
     <item component="ComponentInfo{com.android.dialer/com.oneplus.contacts.activities.OPDialtactsActivity}" drawable="phone" />
     <item component="ComponentInfo{com.android.documentsui/com.android.documentsui.LauncherActivity}" drawable="download" />
     <item component="ComponentInfo{com.android.providers.downloads.ui/com.android.providers.downloads.ui.DownloadList}" drawable="download2" />
-    <item component="ComponentInfo{com.valvesoftware.android.steam.community/com.valvesoftware.android.steam.community.activity.MainActivity}" drawable="steam"/>
+    <item component="ComponentInfo{com.valvesoftware.android.steam.community/com.valvesoftware.android.steam.community.activity.MainActivity}" drawable="steam_v2"/>
     <item component="ComponentInfo{com.facebook.katana/com.facebook.katana.LoginActivity}" drawable="facebook"/>
     <item component="ComponentInfo{com.facebook.lite/com.facebook.lite.MainActivity}" drawable="facebook_lite"/>
     <item component="ComponentInfo{com.facebook.mlite/com.facebook.mlite.coreui.view.MainActivity}" drawable="messenger_lite"/>
@@ -1380,6 +1380,7 @@
     <item component="ComponentInfo{com.olacabs.customer/com.olacabs.customer.ui.SplashActivity}" drawable="olacabs"/>
     <item component="ComponentInfo{com.slacker.radio/com.slacker.gui.pivot.activities.PreLaunchActivity}" drawable="slacker_radio"/>
     <item component="ComponentInfo{com.sonyliv/tv.accedo.via.android.app.splash.InitializationActivity}" drawable="sonyliv"/>
+    <item component="ComponentInfo{com.sonyliv/com.sonyliv.ui.splash.SplashActivity}" drawable="sonyliv"/>
     <item component="ComponentInfo{com.tapastic/com.tapastic.ui.intro.SplashActivity}" drawable="tapastic"/>
     <item component="ComponentInfo{com.ubisoft.assassinscreed.identity/com.acid.plugins.activity.BridgeActivity}" drawable="ac_identity"/>
     <item component="ComponentInfo{com.absspartan.pro/com.tech387.spartan.splash.SplashActivity}" drawable="spartan_six_pack_pro"/>
@@ -1608,6 +1609,7 @@
     <item component="ComponentInfo{com.mventus.selfcare.activity/com.mventus.selfcare.activity.MainActivity}" drawable="my_vodafone"/>
     <item component="ComponentInfo{com.spetinfo.spetinfo/com.spetinfo.spetinfo.Spetinfo}" drawable="spetinfo"/>
     <item component="ComponentInfo{com.jio.jioplay.tv/com.jio.jioplay.tv.activities.IndexActivity}" drawable="jiotv"/>
+    <item component="ComponentInfo{com.jio.jioplay.tv/com.jio.media.tv.ui.permission_onboarding.PermissionActivity}" drawable="jiotv"/>
     <item component="ComponentInfo{com.oxigen.futurepay/com.oxigen.futurepay.ui.activities.SplashActivity}" drawable="future_pay"/>
     <item component="ComponentInfo{com.bankislam.mobile/com.bankislam.mobile.MainActivity}" drawable="bank_islam"/>
     <item component="ComponentInfo{photo.video.instasaveapp/photo.video.instasaveapp.SplashActivity}" drawable="fastsave"/>
@@ -4211,6 +4213,7 @@
     <item component="ComponentInfo{com.samsung.android.forest/com.samsung.android.forest.launcher.LauncherActivity}" drawable="samsung_wellbeing"/>
     <item component="ComponentInfo{com.dolby.dolby234/com.dolby.sessions.Launcher}" drawable="dolby_on"/>
     <item component="ComponentInfo{com.espn.score_center/com.espn.sportscenter.ui.EspnLaunchActivity}" drawable="espn"/>
+    <item component="ComponentInfo{com.espn.score_center/com.espn.sportscenter.ui.LaunchActivity}" drawable="espn"/>
     <item component="ComponentInfo{com.fb.fluid/com.fb.fluid.ui.ActivitySettings}" drawable="fluid_ng"/>
     <item component="ComponentInfo{com.fandango/com.fandango.Fandango}" drawable="fandango"/>
     <item component="ComponentInfo{tv.fubo.mobile/tv.fubo.mobile.presentation.onboarding.dispatch.controller.DispatchActivity}" drawable="fubo_tv"/>
@@ -4348,5 +4351,23 @@
     <item component="ComponentInfo{com.ubisoft.dance.JustDance/com.ubisoft.dance.JustDance.JustDanceLaunchActivity}" drawable="just_dance_now"/>
     <item component="ComponentInfo{io.voodoo.holeio/io.voodoo.splashscreenunity.SplashscreenActivity}" drawable="hole_io"/>
     <item component="ComponentInfo{io.voodoo.holeio/io.voodoo.holeio.MainActivity}" drawable="hole_io"/>
+    <item component="ComponentInfo{io.voodoo.holeio/io.voodoo.holeio.MainActivity}" drawable="hole_io"/>
+    <item component="ComponentInfo{com.indigomadina.tabloid/com.indigomadina.tabloid.activities.SplashActivity}" drawable="tabloid"/>
+    <item component="ComponentInfo{com.rhmsoft.pulsar/com.rhmsoft.play.MainActivity}" drawable="pulsar"/>
+    <item component="ComponentInfo{md.your/md.your.Launcher}" drawable="your_md"/>
+    <item component="ComponentInfo{com.grppl.android.shell.halifax/com.halifax.halifax.GrappleActivity}" drawable="halifax"/>
+    <item component="ComponentInfo{com.fangleness.smartbookmark/com.fangleness.smartbookmark.presentation.activity.MainActivity}" drawable="smart_bookmark"/>
+    <item component="ComponentInfo{com.sp.protector.free/com.sp.protector.free.StartActivity}" drawable="app_lock"/>
+    <item component="ComponentInfo{com.att.tv/com.att.mobile.dfw.activities.StartupActivity}" drawable="att_tv"/>
+    <item component="ComponentInfo{com.valvesoftware.steamlink/com.valvesoftware.steamlink.SteamShellActivity}" drawable="steam_link"/>
+    <item component="ComponentInfo{com.okcupid.okcupid/com.okcupid.okcupid.activity.MainActivity}" drawable="ok_cupid"/>
+    <item component="ComponentInfo{com.accuweather.android/com.accuweather.android.activities.SplashActivity}" drawable="accuweather"/>
+    <item component="ComponentInfo{com.zzkko/com.zzkko.bussiness.login.ui.WelcomeActivity}" drawable="shein"/>
+    <item component="ComponentInfo{br.com.rodrigokolb.realdrum/br.com.rodrigokolb.realdrum.RealDrumActivity}" drawable="real_drum"/>
+    <item component="ComponentInfo{br.com.rodrigokolb.realdrum/br.com.rodrigokolb.realdrum.MainActivity}" drawable="real_drum"/>
+    <item component="ComponentInfo{com.burakgon.dnschanger/com.burakgon.dnschanger.activities.LauncherActivity}" drawable="dnschanger2"/>
+    <item component="ComponentInfo{com.burakgon.dnschanger/com.burakgon.dnschanger.activities.MainActivity}" drawable="dnschanger2"/>
+    <item component="ComponentInfo{com.burakgon.dnschanger/com.burakgon.dnschanger.activities.ChangeDNSActivity}" drawable="dnschanger2"/>
+    <item component="ComponentInfo{co.brainly/com.brainly.StartActivity}" drawable="brainly"/>
 
 </resources>

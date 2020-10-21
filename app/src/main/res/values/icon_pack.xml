@@ -229,6 +229,7 @@
 		<item>app_cloner</item>
 		<item>app_drawer_for_android</item>
 		<item>app_freezer</item>
+		<item>app_lock</item>
 		<item>app_ops</item>
 		<item>app_ops_alt</item>
 		<item>app_sale</item>
@@ -313,6 +314,7 @@
 		<item>atmosphere</item>
 		<item>atomic_clock</item>
 		<item>atomicclock</item>
+		<item>att_tv</item>
 		<item>auchan_drive</item>
 		<item>audible</item>
 		<item>audio_player</item>
@@ -549,6 +551,7 @@
 		<item>bq_soundrecorder</item>
 		<item>brain_fm</item>
 		<item>brain_out</item>
+		<item>brainly</item>
 		<item>brave</item>
 		<item>bravo_poker_live</item>
 		<item>brawl_stars</item>
@@ -1004,6 +1007,7 @@
 		<item>dmp</item>
 		<item>dn_art</item>
 		<item>dnschanger</item>
+		<item>dnschanger2</item>
 		<item>do_it_later</item>
 		<item>doctolib</item>
 		<item>dodol_locker</item>
@@ -1668,6 +1672,7 @@
 		<item>h3h3</item>
 		<item>habits</item>
 		<item>hago</item>
+		<item>halifax</item>
 		<item>halo_iconpack</item>
 		<item>hangman_premium</item>
 		<item>hangout</item>
@@ -2600,6 +2605,7 @@
 		<item>office_depot</item>
 		<item>office_suite</item>
 		<item>official_twrp_app</item>
+		<item>ok_cupid</item>
 		<item>ola_money</item>
 		<item>olacabs</item>
 		<item>olmo_iconpack</item>
@@ -2926,6 +2932,7 @@
 		<item>pubg</item>
 		<item>puffin_browser</item>
 		<item>puissance_4</item>
+		<item>pulsar</item>
 		<item>pulsepoint</item>
 		<item>pure_iconpack</item>
 		<item>purple_wallpapers</item>
@@ -2998,6 +3005,7 @@
 		<item>readera</item>
 		<item>real__calc</item>
 		<item>real_cricket_18</item>
+		<item>real_drum</item>
 		<item>real_racing</item>
 		<item>real_racing_3</item>
 		<item>real_steel</item>
@@ -3270,6 +3278,7 @@
 		<item>sharecloud</item>
 		<item>shazam</item>
 		<item>shazam_lite</item>
+		<item>shein</item>
 		<item>shimeji</item>
 		<item>sho_anytime</item>
 		<item>shopback</item>
@@ -3332,6 +3341,7 @@
 		<item>slither_io</item>
 		<item>slotomania</item>
 		<item>smart_account</item>
+		<item>smart_bookmark</item>
 		<item>smart_home_manager</item>
 		<item>smart_launcher</item>
 		<item>smart_life</item>
@@ -3452,6 +3462,8 @@
 		<item>stealth_player</item>
 		<item>steam</item>
 		<item>steam_black</item>
+		<item>steam_link</item>
+		<item>steam_v2</item>
 		<item>stellar_fox</item>
 		<item>stellio</item>
 		<item>step_set_go</item>
@@ -3525,6 +3537,7 @@
 		<item>t_mobile_tuesdays</item>
 		<item>t_mobile_voicemail</item>
 		<item>tabata_timer</item>
+		<item>tabloid</item>
 		<item>tachiyomi</item>
 		<item>talking_tom_gold_run</item>
 		<item>talon_for_twitter</item>
@@ -4018,6 +4031,7 @@
 		<item>youcut</item>
 		<item>yougov</item>
 		<item>youper</item>
+		<item>your_md</item>
 		<item>yousician</item>
 		<item>youtube</item>
 		<item>youtube_creator</item>
@@ -4306,6 +4320,7 @@
 		<item>app_cloner</item>
 		<item>app_drawer_for_android</item>
 		<item>app_freezer</item>
+		<item>app_lock</item>
 		<item>app_ops</item>
 		<item>app_ops_alt</item>
 		<item>app_sale</item>
@@ -4390,6 +4405,7 @@
 		<item>atmosphere</item>
 		<item>atomic_clock</item>
 		<item>atomicclock</item>
+		<item>att_tv</item>
 		<item>auchan_drive</item>
 		<item>audible</item>
 		<item>audio_player</item>
@@ -4626,6 +4642,7 @@
 		<item>bq_soundrecorder</item>
 		<item>brain_fm</item>
 		<item>brain_out</item>
+		<item>brainly</item>
 		<item>brave</item>
 		<item>bravo_poker_live</item>
 		<item>brawl_stars</item>
@@ -5081,6 +5098,7 @@
 		<item>dmp</item>
 		<item>dn_art</item>
 		<item>dnschanger</item>
+		<item>dnschanger2</item>
 		<item>do_it_later</item>
 		<item>doctolib</item>
 		<item>dodol_locker</item>
@@ -5745,6 +5763,7 @@
 		<item>h3h3</item>
 		<item>habits</item>
 		<item>hago</item>
+		<item>halifax</item>
 		<item>halo_iconpack</item>
 		<item>hangman_premium</item>
 		<item>hangout</item>
@@ -6677,6 +6696,7 @@
 		<item>office_depot</item>
 		<item>office_suite</item>
 		<item>official_twrp_app</item>
+		<item>ok_cupid</item>
 		<item>ola_money</item>
 		<item>olacabs</item>
 		<item>olmo_iconpack</item>
@@ -7003,6 +7023,7 @@
 		<item>pubg</item>
 		<item>puffin_browser</item>
 		<item>puissance_4</item>
+		<item>pulsar</item>
 		<item>pulsepoint</item>
 		<item>pure_iconpack</item>
 		<item>purple_wallpapers</item>
@@ -7075,6 +7096,7 @@
 		<item>readera</item>
 		<item>real__calc</item>
 		<item>real_cricket_18</item>
+		<item>real_drum</item>
 		<item>real_racing</item>
 		<item>real_racing_3</item>
 		<item>real_steel</item>
@@ -7347,6 +7369,7 @@
 		<item>sharecloud</item>
 		<item>shazam</item>
 		<item>shazam_lite</item>
+		<item>shein</item>
 		<item>shimeji</item>
 		<item>sho_anytime</item>
 		<item>shopback</item>
@@ -7409,6 +7432,7 @@
 		<item>slither_io</item>
 		<item>slotomania</item>
 		<item>smart_account</item>
+		<item>smart_bookmark</item>
 		<item>smart_home_manager</item>
 		<item>smart_launcher</item>
 		<item>smart_life</item>
@@ -7529,6 +7553,8 @@
 		<item>stealth_player</item>
 		<item>steam</item>
 		<item>steam_black</item>
+		<item>steam_link</item>
+		<item>steam_v2</item>
 		<item>stellar_fox</item>
 		<item>stellio</item>
 		<item>step_set_go</item>
@@ -7602,6 +7628,7 @@
 		<item>t_mobile_tuesdays</item>
 		<item>t_mobile_voicemail</item>
 		<item>tabata_timer</item>
+		<item>tabloid</item>
 		<item>tachiyomi</item>
 		<item>talking_tom_gold_run</item>
 		<item>talon_for_twitter</item>
@@ -8095,6 +8122,7 @@
 		<item>youcut</item>
 		<item>yougov</item>
 		<item>youper</item>
+		<item>your_md</item>
 		<item>yousician</item>
 		<item>youtube</item>
 		<item>youtube_creator</item>
@@ -8156,43 +8184,20 @@
 	</string-array>
 
 	<string-array name="recently_added">
-		<item>adventure_llama</item>
-		<item>aids</item>
-		<item>amc</item>
-		<item>ancestry</item>
-		<item>aurora_sms</item>
-		<item>beaker</item>
-		<item>beta_maniac</item>
-		<item>betclic</item>
-		<item>cw_seed</item>
-		<item>dual_sim_selector</item>
-		<item>enedis</item>
-		<item>globoplay</item>
-		<item>happymod</item>
-		<item>heads_up</item>
-		<item>imusicplayer</item>
-		<item>n_notifier</item>
-		<item>ocean_wallpaper</item>
-		<item>oxygen_os_iconpack</item>
-		<item>park_mobile</item>
-		<item>ping_tools</item>
-		<item>pixaloop</item>
-		<item>pixel_q_iconpack</item>
-		<item>protonvpn</item>
-		<item>purple_wallpapers</item>
-		<item>rondo</item>
-		<item>samsung_mobile_print</item>
-		<item>samsung_routines</item>
-		<item>simpsons</item>
-		<item>talon_for_twitter</item>
-		<item>tct_phoneguard</item>
-		<item>tct_radio</item>
-		<item>tct_soundrecorder</item>
-		<item>technological_keyboard_theme</item>
-		<item>voxel_iconpack</item>
-		<item>winter_wallpaper</item>
-		<item>xiaomi_mipicks</item>
-		<item>yousician</item>
+		<item>app_lock</item>
+		<item>att_tv</item>
+		<item>brainly</item>
+		<item>dnschanger2</item>
+		<item>halifax</item>
+		<item>ok_cupid</item>
+		<item>pulsar</item>
+		<item>real_drum</item>
+		<item>shein</item>
+		<item>smart_bookmark</item>
+		<item>steam_link</item>
+		<item>steam_v2</item>
+		<item>tabloid</item>
+		<item>your_md</item>
 	</string-array>
 
 	<string-array name="Squirclx">
@@ -8499,6 +8504,7 @@
 	</string-array>
 
 	<string-array name="dating">
+		<item>ok_cupid</item>
 		<item>once</item>
 	</string-array>
 
@@ -8508,6 +8514,7 @@
 		<item>babbel</item>
 		<item>beaker</item>
 		<item>blackboard</item>
+		<item>brainly</item>
 		<item>brilliant</item>
 		<item>busuu</item>
 		<item>cambridge_grammar</item>
@@ -8604,6 +8611,7 @@
 		<item>amd_link</item>
 		<item>amolet_wallpapers_4k_2</item>
 		<item>arte</item>
+		<item>att_tv</item>
 		<item>autodesk_sketchbook</item>
 		<item>bbc_iplayer</item>
 		<item>bitmoji</item>
@@ -8709,6 +8717,8 @@
 		<item>sling_tv</item>
 		<item>sonyliv</item>
 		<item>steam</item>
+		<item>steam_link</item>
+		<item>steam_v2</item>
 		<item>super_guida_tv</item>
 		<item>tata_sky_mobile</item>
 		<item>the_chive</item>
@@ -8823,6 +8833,7 @@
 		<item>golden_1</item>
 		<item>google_pay</item>
 		<item>groww</item>
+		<item>halifax</item>
 		<item>hdfc_bank</item>
 		<item>hsbc</item>
 		<item>hype</item>
@@ -9629,6 +9640,7 @@
 		<item>white_noise</item>
 		<item>withings_health_mate</item>
 		<item>youper</item>
+		<item>your_md</item>
 		<item>yuka</item>
 	</string-array>
 
@@ -9874,10 +9886,12 @@
 		<item>pi_music_player</item>
 		<item>poweramp</item>
 		<item>poweraudio</item>
+		<item>pulsar</item>
 		<item>quick_lyric</item>
 		<item>radio_com</item>
 		<item>radio_disney</item>
 		<item>radio_roks</item>
+		<item>real_drum</item>
 		<item>retro_music_player</item>
 		<item>samsung_music</item>
 		<item>samsung_sound_assistant</item>
@@ -10380,6 +10394,7 @@
 		<item>swiftdark_substratum</item>
 		<item>swiss_iconpack</item>
 		<item>system_dark_mode</item>
+		<item>tabloid</item>
 		<item>tapet</item>
 		<item>the_round_table_iconpack</item>
 		<item>theme_for_huawei_honor</item>
@@ -10840,6 +10855,7 @@
 		<item>self_notes</item>
 		<item>sendanywhere</item>
 		<item>skanapp_plus</item>
+		<item>smart_bookmark</item>
 		<item>smart_home_manager</item>
 		<item>solid_explorer</item>
 		<item>squid</item>
@@ -10954,6 +10970,7 @@
 		<item>retailmenot</item>
 		<item>samsung_shop</item>
 		<item>scan_and_go</item>
+		<item>shein</item>
 		<item>shopback</item>
 		<item>shopee</item>
 		<item>showroomprive</item>
@@ -11116,6 +11133,7 @@
 		<item>app2sd</item>
 		<item>app_backup_restore</item>
 		<item>app_backup_share</item>
+		<item>app_lock</item>
 		<item>app_ops</item>
 		<item>apps2fire</item>
 		<item>aruler</item>
@@ -11195,6 +11213,7 @@
 		<item>direct_energie</item>
 		<item>diskdigger</item>
 		<item>dnschanger</item>
+		<item>dnschanger2</item>
 		<item>download_instant_dp</item>
 		<item>dr_web</item>
 		<item>drm_info</item>

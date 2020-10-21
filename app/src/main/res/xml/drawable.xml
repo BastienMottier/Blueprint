@@ -232,6 +232,7 @@
 		<item drawable="app_cloner" />
 		<item drawable="app_drawer_for_android" />
 		<item drawable="app_freezer" />
+		<item drawable="app_lock" />
 		<item drawable="app_ops" />
 		<item drawable="app_ops_alt" />
 		<item drawable="app_sale" />
@@ -316,6 +317,7 @@
 		<item drawable="atmosphere" />
 		<item drawable="atomic_clock" />
 		<item drawable="atomicclock" />
+		<item drawable="att_tv" />
 		<item drawable="auchan_drive" />
 		<item drawable="audible" />
 		<item drawable="audio_player" />
@@ -552,6 +554,7 @@
 		<item drawable="bq_soundrecorder" />
 		<item drawable="brain_fm" />
 		<item drawable="brain_out" />
+		<item drawable="brainly" />
 		<item drawable="brave" />
 		<item drawable="bravo_poker_live" />
 		<item drawable="brawl_stars" />
@@ -1007,6 +1010,7 @@
 		<item drawable="dmp" />
 		<item drawable="dn_art" />
 		<item drawable="dnschanger" />
+		<item drawable="dnschanger2" />
 		<item drawable="do_it_later" />
 		<item drawable="doctolib" />
 		<item drawable="dodol_locker" />
@@ -1671,6 +1675,7 @@
 		<item drawable="h3h3" />
 		<item drawable="habits" />
 		<item drawable="hago" />
+		<item drawable="halifax" />
 		<item drawable="halo_iconpack" />
 		<item drawable="hangman_premium" />
 		<item drawable="hangout" />
@@ -2604,6 +2609,7 @@
 		<item drawable="office_depot" />
 		<item drawable="office_suite" />
 		<item drawable="official_twrp_app" />
+		<item drawable="ok_cupid" />
 		<item drawable="ola_money" />
 		<item drawable="olacabs" />
 		<item drawable="olmo_iconpack" />
@@ -2930,6 +2936,7 @@
 		<item drawable="pubg" />
 		<item drawable="puffin_browser" />
 		<item drawable="puissance_4" />
+		<item drawable="pulsar" />
 		<item drawable="pulsepoint" />
 		<item drawable="pure_iconpack" />
 		<item drawable="purple_wallpapers" />
@@ -3002,6 +3009,7 @@
 		<item drawable="readera" />
 		<item drawable="real__calc" />
 		<item drawable="real_cricket_18" />
+		<item drawable="real_drum" />
 		<item drawable="real_racing" />
 		<item drawable="real_racing_3" />
 		<item drawable="real_steel" />
@@ -3274,6 +3282,7 @@
 		<item drawable="sharecloud" />
 		<item drawable="shazam" />
 		<item drawable="shazam_lite" />
+		<item drawable="shein" />
 		<item drawable="shimeji" />
 		<item drawable="sho_anytime" />
 		<item drawable="shopback" />
@@ -3336,6 +3345,7 @@
 		<item drawable="slither_io" />
 		<item drawable="slotomania" />
 		<item drawable="smart_account" />
+		<item drawable="smart_bookmark" />
 		<item drawable="smart_home_manager" />
 		<item drawable="smart_launcher" />
 		<item drawable="smart_life" />
@@ -3456,6 +3466,8 @@
 		<item drawable="stealth_player" />
 		<item drawable="steam" />
 		<item drawable="steam_black" />
+		<item drawable="steam_link" />
+		<item drawable="steam_v2" />
 		<item drawable="stellar_fox" />
 		<item drawable="stellio" />
 		<item drawable="step_set_go" />
@@ -3529,6 +3541,7 @@
 		<item drawable="t_mobile_tuesdays" />
 		<item drawable="t_mobile_voicemail" />
 		<item drawable="tabata_timer" />
+		<item drawable="tabloid" />
 		<item drawable="tachiyomi" />
 		<item drawable="talking_tom_gold_run" />
 		<item drawable="talon_for_twitter" />
@@ -4022,6 +4035,7 @@
 		<item drawable="youcut" />
 		<item drawable="yougov" />
 		<item drawable="youper" />
+		<item drawable="your_md" />
 		<item drawable="yousician" />
 		<item drawable="youtube" />
 		<item drawable="youtube_creator" />
