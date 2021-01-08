@@ -1,27 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--
-  ~ Copyright (c) 2018. Jahir Fiquitiva
-  ~
-  ~ Licensed under the CreativeCommons Attribution-ShareAlike
-  ~ 4.0 International License. You may not use this file except in compliance
-  ~ with the License. You may obtain a copy of the License at
-  ~
-  ~    http://creativecommons.org/licenses/by-sa/4.0/legalcode
-  ~
-  ~ Unless required by applicable law or agreed to in writing, software
-  ~ distributed under the License is distributed on an "AS IS" BASIS,
-  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-  ~ See the License for the specific language governing permissions and
-  ~ limitations under the License.
-  -->
-
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
-        android:width="24dp"
-        android:height="24dp"
-        android:viewportWidth="24"
-        android:viewportHeight="24">
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <path
+        android:fillColor="#000000"
+        android:pathData="M11.4265 3.18077C11.7709 2.93974 12.2291 2.93974 12.5735 3.18077L22.5735 10.1808L21.4265 11.8192L12 5.22066L2.57347 11.8192L1.42654 10.1808L11.4265 3.18077Z" />
 
     <path
-        android:fillColor="#fff"
-        android:pathData="M10,20.5v-6h4v6h5v-8h3l-10-9l-10,9h3v8H10z" />
+        android:fillColor="#000000"
+        android:pathData="M4 20V12H6V19H10V16C10 14.8954 10.8954 14 12 14C13.1046 14 14 14.8954 14 16V19H18V12H20V20C20 20.5523 19.5523 21 19 21H5C4.44772 21 4 20.5523 4 20Z" />
 </vector>
