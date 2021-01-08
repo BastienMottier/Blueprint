@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <version title="2.2.0"/>
+    <item text="Update google calendar icon"/>
+    <item text="Update some adobe apps icon"/>
+    <item text="Update some microsoft apps icon"/>
+    <item text="Support new apps"/>
+    <version title="2.1.10"/>
+    <item text="Update and add some icons"/>
+    <version title="2.1.9"/>
+    <item text="17 new apps supported"/>
     <version title="2.1.8"/>
     <item text="44 new apps supported"/>
     <version title="2.1.7"/>
