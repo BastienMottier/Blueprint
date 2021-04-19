@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <version title="2.2.3"/>
+    <item text="Add 25 new icons"/>
+    <version title="2.2.2"/>
+    <item text="Update wallpapers url"/>
+    <version title="2.2.1"/>
+    <item text="59 new icons"/>
     <version title="2.2.0"/>
     <item text="Update google calendar icon"/>
     <item text="Update some adobe apps icon"/>
